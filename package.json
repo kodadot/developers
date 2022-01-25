@@ -5,6 +5,9 @@
   "repository": "git@github.com:kodadot/docs.git",
   "author": "Matej yangwao <ybdaba@gmail.com>",
   "license": "MIT",
+  "engines": {
+    "node": ">=16.13.2"
+   },
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
