@@ -1,5 +1,5 @@
 # docs
-We need document our KodaDot engine
+We need to document our KodaDot engine running at https://kodadot.xyz with repository at https://github.com/kodadot/nft-gallery/
 It's accessible at https://docs.kodadot.xyz
 
 
