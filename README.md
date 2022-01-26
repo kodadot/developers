@@ -9,17 +9,19 @@ It's accessible at https://docs.kodadot.xyz
 
 ### To run it locally
 
-- clone git repository locally, best through Github Desktop
-  - OR in command line, run `git clone git@github.com:kodadot/docs.git` 
-- enter directory `docs/`
-- in command line run commands bellow
+- clone git repository locally
+  - Easy - best through Github Desktop, clone `git@github.com:kodadot/docs.git`
+  - Hard - in command line, run `git clone git@github.com:kodadot/docs.git` 
+
+- open directory `docs/` in your command line 
+- in same command line run commands bellow
 
 ```bash
 yarn
 yarn docs:dev
 ```
 
-- Then navigate to the https://localhost:8080 
+- Then navigate in your browser to the https://localhost:8080 
 - You'll see preview of your current **docs** running
 
 ### How to Edit
