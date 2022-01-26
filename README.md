@@ -10,7 +10,7 @@ It's accessible at https://docs.kodadot.xyz
 ### To run it locally
 
 - clone git repository locally, best through Github Desktop
--- OR in command line, run `git@github.com:kodadot/docs.git` 
+  - OR in command line, run `git@github.com:kodadot/docs.git` 
 - enter directory `docs/`
 - in command line run commands bellow
 
