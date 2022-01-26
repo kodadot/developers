@@ -2,7 +2,7 @@
 
 ## Docs are being created
 
-![KodaDot_logo_v3](assets/KODA_v3.png)
+![KodaDot_logo_v3](./assets/KODA_v3.png)
 
 We are migrating our old resources from 
 - [kodadot.gitbook.io](https://kodadot.gitbook.io)
