@@ -1,21 +1,21 @@
 # Hello KodaPress
 
 ## Docs are being created
-We are migrating our old resources from 
-- https://kodadot.gitbook.io/
-- https://github.com/kodadot/nft-gallery/wiki
 
-It may take while we are finished migrating.
+We are migrating our old resources from 
+- [kodadot.gitbook.io](https://kodadot.gitbook.io)
+- [github.com/kodadot/nft-gallery/wiki](https://github.com/kodadot/nft-gallery/wiki)
+
+It may take while we are finished migration from old sources.
 
 ## What is KodaDot?
 
-- KodaDot is developed as open source NFT marketplace and ultimately created as public goods of Internet.
+- [KodaDot](https://kodadot.xyz) is developed as open source NFT marketplace and ultimately created as public goods of Internet.
 
 ### Contribute to the KodaDot as developer
 - We offer bounties for solving issues in our Github repository at [kodadot/nft-gallery](https://github.com/kodadot/nft-gallery/issues/) and successfully creating pull-requests against our upstream branch.
-
+- You can learn more at [Contributing.md](https://github.com/kodadot/nft-gallery/blob/main/CONTRIBUTING.md)
  
-
 ### How to Simple Mint
 - [How to Simple Mint](simple_mint.md)
 
