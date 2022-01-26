@@ -20,7 +20,7 @@ It's accessible at https://docs.kodadot.xyz
 yarn
 yarn docs:dev
 ```
-IF yarn command is not found, try use `npm`
+IF _yarn command is not found_, try to use `npm`
 ```bash
 npm i
 npm run docs:dev
