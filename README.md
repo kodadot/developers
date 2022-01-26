@@ -20,6 +20,11 @@ It's accessible at https://docs.kodadot.xyz
 yarn
 yarn docs:dev
 ```
+IF yarn command is not found, try use `npm`
+```bash
+npm i
+npm run docs:dev
+```
 
 - Then navigate in your browser to the https://localhost:8080 
 - You'll see preview of your current **docs** running
