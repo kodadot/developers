@@ -1,6 +1,7 @@
 module.exports = {
   title: 'KodaDot Documentation',
   description: 'Better understanding KodaDot',
+  public: '${sourceDir}/assets',
   themeConfig: {
     navbar: [
       {
