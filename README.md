@@ -17,13 +17,13 @@ It's accessible at https://docs.kodadot.xyz
 - in same command line run commands bellow
 
 ```bash
-yarn
-yarn docs:dev
-```
-IF _yarn command is not found_, try to use `npm`
-```bash
 npm i
 npm run docs:dev
+```
+- IF do you like yarn (optional)
+```bash
+yarn
+yarn docs:dev
 ```
 
 - Then navigate in your browser to the https://localhost:8080 
