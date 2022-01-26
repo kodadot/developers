@@ -3,7 +3,19 @@ We need to document our KodaDot engine running at https://kodadot.xyz with repos
 It's accessible at https://docs.kodadot.xyz
 
 
+### Prequiremnets
+- Having GIT client, we reccomend Github Desktop https://desktop.github.com/
+- Installed NodeJs https://nodejs.org/en/
+
+
+
+
 ### To run it locally
+
+- clone git repository locally, best through github desktop
+-- in command line, run `git@github.com:kodadot/docs.git` 
+- enter directory `docs/`
+- in command line run commands bellow
 
 ```bash
 yarn
