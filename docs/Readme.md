@@ -26,6 +26,6 @@ It may take while we are finished migration from old sources.
 - [How to Create Wallet](how_to_create_wallet.md)
 
 ## How to contribute 
-- [How to join our discord](https://discord.gg/kodadot)
+- You can join our discord [here](https://discord.gg/kodadot)
 
 
