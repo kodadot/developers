@@ -27,5 +27,5 @@ It may take while we are finished migration from old sources.
 
 ## How to contribute 
 - You can join our discord [here](https://discord.gg/kodadot)
-
+- If you want to help us contributing to this docs, you can be rewarded as well.
 
