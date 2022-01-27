@@ -4,7 +4,8 @@
 
 - We'll have 2 tutorials to choose from, either you can watch video tutorial in english on our youtube channel, or you can follow the step by step tutorial. The tutorial on youtube channel will be avalaible soon.
 
-
+### Video tutorial
+- 
 
 ### Step by step tutorial
 - Go to https://polkadot.js.org/extension/
