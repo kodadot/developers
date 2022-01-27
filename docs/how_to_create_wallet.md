@@ -61,7 +61,7 @@ Sharing your address is completely fine, but keep in mind that all your transact
 
 ![step12](./assets/polkadot_js_tut/step12.png)
 
-- Enjoy your wallet. Learn how to top up your wallet here.
+- Enjoy your wallet. Learn how to top up your wallet [here](how_to_top_up_wallet.md)
 
 
 
