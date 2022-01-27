@@ -2,7 +2,7 @@
 
 - For start, we'll need to create a wallet which can store digital assets. Since we are in Polkadot/Kusama ecosystem, we'll be using polkadot.js wallet.
 
-- We'll have 2 tutorials to choose from, either you can watch video tutorial in english on our youtube channel, or you can follow the step by step tutorial
+- We'll have 2 tutorials to choose from, either you can watch video tutorial in english on our youtube channel, or you can follow the step by step tutorial. The tutorial on youtube channel will be avalaible soon.
 
 
 
@@ -60,5 +60,7 @@ Sharing your address is completely fine, but keep in mind that all your transact
 
 ![step12](./assets/polkadot_js_tut/step12.png)
 
-- Enjoy your wallet.
+- Enjoy your wallet. Learn how to top up your wallet here.
+
+
 
