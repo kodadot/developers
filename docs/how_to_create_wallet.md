@@ -45,7 +45,7 @@ sidebar: auto
 The generated 12-word mnemonic seed is unique phrase, which only you have access to. Store it somewhere safe, it's overally recommended to store it on a paper on multiple places, online storing is not recommended. If you loose this device, you'll be able to restore your access to the wallet with the seed on a different device. Never share your seed phrase
 :::
 
-![step8](./assets/polkadot_js_tut/step8.png)
+![step8](./assets/polkadot_js_tut/Step8.png)
 
 - We leave everything as it is, choose a descriptive name for the account and a password. Remember, the longer the password, the stronger it is
 
