@@ -6,7 +6,7 @@ module.exports = {
     navbar: [
       {
         text: 'How to get started',
-        children: ['how_to_create_wallet.md', 'simple_mint.md'],
+        children: ['how_to_create_wallet.md', 'simple_mint.md','how_to_top_up_wallet.md'],
       },
       {
         text: 'KodaDot',
