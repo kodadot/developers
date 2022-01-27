@@ -1,3 +1,9 @@
+### Vuepress
+node_modules
+.temp
+.cache
+.package-lock.json
+
 # Logs
 logs
 *.log
@@ -102,6 +108,5 @@ dist
 
 # TernJS port file
 .tern-port
-node_modules
-.temp
-.cache
+
+
