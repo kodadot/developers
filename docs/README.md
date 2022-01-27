@@ -29,3 +29,8 @@ It may take while we are finished migration from old sources.
 - You can join our discord [here](https://discord.gg/kodadot)
 - If you want to help us contributing to this docs, you can be rewarded as well.
 
+## How to top up your wallet
+- [How to top up your wallet](how_to_top_up_wallet.md)
+
+
+
