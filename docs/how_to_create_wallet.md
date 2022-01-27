@@ -1,20 +1,16 @@
----
-sidebar: auto
----
+
 
 # How to create wallet
-
-## How to create a wallet? 
 
 - For start, we'll need to create a wallet which can store digital assets. Since we are in Polkadot/Kusama ecosystem, we'll be using polkadot.js wallet.
 
 - We'll have 2 tutorials to choose from, either you can watch video tutorial in english on our youtube channel, or you can follow the step by step tutorial. The tutorial on youtube channel will be avalaible soon.
 
-### Video tutorial
+## Video tutorial
 - 
 
-### Step by step tutorial
-- Go to https://polkadot.js.org/extension/
+## Step by step tutorial
+- Go to [polkadot.js.org/extension/](https://polkadot.js.org/extension/)
 - According to your browser, select from the options
 
 ![step2](./assets/polkadot_js_tut/step2.png)

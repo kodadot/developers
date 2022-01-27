@@ -19,18 +19,18 @@ It may take while we are finished migration from old sources.
 - You can learn more at [Contributing.md](https://github.com/kodadot/nft-gallery/blob/main/CONTRIBUTING.md)
  
 
-## How to Simple Mint
-- [How to Simple Mint](simple_mint.md)
+## Getting Started
+- [How you can Create your Wallet](how_to_create_wallet.md)
+- [How to top up your wallet](how_to_top_up_wallet.md)
+- [How to create your fist mint](simple_mint.md)
 
-## How to Create Wallet
-- [How to Create Wallet](how_to_create_wallet.md)
 
-## How to contribute 
+## How you cancontribute 
 - You can join our discord [here](https://discord.gg/kodadot)
 - If you want to help us contributing to this docs, you can be rewarded as well.
 
-## How to top up your wallet
-- [How to top up your wallet](how_to_top_up_wallet.md)
+
+
 
 
 
