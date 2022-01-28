@@ -45,7 +45,11 @@ If you want 1/1 art, just state "1" in edition.
 - Anytime throughout the mint you can change the details. As you can see, i've chosen to go with 1/1 edition and decided to choose the price later.
 - Click on "Click to create NFT(S)"
 
-![step7](./assets/simple_mint_tut/step6_confirm.png)
+![step6](./assets/simple_mint_tut/step6_confirm.png)
+
+- Input the password and sign the transaction.
+
+![step7](./assets/simple_mint_tut/step7_sign.png)
 
 - The transaction is now in block and your nft is being minted. :tada:
 
