@@ -33,13 +33,8 @@ It may take while we are finished migration from old sources.
 - [How to create your fist mint](minting.md)
 
 
-<<<<<<< HEAD
 ## How can you contribute
 - Join our [discord](https://discord.gg/kodadot) where we have contests for $KSM going on, overally many possibilites to catch up with community and find out what you can do.
-=======
-## How you can contribute 
-- You can join [our KodaDot discord](https://discord.gg/kodadot)
->>>>>>> 7abc3049a12a4181226d0b55fc3969e7d7f430ab
 - If you want to help us contributing to this docs, you can be rewarded as well.
 
 ## Presskit & Logo
