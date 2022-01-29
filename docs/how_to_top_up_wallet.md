@@ -1,4 +1,4 @@
-# How to top up your polkadot.js wallet?
+# How to top up my polkadot.js wallet
 
 - First, you need to have [polkadot.js](https://polkadot.js.org/extension/) wallet installed. If you don't, check the tutorial on how to create the wallet [here](how_to_create_wallet.md).
 
