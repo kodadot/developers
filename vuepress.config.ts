@@ -11,9 +11,9 @@ module.exports = {
       {
         text: 'KodaDot',
         children: [ 
-	  { 
-	    text: 'kodadot.xyz', 
-	    link: 'https://kodadot.xyz'
+          { 
+            text: 'kodadot.xyz', 
+            link: 'https://kodadot.xyz'
           }, 
           { 
             text: 'kodadot/nft-gallery',
