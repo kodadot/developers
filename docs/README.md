@@ -30,11 +30,11 @@ It may take while we are finished migration from old sources.
 ## Getting Started
 - [How you can Create your Wallet](how_to_create_wallet.md)
 - [How to top up your wallet](how_to_top_up_wallet.md)
-- [How to create your fist mint](simple_mint.md)
+- [How to create your fist mint](minting.md)
 
 
-## How you can contribute 
-- You can join [our KodaDot discord](https://discord.gg/kodadot)
+## How can you contribute
+- Join our [discord](https://discord.gg/kodadot) where we have contests for $KSM going on, overally many possibilites to catch up with community and find out what you can do.
 - If you want to help us contributing to this docs, you can be rewarded as well.
 
 ## Meta_Hours - bi-weekly digest of development progress 
