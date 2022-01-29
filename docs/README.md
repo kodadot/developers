@@ -14,11 +14,14 @@ It may take while we are finished migration from old sources.
 
 - [KodaDot](https://kodadot.xyz) is developed as open source NFT marketplace and ultimately created as public goods of Internet.
 
-### Contribute to the KodaDot as developer
+### Contribute to the KodaDot 
+
+#### as developer
 - We offer bounties for solving issues in our Github repository at [kodadot/nft-gallery](https://github.com/kodadot/nft-gallery/issues/) and successfully creating pull-requests against our upstream branch.
+- range of our bounties starts at $50 USD up to $1000 USD
 - You can learn more at [Contributing.md](https://github.com/kodadot/nft-gallery/blob/main/CONTRIBUTING.md)
  
-### Contribute to the KodaDot as non-tech savvy user
+#### as non-tech savvy user
 - We have many opportunities how you can contribute and help us drive community-driven experience for open source NFT marketplace
 - You can become our steward or ambassador -- to help us on various non-technical tackling issues, like helping around in Discord, helping on translations or reporting a bugs
 - Participate in **various Contests**. We had in past contest for _Discord logo, Animated Banner for Discord, Animated preloader for KodaDot_ and more are coming. 
