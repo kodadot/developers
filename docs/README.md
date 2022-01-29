@@ -37,6 +37,12 @@ It may take while we are finished migration from old sources.
 - You can join [our KodaDot discord](https://discord.gg/kodadot)
 - If you want to help us contributing to this docs, you can be rewarded as well.
 
+## Meta_Hours - bi-weekly digest of development progress 
+- [Meta_Hours_4](https://github.com/kodadot/nft-gallery/discussions/2007)
+- [Meta_Hours_3](https://github.com/kodadot/nft-gallery/discussions/1710)
+- [Meta_Hours_2](https://github.com/kodadot/nft-gallery/discussions/1699)
+- [Meta_Hours_1](https://github.com/kodadot/nft-gallery/discussions/1424)
+
 ## Presskit & Logo
 - Recent logo types [could be found in kodadot/presskit repository](https://github.com/kodadot/kodadot-presskit)
 - While writing this, our [most recent logotype is currently KodaDot v3](https://github.com/kodadot/kodadot-presskit/tree/main/v3) and you are free to grab it for whatever you need it
