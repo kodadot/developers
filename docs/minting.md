@@ -68,9 +68,64 @@ If you want 1/1 art, just state "1" in edition.
 
 ## How can i use classic mint on KodaDot?
 
+- First, you need your [polkadot.js](https://polkadot.js.org/extension/) wallet up and running in the browser extension. If you are struggling with this, we've made a [tutorial](how_to_create_wallet.md).
+- Second step is easy, you need some [$KSM](https://www.coingecko.com/en/coins/kusama) balance. Since KodaDot is running on Kusama blockchain, micro fees are paid in the chain currency, which is $KSM. 
+- Learn how to [top up your wallet](how_to_top_up_wallet.md).
+- Once we have some ballance, let's get to minting! :tada: 
+- Go to [KodaDot](https://kodadot.xyz/)
+- You'll find yourself on our landing page, first, we should login with our polkadot.js wallet.
+- Click on "log in" and choose the address you want to use. A polkadot js pop-up window might appear, click on "accept"
+
+![step1](./assets/classic_mint_tut/step1_login.png)
+
+- You are now logged in.
+- Navigate yourself to the left upper corner and click on "create". Choose "classic".
+
+
+![step2](./assets/classic_mint_tut/step2_classic.png)
+
+- You are now in the classic minting process! Congratulations. :tada:
+- This is a bit more advanced way, where you create collection first and then add nfts to it. Proper creator stuff!
+
+![step3](./assets/classic_mint_tut/step3_collection.png)
+
+- Fill all the details
+- If you want to have limited items in your collection, untick the pink box and choose amount
+- Hit create collection
+
+![step4](./assets/classic_mint_tut/step4_filled.png)
+
+- Input your password and click "Sign the transaction"
+
+![step5](./assets/classic_mint_tut/step5_sign.png)
+
+- Transaction in block! :muscle:
+
+![step6](./assets/classic_mint_tut/step6_loading.png)
+
+- Once collection is created, you'll find yourself back on the same page. The only difference is, you have to choose "NFT"
+- To verify your collection has been created, have a look in the dropdown menu and choose your collection
+- The number in the brackets (  ) states how many nfts are in the collection 
+
+![step7](./assets/classic_mint_tut/step7_verify.png)
+
+- Proceed
+
+![step8](./assets/classic_mint_tut/step8_fill.png)
+
+- After your details are filled hit "click to create nft(s)
+- Edition is number of copies of the selected art
+
+![step9](./assets/classic_mint_tut/step9_filled.png)
+
 - 
 
 
+- 
+
+
+
+- 
 
 
 
