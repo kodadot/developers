@@ -8,7 +8,7 @@ What is minting?
 
 How can i mint nfts?
 
-- In the left upper corner, you click on [create](https://kodadot.xyz/rmrk/create) and choose simple or classic mint. If you don't know how to continue, you can watch this tutorial.
+- In the left upper corner, you click on [create](https://kodadot.xyz/rmrk/create) and choose simple or classic mint. If you don't know how to continue, you can [move](minting.md) to this tutorial.
 
 What's the flow when I'm NFT creator?
 
@@ -16,11 +16,11 @@ What's the flow when I'm NFT creator?
 
 How can i sell KSM i got for my art?
 
-- Right now, there's plenty of [exchanges](https://www.coingecko.com/en/coins/kusama#markets)which support KSM trading. The safest are probably [Binance](https://www.binance.com/en)and [Bybit](https://www.bybit.com/en-US/) or try decentralized [simpleswap](https://simpleswap.io/?ref=6cc6e0c538ad).
+- Right now, there's plenty of [exchanges](https://www.coingecko.com/en/coins/kusama#markets) which support KSM trading. The safest are probably [Binance](https://www.binance.com/en) and [Bybit](https://www.bybit.com/en-US/) or try decentralized [simpleswap](https://simpleswap.io/?ref=6cc6e0c538ad).
 
 How can i obtain KSM as new-comer?
 
-- We recommend to obtain KSM through custodial exchanges like [Binance](https://www.binance.com/en) or [Bybit](https://www.bybit.com/en-US/) or you can use our RAMP network - a fiat ramp [here](https://kodadot.xyz/rmrk/credit). If you are struggling with this, feel free to ask for a [grant](https://tally.so/r/mVP06w) or let us know in [help](https://discord.gg/AkCJPmwJ) channel on discord.
+- We recommend to obtain KSM through custodial exchanges like [Binance](https://www.binance.com/en) or [Bybit](https://www.bybit.com/en-US/) or you can use RAMP network [integration](https://kodadot.xyz/rmrk/credit). If you are struggling with this, feel free to ask for a [grant](https://tally.so/r/mVP06w) or let us know in [help](https://discord.gg/AkCJPmwJ) channel on discord.
 
 Can I use this in virtual worlds?
 
@@ -28,29 +28,29 @@ Can I use this in virtual worlds?
 
 How can i buy KSM with ETH, DAI, BTC..?
 
-- For best rates, you can [use custodial exchange from list](https://www.coingecko.com/en/coins/kusama). For best experience [we reccommend you to use Binance](https://www.binance.com/en/register?ref=T1JB89F0). If you are [looking for simple trade, try SimpleSwap](https://simpleswap.io/?ref=6cc6e0c538ad).
+- For best rates, you can [use custodial exchange from list](https://www.coingecko.com/en/coins/kusama). For best experience [we reccommend you to use Binance](https://www.binance.com/en/register?ref=T1JB89F0). If you are looking for simple trade, [try SimpleSwap](https://simpleswap.io/?ref=6cc6e0c538ad).
 
 I've got errors, how to resolve them?
 
 - We are trying to deliver incremental updates on daily basis & fixes ASAP. We may have published new version and your browser has cached old one. If you are on **Windows**, try hold down **Ctrl and then press F5**. **Mac users**, hold down **CMD and Shift and then press R**. If this did not help, DM us on Twitter or discord with screenshot where is developer console open.
 
-What does SEND, CONSUME, LIST mean?,
+What does SEND, CONSUME, LIST mean?
 
 - SEND will send it to someone, CONSUME will burn it, LIST will list it for sale so someone can buy it from you.
 
-I've minted NFT, but I don't see it in gallery, where is it?,
+I've minted NFT, but I don't see it in gallery, where is it?
 
-- Best way is to check through [Subscan Explorer](https://kusama.subscan.io/) and lookup your address. [You can find example how minted NFT looks through explorer, when you look on extrinsics.](https://kusama.subscan.io/extrinsic/6095478-1)
+- Best way is to check through [Subscan Explorer](https://kusama.subscan.io/) and paste in your address. [You can find example how minted NFT looks through explorer, when you look on extrinsics.](https://kusama.subscan.io/extrinsic/6095478-1)
 
-Is there any other way to obtain small amount of KSM?,
+Is there any other way to obtain small amount of KSM?
 
 - Yes, if for example it's problematic for you to withdraw from an exchange or use fiat-onramp, you may visit our discord and ask for small amount of KSM in [help](https://discord.gg/AkCJPmwJ) channel on our discord to cover minting costs.
 
-How can i sell my nft?,
+How can i sell my nft?
 
-- If you haven't set the price of your nft at the beginning, navigate yourself to your [profile](https://kodadot.xyz/rmrk/u/), choose your NFT in Created and click on LIST, which will make you able to set the price
+- If you haven't set the price of your nft at the beginning, navigate yourself to your [profile](https://kodadot.xyz/rmrk/u/), choose your NFT in Created and click on LIST, which will make you able to set the price and list your NFT.
 
-Royalties streams settings?, 
+Royalties streams settings?
 
 - Right now, we don't have chain logic, but we plan to implement something great, soon. [Stay with us and follow @KodaDot!](https://twitter.com/kodadot)
 
