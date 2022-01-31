@@ -18,8 +18,9 @@ It may take while we finish migrating from old sources.
 
 - #### As developer
   - We offer bounties for solving issues in our Github repository at [kodadot/nft-gallery](https://github.com/kodadot/nft-gallery/issues/) and successfully creating pull-requests against our upstream branch.
-  - range of our bounties starts at $50 USD up to $1000 USD
-  - You can learn more at [Contributing.md](https://github.com/kodadot/nft-gallery/blob/main/CONTRIBUTING.md)
+  - range of our bounties starts at **$50 USD and are up to $1000 USD**
+  - [Why you should contribute to KodaDot?](developer.md)
+  - You can learn more in our [Contributing.md](https://github.com/kodadot/nft-gallery/blob/main/CONTRIBUTING.md)
  
 - #### As non-tech savvy user
   - We have many opportunities how you can contribute and help us drive community-driven experience for open source NFT marketplace
@@ -55,7 +56,3 @@ It may take while we finish migrating from old sources.
 ## Presskit & Logo
 - Recent logo types [could be found in kodadot/presskit repository](https://github.com/kodadot/kodadot-presskit)
 - While writing this, our [most recent logotype is currently KodaDot v3](https://github.com/kodadot/kodadot-presskit/tree/main/v3) and you are free to grab it for whatever you need it
-
-
-
-

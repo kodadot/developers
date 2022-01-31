@@ -36,7 +36,8 @@ module.exports = {
       },
       {
         text: 'KodaDot Developer',
-        children: [ 
+        children: [
+          'developer.md',
           { 
             text: 'kodadot/nft-gallery/issues',
             link: 'https://github.com/kodadot/nft-gallery/issues'
