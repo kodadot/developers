@@ -113,7 +113,7 @@ If you want 1/1 art, just state "1" in edition.
 
 ![step8](./assets/classic_mint_tut/step8_fill.png)
 
-- After your details are filled hit "click to create nft(s)
+- After your details are filled hit "click to create nft(s)"
 - Edition is number of copies of the selected art
 
 ![step9](./assets/classic_mint_tut/step9_filled.png)
