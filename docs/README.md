@@ -34,6 +34,8 @@ It may take while we finish migrating from old sources.
 - [How to create a wallet](how_to_create_wallet.md)
 - [How to top up your wallet](how_to_top_up_wallet.md)
 - [How to mint](minting.md)
+- [Frequently asked questions](FAQ.md)
+
 
 
 ## How can you contribute
