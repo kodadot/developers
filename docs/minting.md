@@ -118,14 +118,17 @@ If you want 1/1 art, just state "1" in edition.
 
 ![step9](./assets/classic_mint_tut/step9_filled.png)
 
-- 
+- Amazing! Pop up window will show up, input your password and hit "Sign the transaction"
+
+![step10](./assets/classic_mint_tut/step10_sign.png)
+
+- As usually, your transaction is now in block and receiving confirmation from the network
+
+![step11](./assets/classic_mint_tut/step11_inblock.png)
+
+- Once confirmed, you should see your nfts in the chosen collection! Congratulations! :tada: You can navigate yourself to the right upper corner and click on your profile, and have a look at the collection created and nfts minted!
 
 
-- 
-
-
-
-- 
 
 
 
