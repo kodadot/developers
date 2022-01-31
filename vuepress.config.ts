@@ -9,7 +9,8 @@ module.exports = {
         children: [
           'how_to_create_wallet.md', 
           'minting.md',
-          'how_to_top_up_wallet.md'
+          'how_to_top_up_wallet.md',
+          'FAQ.md'
         ],
       },
       {
