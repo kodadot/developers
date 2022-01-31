@@ -1,3 +1,5 @@
+# Frequently asked questions
+
 What are NFTs?
 
 - NFT or non-fungible tokens refer to unique assets, which are stored on blockchain and maintain unique ownership.
