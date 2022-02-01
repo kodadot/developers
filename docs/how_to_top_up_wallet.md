@@ -9,7 +9,7 @@
     - Through centralized exchange like [Bybit](https://www.bybit.com/en-US/) or [Binance](https://www.binance.com/en) 
 
 ::: tip 
-The process on most of the exchanges is very similliar. The most important thing is changing the network to KUSAMA relay chain in the polkadot.js wallet and copying the address. [Learn](how_to_create_wallet.md) how to do it.
+The process on most of the exchanges is very similliar. The most important thing is changing the network to KUSAMA Relay chain in the polkadot.js wallet and copying the address. [Learn](how_to_create_wallet.md) how to do it.
 :::
 
 ### Top-up through [Ramp](https://ramp.network) network
@@ -61,7 +61,7 @@ This takes you to your spot account overview, where you can overview your balanc
 
 ![step9](./assets/bybit_topup/bybit9.png)
 
-- A window shows up, you'll need to for safety address your address to address list. Click on "add"
+- A window shows up, you'll need to for safety add your address to address list. Click on "add"
 
 ![step10](./assets/bybit_topup/bybit10.png)
 
@@ -69,8 +69,8 @@ This takes you to your spot account overview, where you can overview your balanc
 
 ![step11](./assets/bybit_topup/bybit11.png)
 
-- It's important to keep in mind, that your polkadot.js wallet has the network set to Kusama relay chain.
-- Click on the extension icon, choose polkadot js, click on those 3 dots as shown on the picture and change the network to Kusama relay chain. Now your address is prefixed for Kusama relay chain. Send only $KSM to this address!
+- It's important to keep in mind, that your polkadot.js wallet has the network set to Kusama Relay chain.
+- Click on the extension icon, choose polkadot js, click on those 3 dots as shown on the picture and change the network to Kusama Relay chain. Now your address is prefixed for Kusama Relay chain. Send only $KSM to this address!
 
 ![step12](./assets/bybit_topup/bybit12.png)
 
