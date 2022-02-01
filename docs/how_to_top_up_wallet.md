@@ -34,11 +34,11 @@ The process on most of the exchanges is very similliar. The most important thing
 
 ![step3](./assets/bybit_topup/bybit3.png)
 
-After you go through the process, your balance will be show in Spot account. Click on "Assets" and hit "Spot account"
+- After you go through the process, your balance will be show in Spot account. Click on "Assets" and hit "Spot account"
 
 ![step4](./assets/bybit_topup/bybit4.png)
 
-This takes you to your spot account overview, where you can overview your balances.
+- This takes you to your spot account overview, where you can overview your balances.
 
 ![step5](./assets/bybit_topup/bybit5.png)
 
@@ -98,7 +98,6 @@ This takes you to your spot account overview, where you can overview your balanc
 - Input your address from the list and choose amount
 - Click submit.
 - Next window will be confirmation of submitting your funds based on what security settings you have chosen. 
-- :tada: You've succsefully withdrawn your coins.
 
 ![step18](./assets/bybit_topup/bybit18.png)
 
