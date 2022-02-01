@@ -12,12 +12,16 @@
 The process on most of the exchanges is very similliar. The most important thing is changing the network to KUSAMA relay chain in the polkadot.js wallet and copying the address. [Learn](how_to_create_wallet.md) how to do it.
 :::
 
-### Top-up through centralized exchange
+### Top-up through [Ramp](https://ramp.network) network
+
+- 
+
+### Top-up through centralized exchange(withdrawal)
 - For this tutorial, we've chosen to go with [Bybit](https://www.bybit.com/en-US/) but the process is usually the same. We recommend to store your digital assets on your wallet, as it's much safer.
 - If you don't  have account on bybit, [follow this link](https://www.bybit.com/en-US/register) and create your account.
 - Now, you can find yourself on the main landing bybit page. If you know how to purchase $KSM, but need help with withdrawal, skip a few steps.
 
-#### Purchasing $KSM
+#### Purchasing $KSM through centralized exchange from the beginning
 - We are now on bybit landing page, select "Buy crypto" and click on "Express"
 
 ![step1](./assets/bybit_topup/bybit1.png)
