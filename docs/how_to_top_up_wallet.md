@@ -14,7 +14,56 @@ The process on most of the exchanges is very similliar. The most important thing
 
 ### Top-up through [Ramp](https://ramp.network) network
 
-- 
+- There is a possibility to top up your wallet right from KodaDot. Or you can go to [Ramp network](https://ramp.network/) by yourself and continue couple steps later.
+- Anyway, to do it right from [KodaDot](https://kodadot.xyz/), click on your profile, choose "credit"
+
+![step1](./assets/ramp_topup/ramp1.png)
+
+- All needed information are in the window, now the account you want to top-up
+
+![step2](./assets/ramp_topup/ramp2.png)
+
+- Click on "Buy KUSAMA" which will take you to ramp netowrk
+
+![step3](./assets/ramp_topup/ramp3.png)
+
+- Choose amount and currency and click on "proceed"
+
+![step4](./assets/ramp_topup/ramp4.png)
+
+- Input your email address, where you'll receive confirmation email
+
+![step5](./assets/ramp_topup/ramp5.png)
+
+- Input the confirmation code from your account and continue
+
+![step6](./assets/ramp_topup/ramp6.png)
+
+- Now you'll need to fetch your Kusama address. It's easy. - Click on the extension icon, choose polkadot js, click on those 3 dots as shown on the picture and change the network to Kusama Relay chain. Now your address is prefixed for Kusama Relay chain. Send only $KSM to this address!
+
+![step7](./assets/ramp_topup/ramp7.png)
+
+- Copy your address by clicking on the "copy" icon and make sure the network has changed
+
+![step8](./assets/ramp_topup/ramp8.png)
+
+- You have your address from your polkadot.js wallet copied in clipboard. Paste it to the "Address" row, choose name and click on "Confirm and proceed"
+
+![step9](./assets/ramp_topup/ramp9.png)
+
+- Choose your payment method and click on "proceed"
+
+![step10](./assets/ramp_topup/ramp10.png)
+
+- Fill your billing address and click on "save billing address"
+
+![step11](./assets/ramp_topup/ramp11.png)
+
+- Fill all your card details and proceed to payment
+
+![step12](./assets/ramp_topup/ramp12.png)
+
+- Once payment is confirmed, $KSM should arrive to your address soon! Congratulations! :tada:
 
 ### Top-up through centralized exchange(withdrawal)
 - For this tutorial, we've chosen to go with [Bybit](https://www.bybit.com/en-US/) but the process is usually the same. We recommend to store your digital assets on your wallet, as it's much safer.
@@ -102,11 +151,4 @@ The process on most of the exchanges is very similliar. The most important thing
 ![step18](./assets/bybit_topup/bybit18.png)
 
 - :tada: You've succsefully withdrawn your coins.
-
-
-
-
-
-
-
 
