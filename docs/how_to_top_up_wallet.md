@@ -5,7 +5,7 @@
 ## Options
 - There are several ways how you can top up your wallet
     - [Ramp](https://ramp.network) network
-    - Ask for a grant
+    - Ask for a [grant](https://tally.so/r/mVP06w)
     - Through centralized exchange like [Bybit](https://www.bybit.com/en-US/) or [Binance](https://www.binance.com/en) 
 
 ::: tip 
