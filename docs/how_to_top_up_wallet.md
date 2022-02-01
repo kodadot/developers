@@ -21,7 +21,7 @@ The process on most of the exchanges is very similliar. The most important thing
 - If you don't  have account on bybit, [follow this link](https://www.bybit.com/en-US/register) and create your account.
 - Now, you can find yourself on the main landing bybit page. If you know how to purchase $KSM, but need help with withdrawal, skip a few steps.
 
-#### Purchasing $KSM through centralized exchange from the beginning
+### Purchasing $KSM through centralized exchange from the beginning
 - We are now on bybit landing page, select "Buy crypto" and click on "Express"
 
 ![step1](./assets/bybit_topup/bybit1.png)
