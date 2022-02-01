@@ -19,7 +19,7 @@ The process on most of the exchanges is very similliar. The most important thing
 
 ![step1](./assets/ramp_topup/ramp1.png)
 
-- All needed information are in the window, now the account you want to top-up
+- All needed information are in the window, now choose the account you want to top-up
 
 ![step2](./assets/ramp_topup/ramp2.png)
 
@@ -47,7 +47,7 @@ The process on most of the exchanges is very similliar. The most important thing
 
 ![step8](./assets/ramp_topup/ramp8.png)
 
-- You have your address from your polkadot.js wallet copied in clipboard. Paste it to the "Address" row, choose name and click on "Confirm and proceed"
+- You have your address from your polkadot.js wallet copied in clipboard. Paste it to the "Address" row and click "confirm and proceed"
 
 ![step9](./assets/ramp_topup/ramp9.png)
 
