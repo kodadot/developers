@@ -7,3 +7,19 @@
 - [Meta_Hours_3](https://github.com/kodadot/nft-gallery/discussions/1710)
 - [Meta_Hours_2](https://github.com/kodadot/nft-gallery/discussions/1699)
 - [Meta_Hours_1](https://github.com/kodadot/nft-gallery/discussions/1424)
+
+### What to do before Meta_hours as a speaker
+- Since there's always more users on the call, it's important to turn off sensitivity so your voice is stable and clean
+- To do that, you have to go discord settings.
+
+![step1](./assets/speaker/speaker0.png)
+
+- Find voice & video
+
+![step2](./assets/speaker/speaker1.png)
+
+- Untick the "Input sensitivity" and make sure the slider is on the left
+
+![step3](./assets/speaker/speaker2.png)
+
+- :tada: You are ready to speak as a speaker!
