@@ -22,4 +22,4 @@
 
 ![step3](./assets/speaker/speaker2.png)
 
-- :tada: You are ready to speak as a speaker!
+- :tada: You are ready to have a proper speech!
