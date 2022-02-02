@@ -123,6 +123,10 @@
 
 - All minted files will observe the Code of Conduct and all NSFW (Not Safe For Work) files should be classified NSFW when minting.
 
-### **How much $KSM do I need to mint on Kodadot?**
+### **What is existential deposit(ED)?**
 
+- On the Polkadot network, an address is only active when it holds a minimum amount, currently set at 1 DOT (and 0.0000333333 KSM on the Kusama network). This minimum amount is called the Existential Deposit (ED).
+
+
+- The ED exists so that accounts with very small balances, or completely empty, do not "bloat" the state of the blockchain in order to maintain high performance and to reduce fees. 
 - The existential deposit as of this writing is 0.0000333333  $KSM but maintain 0.1 $KSM in your wallet just to be sure.
