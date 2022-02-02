@@ -130,3 +130,7 @@
 
 - The ED exists so that accounts with very small balances, or completely empty, do not "bloat" the state of the blockchain in order to maintain high performance and to reduce fees. 
 - The existential deposit as of this writing is 0.0000333333  $KSM but maintain 0.1 $KSM in your wallet just to be sure.
+
+### **How much will it cost me to mint an nft?**
+
+- At the time of writing, the fees for minting an nft are 0.02 USD :tada:
