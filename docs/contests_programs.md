@@ -16,3 +16,42 @@ Rewards can vary from $50 up to $600 depending on amount and quality of contribu
 It's also important to carefully read each contest specifications and requests and meet certain conditions which are usually very simple.
 
 # Active contests and incentive programs
+
+## Gif-meme contest
+As announced on [meta-hours](meta_hours.md) #2 community call, we are kicking off the GIF-meme contest! The goal is to get simple and friendly KodaDot gifs pushed to giphy/tenor. 
+
+### Structure and guidelines
+
+1) GIF must be uploaded first to giphy/tenor (please use tags like KodaDot etc.)
+2) Use KodaDot v3 presskit materials in the gif
+3) SFW content (safe for web, no racism, nudity etc)
+4) Post your contribution to [this channel](https://discord.gg/3aG6SrhFNE) as GIF right away, that way we can verify you made the gif and track the traction on your post via reactions.
+
+### Rewards: 
+
+0.5-1 KSM per GIF
+
+### Usefull links:
+
+Where to upload:
+
+- [Giphy](https://giphy.com/)
+- [Tenor](https://tenor.com/)
+
+### Materials to use
+
+#### **[KodaDot v3 presskit materials](https://github.com/kodadot/kodadot-presskit/tree/main/v3)**
+
+
+### How to's
+
+- [How to send gifs in discord](https://support.discord.com/hc/en-us/articles/360021235192-Sending-GIFs-on-Discord)
+
+- [How to upload to giphy](https://support.giphy.com/hc/en-us/articles/360019977552-How-to-Upload)
+
+- [How to make a gif](https://support.giphy.com/hc/en-us/articles/360019674452-How-To-Make-A-GIF)
+
+Invite your friends! 
+
+KodaDot gif-meme contest invite link: https://discord.gg/3aG6SrhFNE 
+
