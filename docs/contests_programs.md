@@ -29,7 +29,7 @@ As announced on [meta-hours](meta_hours.md) #2 community call, we are kicking of
 
 ### Rewards: 
 
-0.5-1 KSM per GIF
+0.5-1 $KSM per GIF
 
 ### Usefull links:
 
