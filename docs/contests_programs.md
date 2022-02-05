@@ -17,6 +17,10 @@ It's also important to carefully read each contest specifications and requests a
 
 # Active contests and incentive programs
 
+## Bug bounty program
+- 
+
+
 ## Gif-meme contest
 As announced on [meta-hours](meta_hours.md) #2 community call, we are kicking off the GIF-meme contest! The goal is to get simple and friendly KodaDot gifs pushed to giphy/tenor. 
 
