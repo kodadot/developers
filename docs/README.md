@@ -47,6 +47,12 @@ It may take while we finish migrating from old sources.
 - We are having bi-weekly updates from contributors to the KodaDot, incl developers, community and creators to share insights on issues we've done, tackling issues, challenges and generally what's happening speaking on roadmap. 
 - You can [learn more about Meta_Hours at dedicated page](meta_hours.md)
 
+## Contests and other incentive programs
+- There is always some contest! Our incentive to motivate fellow KodaHeadz is there because we want to grow as community. Everyone here, has a chance to contribute, without a single knowledge of code.
+- Find out more information at [Contests and other incentive programs page]()
+- [Gif-memes contest]()
+- [Bug bounty program]()
+
 ## Presskit & Logo
 - Recent logo types [could be found in kodadot/presskit repository](https://github.com/kodadot/kodadot-presskit)
 - While writing this, our [most recent logotype is currently KodaDot v3](https://github.com/kodadot/kodadot-presskit/tree/main/v3) and you are free to grab it for whatever you need it
