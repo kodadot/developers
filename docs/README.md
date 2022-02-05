@@ -50,8 +50,9 @@ It may take while we finish migrating from old sources.
 ## Contests and other incentive programs
 - There is always some contest! Our incentive to motivate fellow KodaHeadz is there because we want to grow as community. Everyone here, has a chance to contribute, without a single knowledge of code.
 - Find out more information at [Contests and other incentive programs](contests_programs.md)
-- [Gif-memes contest]()
-- [Bug bounty program]()
+- [Bug bounty program](https://docs.kodadot.xyz/contests_programs.html#bug-bounty-program)
+- [Gif-memes contest](https://docs.kodadot.xyz/contests_programs.html#gif-meme-contest)
+
 
 ## Presskit & Logo
 - Recent logo types [could be found in kodadot/presskit repository](https://github.com/kodadot/kodadot-presskit)
