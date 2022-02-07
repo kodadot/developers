@@ -25,11 +25,16 @@ It may take while we finish migrating from old sources.
 - #### As non-tech savvy user
   - We have many opportunities how you can contribute and help us drive community-driven experience for open source NFT marketplace
   - You can become our steward or ambassador -- to help us on various non-technical tackling issues, like helping around in Discord, helping on translations or reporting bugs
-  - Participate in **various Contests**. In past we had contest for _Discord logo, Animated Banner for Discord, Animated preloader for KodaDot_ and more are coming. 
+  - Participate in [various contests](constests_programs.md). In past we had contest for _Discord logo, Animated Banner for Discord, Animated preloader for KodaDot_ and more are coming.
+  
+## Contests and other incentive programs
+- There is always some contest! Our incentive to motivate fellow KodaHeadz is there because we want to grow as community. Everyone here, has a chance to contribute, without a single knowledge of code.
+- Find out more information at [Contests and other incentive programs](contests_programs.md)
+- [Bug bounty program](https://docs.kodadot.xyz/contests_programs.html#bug-bounty-program)
+- [Gif-memes contest](https://docs.kodadot.xyz/contests_programs.html#gif-meme-contest)
 
-### Continous contributions through Contests and rewards 
-- We have continous running **gif meme contest to help raise awarness of KodaDot brand on Tenor and Giphy.** You are more than welcome to [join us on Discord channel gif-meme-contest](https://discord.gg/KuP922NbVM). Rewards are ongoing and the contest without deadline, for now. The best stuff we usually reward 1-2 $KSM. So light up your best idea, [grab our recent KodaDot v3 logo, upload it and come to Discord channel to shoot it](https://github.com/kodadot/kodadot-presskit/tree/main/v3). We are more than happy for every contribution.
-
+## How to get featured on KodaDot?
+- 
 
 ## Getting Started
 - [How to create a wallet](how_to_create_wallet.md)
@@ -46,12 +51,6 @@ It may take while we finish migrating from old sources.
 ## Meta_Hours - bi-weekly digest of development progress 
 - We are having bi-weekly updates from contributors to the KodaDot, incl developers, community and creators to share insights on issues we've done, tackling issues, challenges and generally what's happening speaking on roadmap. 
 - You can [learn more about Meta_Hours at dedicated page](meta_hours.md)
-
-## Contests and other incentive programs
-- There is always some contest! Our incentive to motivate fellow KodaHeadz is there because we want to grow as community. Everyone here, has a chance to contribute, without a single knowledge of code.
-- Find out more information at [Contests and other incentive programs](contests_programs.md)
-- [Bug bounty program](https://docs.kodadot.xyz/contests_programs.html#bug-bounty-program)
-- [Gif-memes contest](https://docs.kodadot.xyz/contests_programs.html#gif-meme-contest)
 
 
 ## Presskit & Logo
