@@ -21,6 +21,7 @@ It may take while we finish migrating from old sources.
   - range of our bounties starts at **$50 USD and are up to $1000 USD**
   - [Why you should contribute to KodaDot?](developer.md)
   - You can learn more in our [Contributing.md](https://github.com/kodadot/nft-gallery/blob/main/CONTRIBUTING.md)
+  - Is it your **first time** contributing? Please have a look at the [instructions](first_time.md)
  
 - ### As non-tech savvy user
   - We have many opportunities how you can contribute and help us drive community-driven experience for open source NFT marketplace
