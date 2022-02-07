@@ -16,3 +16,10 @@
 
 ![step4](./assets/bug_report/step4.png)
 
+- Follow the instructions. Remember, the more details you provide, the higer chance for the issue to be solved quickly
+- Also it's up to collaborators and maintainers to determine whether the bug is important at this moment or not
+
+![step1](./assets/bug_report/step5.png)
+
+- If no one gets to your bug report, it might mean there are other important to issues to tackle or you filled the bug report not well enough
+- Feel free to ask on our discord in developer category about the issue you submitted
