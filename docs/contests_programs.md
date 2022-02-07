@@ -40,7 +40,7 @@ It's also important to carefully read each contest specifications and requests a
 - You can expect many other incentives to improve KodaDot, and even if you are not good in finding bugs or just never occured any, feel free to check [stewards](https://discord.gg/a65X3qs8wh) channel in our discord or have a look at contest section.
 
 ### How to file proper bug report?
-- A [tutorial](bug_report.md) on how to file a proper bug report is being prepared
+- [Filing proper bug report](bug_report.md) 
 
 
 ## Gif-meme contest

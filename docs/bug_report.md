@@ -12,7 +12,7 @@
 
 ![step3](./assets/bug_report/step3.png)
 
-- Choose "Bug report" by clickcing on "Get started"
+- Choose "Bug report" by clicking on "Get started"
 
 ![step4](./assets/bug_report/step4.png)
 

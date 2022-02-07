@@ -14,27 +14,27 @@ It may take while we finish migrating from old sources.
 
 - [KodaDot](https://kodadot.xyz) is developed as open source NFT marketplace and ultimately created as public goods of Internet.
 
-### Contribute to the KodaDot 
+## Contribute to KodaDot 
 
-- #### As developer
+- ### As developer
   - We offer bounties for solving issues in our Github repository at [kodadot/nft-gallery](https://github.com/kodadot/nft-gallery/issues/) and successfully creating pull-requests against our upstream branch.
   - range of our bounties starts at **$50 USD and are up to $1000 USD**
   - [Why you should contribute to KodaDot?](developer.md)
   - You can learn more in our [Contributing.md](https://github.com/kodadot/nft-gallery/blob/main/CONTRIBUTING.md)
  
-- #### As non-tech savvy user
+- ### As non-tech savvy user
   - We have many opportunities how you can contribute and help us drive community-driven experience for open source NFT marketplace
   - You can become our steward or ambassador -- to help us on various non-technical tackling issues, like helping around in Discord, helping on translations or reporting bugs
   - Participate in [various contests](constests_programs.md). In past we had contest for _Discord logo, Animated Banner for Discord, Animated preloader for KodaDot_ and more are coming.
   
 ## Contests and other incentive programs
 - There is always some contest! Our incentive to motivate fellow KodaHeadz is there because we want to grow as community. Everyone here, has a chance to contribute, without a single knowledge of code.
-- Find out more information at [Contests and other incentive programs](contests_programs.md)
+- Find out more information at [Contests and other incentive programs](contests_programs.md) page
 - [Bug bounty program](https://docs.kodadot.xyz/contests_programs.html#bug-bounty-program)
 - [Gif-memes contest](https://docs.kodadot.xyz/contests_programs.html#gif-meme-contest)
 
 ## How to get featured on KodaDot?
-- 
+-
 
 ## Getting Started
 - [How to create a wallet](how_to_create_wallet.md)
