@@ -34,7 +34,7 @@ It's also important to carefully read each contest specifications and requests a
 
 ### How?
 
-- Anytime you spot a bug, please visit our github and use the [bug form](https://github.com/kodadot/nft-gallery/issues/new?assignees=&labels=bug&template=bug.yml&title=Be+descriptive+and+short) to report and describe what happened to you. It is important to note, that more thorough and well described bug reports have high chance of getting picked up and solved quickly - that simply means that you'll get rewarded shortly after the bug is fixed.
+- Anytime you spot a bug, please visit our github and use the [bug report form](https://github.com/kodadot/nft-gallery/issues/new?assignees=&labels=bug&template=bug.yml&title=Be+descriptive+and+short) to report and describe what happened to you. It is important to note, that more thorough and well described bug reports have high chance of getting picked up and solved quickly - that simply means that you'll get rewarded shortly after the bug is fixed.
 
 ### Rewards
 - Rewards are various, from simple bug reports starting at $50 up to complex ones with high possible improvements can climb up to $600. 
