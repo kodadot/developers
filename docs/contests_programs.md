@@ -15,8 +15,6 @@ Rewards can vary from $50 up to $600 depending on amount and quality of contribu
 
 It's also important to carefully read each contest specifications and requests and meet certain conditions which are usually very simple.
 
-## How to file proper bug report?
-- 
 
 # Active contests and incentive programs
 
@@ -40,6 +38,9 @@ It's also important to carefully read each contest specifications and requests a
 - Rewards are various, from simple bug reports starting at $50 up to complex ones with high possible improvements can climb up to $600. 
 
 - You can expect many other incentives to improve KodaDot, and even if you are not good in finding bugs or just never occured any, feel free to check [stewards](https://discord.gg/a65X3qs8wh) channel in our discord or have a look at contest section.
+
+### How to file proper bug report?
+- A [tutorial](bug_report.md) on how to file a proper bug report is being prepared
 
 
 ## Gif-meme contest
