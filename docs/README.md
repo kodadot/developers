@@ -31,8 +31,8 @@ It may take while we finish migrating from old sources.
 ## Contests and other incentive programs
 - There is always some contest! Our incentive to motivate fellow KodaHeadz is there because we want to grow as community. Everyone here, has a chance to contribute, without a single knowledge of code.
 - Find out more information at [Contests and other incentive programs](contests_programs.md) page
-- [Bug bounty program](https://docs.kodadot.xyz/contests_programs.html#bug-bounty-program)
-- [Gif-memes contest](https://docs.kodadot.xyz/contests_programs.html#gif-meme-contest)
+- [Bug bounty program](contests_programs.md#bug-bounty-program)
+- [Gif-memes contest](contests_programs.md#gif-meme-contest)
 
 ## How to get featured on KodaDot?
 -
