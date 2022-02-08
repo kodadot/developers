@@ -32,6 +32,10 @@ module.exports = {
             text: 'Meta_Hours',
             link: 'https://github.com/kodadot/nft-gallery/discussions/categories/meta-hours'
           },
+          {
+            text: 'Presskit & Logo',
+            link: 'https://github.com/kodadot/kodadot-presskit',
+          },
         ]
       },
       {
