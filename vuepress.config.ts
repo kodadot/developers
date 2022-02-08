@@ -54,7 +54,11 @@ module.exports = {
           {
             text: 'kodadot/nft-gallery/code',
             link: 'https://github.com/kodadot/nft-gallery'
-          }
+          },
+          {
+            text: 'Learn more about contributing',
+            link: 'https://github.com/kodadot/nft-gallery/blob/main/CONTRIBUTING.md'
+          },
         ]
       }
     ],
