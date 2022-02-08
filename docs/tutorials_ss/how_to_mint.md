@@ -17,12 +17,12 @@
 - You'll find yourself on our landing page, first, we should login with our polkadot.js wallet.
 - Click on "log in" and choose the address you want to use. A polkadot js pop-up window might appear, click on "accept"
 
-![step1](./assets/simple_mint_tut/step1_login.png)
+![step1](/simple_mint_tut/step1_login.png)
 
 - You are now logged in.
 - Navigate yourself to the left upper corner and click on "create". Choose "simple".
 
-![step2](./assets/simple_mint_tut/step2_simple.png)
+![step2](/simple_mint_tut/step2_simple.png)
 
 - You are now in the minting process! Congratulations.
 - Fill all the details according to your needs.
@@ -31,29 +31,29 @@
 If you want 1/1 art, just state "1" in edition.
 :::
 
-![step3](./assets/simple_mint_tut/step3_mint.png)
+![step3](/simple_mint_tut/step3_mint.png)
 
 - Fill all the details and continue.
 
-![step4](./assets/simple_mint_tut/step4_mint_filled.png)
+![step4](/simple_mint_tut/step4_mint_filled.png)
 
 - If you choose to input price right away, you'll have to confirm two transactions.
 - Transaction fees can be seen by clicking on the calculator icon. At the time of the tutorial it's about 0.05 $.
 
-![step5](./assets/simple_mint_tut/step5_mint_filled_options.png)
+![step5](/simple_mint_tut/step5_mint_filled_options.png)
 
 - Anytime throughout the mint you can change the details. As you can see, i've chosen to go with 1/1 edition and decided to choose the price later.
 - Click on "Click to create NFT(S)"
 
-![step6](./assets/simple_mint_tut/step6_confirm.png)
+![step6](/simple_mint_tut/step6_confirm.png)
 
 - Input the password and sign the transaction.
 
-![step7](./assets/simple_mint_tut/step7_sign.png)
+![step7](/simple_mint_tut/step7_sign.png)
 
 - The transaction is now in block and your nft is being minted. :tada:
 
-![step8](./assets/simple_mint_tut/step8_23.png)
+![step8](/simple_mint_tut/step8_23.png)
 
 - Congratulations! Your nft has been minted and is ready to be worked with.
 - "Send" will send it to someone.
@@ -61,7 +61,7 @@ If you want 1/1 art, just state "1" in edition.
 - "List" makes you able to input the price and sell it.
 
 
-![step9](./assets/simple_mint_tut/step9_cg.png)
+![step9](/simple_mint_tut/step9_cg.png)
 
 - You have now successfully used simple mint.
 - Are you ready for some advanced stuff? Let's dive in
@@ -76,55 +76,55 @@ If you want 1/1 art, just state "1" in edition.
 - You'll find yourself on our landing page, first, we should login with our polkadot.js wallet.
 - Click on "log in" and choose the address you want to use. A polkadot js pop-up window might appear, click on "accept"
 
-![step1](./assets/classic_mint_tut/step1_login.png)
+![step1](/classic_mint_tut/step1_login.png)
 
 - You are now logged in.
 - Navigate yourself to the left upper corner and click on "create". Choose "classic".
 
 
-![step2](./assets/classic_mint_tut/step2_classic.png)
+![step2](/classic_mint_tut/step2_classic.png)
 
 - You are now in the classic minting process! Congratulations. :tada:
 - This is a bit more advanced way, where you create collection first and then add nfts to it. Proper creator stuff!
 
-![step3](./assets/classic_mint_tut/step3_collection.png)
+![step3](/classic_mint_tut/step3_collection.png)
 
 - Fill all the details
 - If you want to have limited items in your collection, untick the pink box and choose amount
 - Hit create collection
 
-![step4](./assets/classic_mint_tut/step4_filled.png)
+![step4](/classic_mint_tut/step4_filled.png)
 
 - Input your password and click "Sign the transaction"
 
-![step5](./assets/classic_mint_tut/step5_sign.png)
+![step5](/classic_mint_tut/step5_sign.png)
 
 - Transaction in block! :muscle:
 
-![step6](./assets/classic_mint_tut/step6_loading.png)
+![step6](/classic_mint_tut/step6_loading.png)
 
 - Once collection is created, you'll find yourself back on the same page. The only difference is, you have to choose "NFT"
 - To verify your collection has been created, have a look in the dropdown menu and choose your collection
 - The number in the brackets (  ) states how many nfts are in the collection 
 
-![step7](./assets/classic_mint_tut/step7_verify.png)
+![step7](/classic_mint_tut/step7_verify.png)
 
 - Proceed
 
-![step8](./assets/classic_mint_tut/step8_fill.png)
+![step8](/classic_mint_tut/step8_fill.png)
 
 - After your details are filled hit "click to create nft(s)"
 - Edition is number of copies of the selected art
 
-![step9](./assets/classic_mint_tut/step9_filled.png)
+![step9](/classic_mint_tut/step9_filled.png)
 
 - Amazing! Pop up window will show up, input your password and hit "Sign the transaction"
 
-![step10](./assets/classic_mint_tut/step10_sign.png)
+![step10](/classic_mint_tut/step10_sign.png)
 
 - As usually, your transaction is now in block and receiving confirmation from the network
 
-![step11](./assets/classic_mint_tut/step11_inblock.png)
+![step11](/classic_mint_tut/step11_inblock.png)
 
 - Once confirmed, you should see your nfts in the chosen collection! Congratulations! :tada: You can navigate yourself to the right upper corner and click on your profile, and have a look at the collection created and nfts minted!
 

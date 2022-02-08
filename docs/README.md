@@ -1,18 +1,18 @@
-# Hello KodaPress
+# KodaDot NFT Marketplace
 
-## Docs are being created
+## Docs are being created, be patient
 
 ![KodaDot_logo_v3](./assets/KODA_v3.png)
 
-We are migrating our old resources from 
+We are in process migrating our old resources from 
 - [kodadot.gitbook.io](https://kodadot.gitbook.io)
 - [github.com/kodadot/nft-gallery/wiki](https://github.com/kodadot/nft-gallery/wiki)
 
-It may take while we finish migrating from old sources.
+It may take while till we finish migrating from old sources, plus we are recreating new resources
 
 ## What is KodaDot?
 
-- [KodaDot](https://kodadot.xyz) is developed as open source NFT marketplace and ultimately created as public goods of Internet.
+- [KodaDot](https://kodadot.xyz) is developed as open source NFT marketplace and ultimately created as public goods of Internet, currently running on [Kusama.network](https://kusama.network)
 
 ## Contribute to KodaDot 
 
@@ -42,7 +42,6 @@ It may take while we finish migrating from old sources.
 - [How to top up your wallet](tutorials_ss/how_to_top_up_wallet.md)
 - [How to mint](tutorials_ss/minting.md)
 - [Frequently asked questions](FAQ.md)
-
 
 
 ## How can you contribute

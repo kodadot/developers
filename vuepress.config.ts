@@ -53,15 +53,15 @@ module.exports = {
           'developer.md',
           'meta_hours.md',
           { 
-            text: 'kodadot/nft-gallery/issues',
+            text: 'nft-gallery/issues',
             link: 'https://github.com/kodadot/nft-gallery/issues'
           },
           {
-            text: 'kodadot/nft-gallery/pulls',
+            text: 'nft-gallery/pulls',
             link: 'https://github.com/kodadot/nft-gallery/pulls' 
           },
           {
-            text: 'kodadot/nft-gallery/code',
+            text: 'nft-gallery/code',
             link: 'https://github.com/kodadot/nft-gallery'
           },
           {
