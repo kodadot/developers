@@ -7,10 +7,19 @@ module.exports = {
       {
         text: 'How to get started',
         children: [
-          { text: 'How to create wallet', link: '/tutorials_ss/how_to_create_wallet.md' },
-          { text: 'How to mint', link: '/tutorials_ss/how_to_mint' },
-          { text: 'How to top up your wallet', link: '/tutorials_ss/how_to_create_wallet.md' },
-          'FAQ.md'
+          { 
+            text: 'How to create wallet', 
+            link: '/tutorials_ss/how_to_create_wallet.md' 
+          },
+          { 
+            text: 'How to mint', 
+            link: '/tutorials_ss/how_to_mint' 
+          },
+          { 
+            text: 'How to top up your wallet',
+            link: '/tutorials_ss/how_to_create_wallet.md' 
+          },
+          'FAQ.md',
         ],
       },
       {
