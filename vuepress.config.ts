@@ -13,7 +13,7 @@ module.exports = {
           },
           { 
             text: 'How to mint', 
-            link: '/tutorials_ss/how_to_mint' 
+            link: '/tutorials_ss/how_to_mint.md' 
           },
           { 
             text: 'How to top up your wallet',
