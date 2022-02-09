@@ -51,7 +51,3 @@ It may take while till we finish migrating from old sources, plus we are recreat
 - We are having bi-weekly updates from contributors to the KodaDot, incl developers, community and creators to share insights on issues we've done, tackling issues, challenges and generally what's happening speaking on roadmap. 
 - You can [learn more about Meta_Hours at dedicated page](meta_hours.md)
 
-
-## Presskit & Logo
-- Recent logo types [could be found in kodadot/presskit repository](https://github.com/kodadot/kodadot-presskit)
-- While writing this, our [most recent logotype is currently KodaDot v3](https://github.com/kodadot/kodadot-presskit/tree/main/v3) and you are free to grab it for whatever you need it
