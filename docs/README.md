@@ -6,7 +6,6 @@
 
 We are in process migrating our old resources from 
 - [kodadot.gitbook.io](https://kodadot.gitbook.io)
-- [github.com/kodadot/nft-gallery/wiki](https://github.com/kodadot/nft-gallery/wiki)
 
 It may take while till we finish migrating from old sources, plus we are recreating new resources
 
@@ -35,7 +34,7 @@ It may take while till we finish migrating from old sources, plus we are recreat
 - [Gif-memes contest](contests_programs.md#gif-meme-contest)
 
 ## How to get featured on KodaDot?
--
+- Learn [more](get_featured.md) about KodaDot incentives to support artists and collections.
 
 ## Getting Started
 - [How to create a wallet](tutorials_ss/how_to_create_wallet.md)
