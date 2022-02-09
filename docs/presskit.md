@@ -6,7 +6,6 @@
 - While writing this, our [most recent logotype is currently KodaDot v3](https://github.com/kodadot/kodadot-presskit/tree/main/v3) and you are free to grab it for whatever you need it
 
 
-
 ### Free for grab
 - We've linked few options you can fast peak for something you are doing KodaDot logo
 
