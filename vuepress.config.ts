@@ -29,7 +29,7 @@ module.exports = {
           },
 
           'FAQ.md',
-          'how-to-make-nft.md'
+          'how-to-make-nft.md',
         ],
       },
       {
