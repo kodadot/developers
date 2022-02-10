@@ -20,6 +20,7 @@ module.exports = {
             link: '/tutorials_ss/how_to_create_wallet.md' 
           },
           'FAQ.md',
+          'how-to-make-nft.md'
         ],
       },
       {
