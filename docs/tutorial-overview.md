@@ -1,18 +1,20 @@
-# All KodaDot tutorials currently up to date
+# All up-to-date tutorials in beginner-friendly order
 
-## Listed in beginner-friendly order
+## Technology
 
 ### [Set up cryptocurrency wallet](tutorials/how_to_create_wallet.md)
 
-### [Adding funds to your wallet](/tutorials/how_to_top_up_wallet.md)
+### [Add funds to your wallet](/tutorials/how_to_top_up_wallet.md)
 
-### [Minting](/tutorials/how_to_mint.md)
+## Non-fungible tokens
 
-### [Minting nfts](/tutorials/how_to_mint.md)
+### [NFTs from scratch](how-to-make-nft.md)
 
-### [Airdroping nfts](/tutorials/how_to_airdrop.md)
+### [Mint](/tutorials/how_to_mint.md)
 
-### [Nfts from scratch](how-to-make-nft.md)
+### [Airdrop](/tutorials/how_to_airdrop.md)
 
-### [Filing proper bug report](/tutorials/how_to_bug_report.md)
+## Community involvements
+
+### [File proper bug report](/tutorials/how_to_bug_report.md)
 
