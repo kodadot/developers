@@ -37,6 +37,11 @@ It may take while till we finish migrating from old sources, plus we are recreat
 - Learn [more](get_featured.md) about KodaDot incentives to support artists and collections.
 
 ## Getting Started
+
+### All tutorials under one roof
+- [Tutorials overview](tutorial-overview.md)
+
+### Beginner tutorials 
 - [How to create a wallet](tutorials/how_to_create_wallet.md)
 - [How to top up your wallet](tutorials/how_to_top_up_wallet.md)
 - [How to mint](tutorials/minting.md)
