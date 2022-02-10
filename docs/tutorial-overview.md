@@ -4,9 +4,9 @@
 
 ### [Set up cryptocurrency wallet](tutorials/how_to_create_wallet.md)
 
-### [Minting](/tutorials/how_to_mint.md)
-
 ### [Adding funds to your wallet](/tutorials/how_to_top_up_wallet.md)
+
+### [Minting](/tutorials/how_to_mint.md)
 
 ### [Minting nfts](/tutorials/how_to_mint.md)
 
