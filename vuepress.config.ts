@@ -57,7 +57,7 @@ module.exports = {
             link: 'https://github.com/kodadot/kodadot-presskit',
           },
 
-          'writings.md'
+          'writings.md',
         ]
       },
       {
