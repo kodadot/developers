@@ -65,6 +65,10 @@ module.exports = {
             link: 'writings.md',
           },
           {
+            text: 'Collaborate with us',
+            link: 'get_featured.md',
+          },
+          {
             text: 'Frequently asked questions',
             link: 'faq.md',
           },
