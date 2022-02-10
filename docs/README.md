@@ -37,11 +37,11 @@ It may take while till we finish migrating from old sources, plus we are recreat
 - Learn [more](get_featured.md) about KodaDot incentives to support artists and collections.
 
 ## Getting Started
-- [How to create a wallet](tutorials_ss/how_to_create_wallet.md)
-- [How to top up your wallet](tutorials_ss/how_to_top_up_wallet.md)
-- [How to mint](tutorials_ss/minting.md)
+- [How to create a wallet](tutorials/how_to_create_wallet.md)
+- [How to top up your wallet](tutorials/how_to_top_up_wallet.md)
+- [How to mint](tutorials/minting.md)
 - [Frequently asked questions](FAQ.md)
-- [How to file a bug report](tutorials_ss/how_to_bug_report.md)
+- [How to file a bug report](tutorials/how_to_bug_report.md)
 
 ## How can you contribute
 - Join our [discord](https://discord.gg/kodadot) where the fireplace is always burning and community always welcoming. 
