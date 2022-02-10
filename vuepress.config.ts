@@ -61,8 +61,10 @@ module.exports = {
             text: 'Presskit & Logo',
             link: 'https://github.com/kodadot/kodadot-presskit',
           },
-
-          'writings.md',
+          {
+            text: 'Writings',
+            link: 'writings.md'
+          },
         ]
       },
       {
