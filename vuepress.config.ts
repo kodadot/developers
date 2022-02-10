@@ -28,7 +28,7 @@ module.exports = {
             link: '/tutorials/how_to_airdrop.md'
           },
           {
-            text: 'NFTs from scrach',
+            text: 'NFTs from scratch',
             link: 'how-to-make-nft.md',
           },
         ],
