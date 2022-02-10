@@ -73,13 +73,12 @@ module.exports = {
       {
         text: 'KodaDot Developer',
         children: [
-
           {
             text: 'Why you should contribute to KodaDot?',
             link: 'developer.md',
           },
           {
-            text: 'Meta_hours - bi-weekly digest of development process',
+            text: 'Meta_hours - bi-weekly digest of development progress',
             link: 'meta_hours.md',
           },
           { 
