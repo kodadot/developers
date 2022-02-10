@@ -57,7 +57,7 @@ module.exports = {
             link: 'https://github.com/kodadot/nft-gallery/discussions/categories/meta-hours'
           },         
           {
-            text: 'Meta hours - bi-weekly digest of development progress',
+            text: 'Meta_hours dedicated page',
             link: 'meta_hours.md',
           },
           {
