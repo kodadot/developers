@@ -9,23 +9,23 @@ module.exports = {
         children: [
           { 
             text: 'How to create wallet', 
-            link: '/tutorials_ss/how_to_create_wallet.md' 
+            link: '/tutorials/how_to_create_wallet.md' 
           },
           { 
             text: 'How to mint', 
-            link: '/tutorials_ss/how_to_mint.md' 
+            link: '/tutorials/how_to_mint.md' 
           },
           { 
             text: 'How to top up your wallet',
-            link: '/tutorials_ss/how_to_create_wallet.md' 
+            link: '/tutorials/how_to_create_wallet.md' 
           },
           {
             text: 'How to file a bug report',
-            link: '/tutorials_ss/how_to_bug_report.md'
+            link: '/tutorials/how_to_bug_report.md'
           },
           {
             text: 'How to airdrop nfts',
-            link: '/tutorials_ss/how_to_airdrop.md'
+            link: '/tutorials/how_to_airdrop.md'
           },
 
           'FAQ.md',
@@ -55,6 +55,7 @@ module.exports = {
             text: 'Presskit & Logo',
             link: 'https://github.com/kodadot/kodadot-presskit',
           },
+
           'writings.md'
         ]
       },
