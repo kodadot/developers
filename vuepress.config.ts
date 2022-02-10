@@ -28,10 +28,6 @@ module.exports = {
             link: '/tutorials/how_to_airdrop.md'
           },
           {
-            text: 'Frequently asked questions',
-            link: 'faq.md',
-          },
-          {
             text: 'NFTs from scrach',
             link: 'how-to-make-nft.md',
           },
@@ -67,6 +63,10 @@ module.exports = {
           {
             text: 'Writings',
             link: 'writings.md',
+          },
+          {
+            text: 'Frequently asked questions',
+            link: 'faq.md',
           },
         ]
       },
