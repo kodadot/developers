@@ -29,11 +29,11 @@ module.exports = {
           },
           {
             text: 'Frequently asked questions',
-            link: 'FAQ.md'
+            link: 'faq.md',
           },
           {
             text: 'How to make an nft step by step',
-            link: 'how-to-make-nft.md'
+            link: 'how-to-make-nft.md',
           },
         ],
       },
@@ -63,7 +63,7 @@ module.exports = {
           },
           {
             text: 'Writings',
-            link: 'writings.md'
+            link: 'writings.md',
           },
         ]
       },
