@@ -22,3 +22,6 @@ It's simple. Reaching out to your fans and community can be sometimes frustratin
 
 Spotlight is a dedicated category on our [discord](https://discord.gg/kodadot) where the most active and high quality projects recieve their chance to connect with the rest of the community and share news and mints more exclusively. It's right at the top so it definitely gets the much needed attention
 
+## Would you like to get featured on the main KodaDot landing page?
+
+Find out more on our discord! Looking forward for your introduction it the dedicated channel.
