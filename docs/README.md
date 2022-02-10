@@ -51,3 +51,8 @@ It may take while till we finish migrating from old sources, plus we are recreat
 - We are having bi-weekly updates from contributors to the KodaDot, incl developers, community and creators to share insights on issues we've done, tackling issues, challenges and generally what's happening speaking on roadmap. 
 - You can [learn more about Meta_Hours at dedicated page](meta_hours.md)
 
+## Writings
+- [We are document our recent additions to KodaDot in long-form writings.](writings.md)
+ 
+## Presskit & Logo
+- [Looking for icons and logo of KodaDot?](./presskit.md)

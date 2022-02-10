@@ -3,6 +3,7 @@
 - You can find summary of all of them at our [kodadot/nft-gallery/discussions under category Meta_Hours](https://github.com/kodadot/nft-gallery/discussions/categories/meta-hours)
 
 ### Recent Meta_Hours
+- [Meta_Hours_5](https://github.com/kodadot/nft-gallery/discussions/2210)
 - [Meta_Hours_4](https://github.com/kodadot/nft-gallery/discussions/2007)
 - [Meta_Hours_3](https://github.com/kodadot/nft-gallery/discussions/1710)
 - [Meta_Hours_2](https://github.com/kodadot/nft-gallery/discussions/1699)

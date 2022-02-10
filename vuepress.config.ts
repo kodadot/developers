@@ -38,13 +38,15 @@ module.exports = {
             link: 'https://twitter.com/kodadot',
           },
           {
-            text: 'Meta_Hours',
+            text: 'Meta_Hours (GitHub)',
             link: 'https://github.com/kodadot/nft-gallery/discussions/categories/meta-hours'
-          },
+          },         
+            'meta_hours.md',
           {
             text: 'Presskit & Logo',
             link: 'https://github.com/kodadot/kodadot-presskit',
           },
+          'writings.md'
         ]
       },
       {
