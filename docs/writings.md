@@ -3,7 +3,7 @@
 - [We do bi-weekly community updates called Meta_Hours](meta_hours.md)
 
 ### KodaDot writings on Medium
-- [Wen Statemine by KodaDot](medium.com/kodadot/wen-statemine-by-kodadot-b35ae13b70ff)
+- [Wen Statemine by KodaDot](https://medium.com/kodadot/wen-statemine-by-kodadot-b35ae13b70ff)
 - [Road To KodaDot v2](https://medium.com/kodadot/road-to-kodadot-v2-recapping-the-last-chapter-of-2021-9709fb4f3ee7)
 - [KodaDot 2.0 -- Beta](https://medium.com/kodadot/kodadot-2-0-beta-d136f6ff139)
 - [We've organized first Dotsama meetup in Lisbon thanks to KodaDot](https://medium.com/kodadot/first-dotsama-meetup-in-lisbon-and-how-the-kodadot-team-helped-to-make-it-real-10b4ca63d0b5)
