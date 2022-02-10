@@ -21,5 +21,5 @@
 
 ![step1](/bug_report/step5.png)
 
-- If no one gets to your bug report, it might mean there are other important to issues to tackle or you filled the bug report not well enough
+- If no one gets to your bug report, it might mean there are other important issues to tackle or you filled the bug report not well enough
 - Feel free to ask on our discord in developer category about the issue you submitted
