@@ -1,5 +1,6 @@
 # How to file a proper bug report
 
+- Have you occured any bugs on KodaDot application? We appreciate every bug report! Thanks for your patience.
 - After you read the [code of conduct](https://github.com/kodadot/nft-gallery/blob/main/CODE_OF_CONDUCT.md) head to [KodaDot github](https://github.com/kodadot) and click on nft gallery
 
 ![step1](/bug_report/step1.png)
