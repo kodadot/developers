@@ -11,12 +11,12 @@ In this case, the first step is to create one. We’re not artists: This part is
 
 ## So.. What's the flow?
 
-Whether you are digital artists, or you create physically, the possibility to sell your art exclusively by you without middlemen is forever here. It's possible thanks to [blockchain](https://en.wikipedia.org/wiki/Blockchain) technology and couple talented wizards who are trying everyday to make life of non-technical people better.With cryptocurrencies and nfts getting more and more popular, you set foot on a interesting journey.
+Whether you are digital artists, or you create physically, the possibility to sell your art exclusively by you without middlemen is forever here. It's possible thanks to [blockchain](https://en.wikipedia.org/wiki/Blockchain) technology and couple talented wizards who are trying everyday to make life of non-technical people better. With cryptocurrencies and nfts getting more and more popular, you set foot on an interesting journey.
 
 To securely store your artworks and balances you need to have a cryptocurrency wallet.
 What is a [cryptocurrency wallet](https://en.wikipedia.org/wiki/Cryptocurrency_wallet)?
 
-Fortunately we've all the tutorials for you.
+Fortunately, we have all the tutorials for you. Let's proceed
 
 ## Set up a crypto wallet
 
@@ -30,4 +30,8 @@ Looks like you are ready to proceed to another step. [Add funds to your wallet!]
 ## Right.. funds.. now what?
 
 Congratulations! You are almost there. The most fun part begins right now. You'll get to the [minting process](tutorials/how_to_mint.md) which officially and forever stores your art on blockchain. It's all up to you now, whether you want to send it to a friend, or list it and start selling your art! Good luck!
+
+## Share your first minted art!
+
+We are keen to see your progress or help you with some advanced stuff. Our [discord](https://discord.gg/kodadot) temple is always open for you!
 
