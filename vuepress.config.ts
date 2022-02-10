@@ -19,6 +19,11 @@ module.exports = {
             text: 'How to top up your wallet',
             link: '/tutorials_ss/how_to_create_wallet.md' 
           },
+          {
+            text: 'How to file a bug report',
+            link: '/tutorials_ss/how_to_bug_report.md'
+          },
+
           'FAQ.md',
         ],
       },
