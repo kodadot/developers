@@ -13,18 +13,23 @@ To start airdroping, you must  have polkadot.js wallet with some $KSM balance. I
 
 ![step2](/how_to_airdrop/step2.png)
 
-- 
+- Once you input all the details, click on "Show advanced settings"
 
 ![step3](/how_to_airdrop/step3.png)
 
-- 
+- You now have few options to select from. You can see that we've chose to go with 3 nft pieces(edition)
+- The slider indicates how many % of the listed adresses will get the NFT. 
+- For example: If you decide to go with 3 editions(3 pieces) and choose 50%, only 50% of the adresses will recieve the NFT according to how many pieces have you decided to go with.
+- "Use random" will randomly choose which adresses will get the airdrop
 
 ![step4](/how_to_airdrop/step4.png)
   
-- 
+- Once you finish inputting the adresses, click on "click to create nfts"
 
 ![step5](/how_to_airdrop/step5.png)
 
-- 
+- Input your password and sign the transaction
 
 ![step6](/how_to_airdrop/step6.png)
+
+- You've succesfully airdroped nfts! :tada:
