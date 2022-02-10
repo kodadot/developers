@@ -5,26 +5,26 @@ module.exports = {
   themeConfig: {
     navbar: [
       {
-        text: 'How to get started',
+        text: 'Tutorials',
         children: [
           { 
-            text: 'How to create wallet', 
+            text: 'Creating a wallet', 
             link: '/tutorials/how_to_create_wallet.md' 
           },
           { 
-            text: 'How to mint', 
+            text: 'Minting', 
             link: '/tutorials/how_to_mint.md' 
           },
           { 
-            text: 'How to top up your wallet',
+            text: 'Adding $KSM to your wallet',
             link: '/tutorials/how_to_create_wallet.md' 
           },
           {
-            text: 'How to file a bug report',
+            text: 'Filing bug report',
             link: '/tutorials/how_to_bug_report.md'
           },
           {
-            text: 'How to airdrop nfts',
+            text: 'Airdroping nfts',
             link: '/tutorials/how_to_airdrop.md'
           },
           {
@@ -32,7 +32,7 @@ module.exports = {
             link: 'faq.md',
           },
           {
-            text: 'How to make an nft step by step',
+            text: 'NFTs from scrach',
             link: 'how-to-make-nft.md',
           },
         ],
