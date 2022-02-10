@@ -12,12 +12,12 @@ module.exports = {
             link: '/tutorials/how_to_create_wallet.md' 
           },
           { 
-            text: 'Minting', 
-            link: '/tutorials/how_to_mint.md' 
+            text: 'Adding funds to your wallet', 
+            link: '/tutorials/how_to_top_up_wallet.md' 
           },
           { 
-            text: 'Adding $KSM to your wallet',
-            link: '/tutorials/how_to_create_wallet.md' 
+            text: 'Minting', 
+            link: '/tutorials/how_to_mint.md' 
           },
           {
             text: 'Filing bug report',
