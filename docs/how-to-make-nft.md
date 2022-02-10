@@ -14,4 +14,4 @@ You can learn about that more at [How To Create Wallet](/tutorials_ss/how_to_cre
 
 ## Mint your NFT on KodaDot
 
-- Woala and you can have mint
+- Once you've got balance on your wallet or recieved initial credit from KodaDot, [you can start to mint on KodaDot](/docs/tutorials_ss/how_to_mint.md)
