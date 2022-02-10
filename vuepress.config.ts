@@ -23,6 +23,10 @@ module.exports = {
             text: 'How to file a bug report',
             link: '/tutorials_ss/how_to_bug_report.md'
           },
+          {
+            text: 'How to airdrop nfts',
+            link: '/tutorials_ss/how_to_airdrop.md'
+          },
 
           'FAQ.md',
         ],
