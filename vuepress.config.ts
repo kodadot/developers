@@ -73,8 +73,15 @@ module.exports = {
       {
         text: 'KodaDot Developer',
         children: [
-          'developer.md',
-          'meta_hours.md',
+
+          {
+            text: 'Why you should contribute to KodaDot?',
+            link: 'developer.md',
+          },
+          {
+            text: 'Meta_hours - bi-weekly digest of development process',
+            link: 'meta_hours.md',
+          },
           { 
             text: 'nft-gallery/issues',
             link: 'https://github.com/kodadot/nft-gallery/issues'
