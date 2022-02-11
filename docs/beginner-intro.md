@@ -48,3 +48,40 @@ Digital assets, on the other hand, are decentralized.
 
 They do not involve any trust at all. Cryptocurrency systems work because of a solid mathematical foundation, not because you trust the middleman to do the right thing. In one word, digital assets are trustless.
 
+## How is this all possible? Blockchain
+
+### Blockchain definiton:
+
+Blockchain is a shared, immutable ledger that facilitates the process of recording transactions and tracking assets in a business network. An asset can be tangible (a house, car, cash, land) or intangible (intellectual property, patents, copyrights, branding). 
+Virtually anything of value can be tracked and traded on a blockchain network, reducing risk and cutting costs for all involved.
+
+### Why is this important?
+
+Why blockchain is important: Business runs on information. The faster it’s received and the more accurate it is, the better. Blockchain is ideal for delivering that information because it provides immediate, shared and completely transparent information stored on an immutable ledger that can be accessed only by permissioned network members. A blockchain network can track orders, payments, accounts, production and much more. And because members share a single view of the truth, you can see all details of a transaction end to end, giving you greater confidence, as well as new efficiencies and opportunities.
+
+
+The blockchain is just a record of every valid transaction that has ever taken place, and it is the ultimate authority when determining everyone’s balance. 
+
+## Key elements of a blockchain 
+
+### Distributed ledger technology 
+
+All network participants have access to the distributed ledger and its immutable record of transactions. With this shared ledger, transactions are recorded only once, eliminating the duplication of effort that’s typical of traditional business networks.
+
+### Immutable records
+
+No participant can change or tamper with a transaction after it’s been recorded to the shared ledger. If a transaction record includes an error, a new transaction must be added to reverse the error, and both transactions are then visible.
+
+### Smart contracts
+
+To speed transactions, a set of rules — called a smart contract — is stored on the blockchain and executed automatically. A smart contract can define conditions for corporate bond transfers, include terms for travel insurance to be paid and much more.
+
+
+Next, we will gain an understanding of:
+
+## Decentralization and nodes...what the heck does this mean?
+
+## What is a block? What is the chain?
+
+## How does a transaction work? What is mining?
+
