@@ -33,10 +33,22 @@ It may take while till we finish migrating from old sources, plus we are recreat
 - [Bug bounty program](contests_programs.md#bug-bounty-program)
 - [Gif-memes contest](contests_programs.md#gif-meme-contest)
 
-## How to get featured on KodaDot?
+## Navigation
+
+### I'm artist
+
+- Are you new here and want to find out more information? Have a look at our [NFTs from scratch](how-to-make-nft.md)
 - Learn [more](get_featured.md) about KodaDot incentives to support artists and collections.
 
-## Getting Started
+### I'm developer
+
+- Find out more information at [developer dedicate page](developer.md).
+
+### I'm interested in the technology
+
+- Great! We are working on [technology-dedicated page](beginner-intro.md).
+
+## Getting Started 
 
 ### All tutorials under one roof
 - [Tutorials overview](tutorial-overview.md)
