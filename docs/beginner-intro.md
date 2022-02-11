@@ -28,3 +28,23 @@ Digital assets work from person to person, without a credit card processor, bank
 
 Which brings us to the next subject:
 
+## Value: Decentralizaton
+
+When it comes to digital assets, there is one magic word you'll hear a lot: decentralization.
+
+In fact, decentralization is the single biggest difference between digital assets and the old financial system. Digital assets make feasible a world where the financial system is governed by individuals, not by centralized institutions.
+
+When you type your password into a credit card machine, you're actually not sending funds directly to the salesman. There's at least one bank between you and them (in most cases there may be several banks involved).
+
+You and the salesman both trust the banking institution sitting between you.
+
+You trust that only the amount you authorized will be debited from your account. The salesperson trusts they'll receive the right amount when the credit card balance gets settled.
+
+There's a lot of trust involved here!
+
+The architecture where you trust a middleman to complete a financial transaction is called a centralized architecture. There is a central person or institution that actually carries out the financial transaction on your behalf.
+
+Digital assets, on the other hand, are decentralized.
+
+They do not involve any trust at all. Cryptocurrency systems work because of a solid mathematical foundation, not because you trust the middleman to do the right thing. In one word, digital assets are trustless.
+
