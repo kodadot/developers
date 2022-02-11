@@ -14,3 +14,17 @@ Digital assets are revolutionary technology, and they bring a whole set of uniqu
 
 - If you're are just getting started with cryptos, then get ready to forget or recycle many concepts from the legacy financial system.
 
+## What are digital assets?
+
+Let's start from the beginning. What are digital assets? How is it different from a credit card or other instruments from the legacy financial system?
+
+A digital asset is a technology which allows value to be transferred from peer to peer, anywhere in the world, without requiring trust between the parties involved.
+
+Sounds simple, right?
+
+It's a novel technology that allows anyone to become their own bank. When you need to send money to someone else, simply request their address, paste it into a wallet and hit send. That's all there is to it.
+
+Digital assets work from person to person, without a credit card processor, bank or any other middleman involved.
+
+Which brings us to the next subject:
+
