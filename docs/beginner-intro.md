@@ -59,7 +59,6 @@ Virtually anything of value can be tracked and traded on a blockchain network, r
 
 Why blockchain is important: Business runs on information. The faster it’s received and the more accurate it is, the better. Blockchain is ideal for delivering that information because it provides immediate, shared and completely transparent information stored on an immutable ledger that can be accessed only by permissioned network members. A blockchain network can track orders, payments, accounts, production and much more. And because members share a single view of the truth, you can see all details of a transaction end to end, giving you greater confidence, as well as new efficiencies and opportunities.
 
-
 The blockchain is just a record of every valid transaction that has ever taken place, and it is the ultimate authority when determining everyone’s balance. 
 
 ## Key elements of a blockchain 
@@ -75,9 +74,6 @@ No participant can change or tamper with a transaction after it’s been recorde
 ### Smart contracts
 
 To speed transactions, a set of rules — called a smart contract — is stored on the blockchain and executed automatically. A smart contract can define conditions for corporate bond transfers, include terms for travel insurance to be paid and much more.
-
-
-Next, we will gain an understanding of:
 
 ## Decentralization and nodes...what the heck does this mean?
 
