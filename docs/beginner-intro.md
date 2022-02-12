@@ -77,7 +77,18 @@ To speed transactions, a set of rules — called a smart contract — is stored 
 
 ## Decentralization and nodes...what the heck does this mean?
 
+
+
 ## What is a block? What is the chain?
 
 ## How does a transaction work? What is mining?
 
+## Exchanges
+
+When the number of digitalassets exploded, so did all the different ways to exchange one for another.
+
+Cryptocurrency exchanges, which are systems where you could send some digital assets and receive tens of different assets on the other end, sprung up everywhere.
+
+Exchanges are like stock brokers that allow you to securely trade cryptocurrencies for other cryptocurrencies and also for fiat money (dollars, euros and so on).
+
+It's important to note, that you only trully own your digital assets(cryptocurrencies) when you store them on a hardware or software wallet
