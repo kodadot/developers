@@ -101,12 +101,31 @@ When you first buy some digital asset, you are issued two keys: a public key, wh
 You can think of the private key as a password that unlocks the virtual vault that holds your money. As long as you — and only you — have access to your private key, your funds are safe and can be managed anywhere in the world with an internet connection. 
 Where should you store your private keys?
 
-## Where can i store digital assets?
+## Where can i store my private keys(seed phrase)?
 
 ### First option - custodial solution
 
-You can store them online in a crypto wallet: The best and simplest option for most people is to use a virtual wallet, like the one offered by exchanges(custodial wallet), to manage your private keys. These are known as “hot” wallets, because your private keys are stored on the internet. This makes buying, selling, or using your digital money as convenient and accessible as using a credit card online. Choose a wallet provided by a company with a long track record for security and features like two-factor authentication. It also exposes you to certain type of risk. There are many occurencies where exchanges were hacked and founds stolen. That's why we recommend the second option.
+You can store them online in a crypto wallet: The best and simplest option for most people is to use a virtual wallet, like the one offered by exchanges(custodial wallet), to manage your private keys. These are known as “hot” wallets, because your private keys are stored on the internet. This makes buying, selling, or using your digital money as convenient and accessible as using a credit card online. Choose a wallet provided by a company with a long track record for security and features like two-factor authentication. 
 
 ### Second option - non-custodial solution
 
-Store them offline somewhere safe: Some investors choose to keep their private keys on a computer that isn’t connected to the internet, written on pieces of paper, or even just memorized. This is referred to as “cold storage,” and while it does protect your private key against digital theft, it makes using your cryptocurrency much less convenient while creating other risks. 
+Store them offline somewhere safe: Some people choose to keep their private keys on a computer that isn’t connected to the internet, written on pieces of paper, or even just memorized. This is referred to as “cold storage,” and while it does protect your private key against digital theft, it makes using your cryptocurrency much less convenient while creating other risks.
+
+## Custodial Wallets - Pros and Cons
+
+Both custodial and non-custodial wallets have their pros and cons. Custodial wallets are a great option if you’re looking for convenience. They’re accessible and easy to use, and there’s less responsibility when using one. You’ll be able to log into the account for the platform or exchange that holds your wallet whenever you want to access your funds. If you happen to lose the password, you can probably reset it to recover access to your account. You won’t lose your keys and you can even save on fees.
+
+On the other hand, there are also downsides to using a custodial wallet. Storing your coins in a custodial wallet firstly means that you don’t exactly own them. Similar to storing your money with a bank, the exchange owes you the coins when you want to withdraw them. Custodial wallets may also be less secure. A data breach or hack can put everyone’s funds at risk. Determining how likely this is to occur requires scrutinization of the exchange’s security measures.
+
+
+
+## Non-Custodial Wallets - Pros and Cons
+
+Non-custodial wallets offer the benefit of giving you control over your funds. You’re responsible for your private keys when you use non-custodial wallets, which gives you control and security. You’re the one who has to approve transactions and you can make quick withdrawals because you’re not waiting for anyone else to approve anything. Using a non-custodial wallet can lower your risk of security issues too. You have a small amount of funds compared to big exchanges, making you less of a target. You might also be able to access your funds without an internet connection.
+
+However, being responsible for your wallet means you have to keep your private keys safe. If you lose your key, you could also lose the funds that it will give you access to. You’re on your own, and you won’t have anyone to help you.
+
+Custodial and non-custodial crypto wallets each have pros and cons. Consider these carefully before choosing one.
+
+
+
