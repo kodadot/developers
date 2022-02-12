@@ -75,14 +75,6 @@ No participant can change or tamper with a transaction after it’s been recorde
 
 To speed transactions, a set of rules — called a smart contract — is stored on the blockchain and executed automatically. A smart contract can define conditions for corporate bond transfers, include terms for travel insurance to be paid and much more.
 
-## Decentralization and nodes...what the heck does this mean?
-
-
-
-## What is a block? What is the chain?
-
-## How does a transaction work? What is mining?
-
 ## Exchanges
 
 When the number of digitalassets exploded, so did all the different ways to exchange one for another.
@@ -91,4 +83,30 @@ Cryptocurrency exchanges, which are systems where you could send some digital as
 
 Exchanges are like stock brokers that allow you to securely trade cryptocurrencies for other cryptocurrencies and also for fiat money (dollars, euros and so on).
 
-It's important to note, that you only trully own your digital assets(cryptocurrencies) when you store them on a hardware or software wallet
+It's important to note, that you only trully own your digital assets(cryptocurrencies) when you store them on a non-custodial hardware or software wallet
+
+## What are custodial and non-custodial wallets?
+### Custodial Wallet?
+
+A custodial wallet means that a third party is holding your private keys for you. This will usually be the exchange or platform where you purchased your currency. This type of wallet requires you to trust this third party with your private keys, keeping your funds secure for you and giving them to you when you need them.
+
+### Non-Custodial Wallet?
+
+In contrast, a non-custodial wallet gives you complete control over your private keys. That means you’re totally in control of your funds. The third party is removed from the equation, but it also means you have sole responsibility for keeping track of your keys.
+
+## Keys.. keys everywhere
+
+When you first buy some digital asset, you are issued two keys: a public key, which works like an email address (meaning you can safely share it with others, allowing you to send or receive funds), and a private key, which is typically a string of letters and numbers (and which is not to be shared with anyone). 
+
+You can think of the private key as a password that unlocks the virtual vault that holds your money. As long as you — and only you — have access to your private key, your funds are safe and can be managed anywhere in the world with an internet connection. 
+Where should you store your private keys?
+
+## Where can i store digital assets?
+
+### First option - custodial solution
+
+You can store them online in a crypto wallet: The best and simplest option for most people is to use a virtual wallet, like the one offered by exchanges(custodial wallet), to manage your private keys. These are known as “hot” wallets, because your private keys are stored on the internet. This makes buying, selling, or using your digital money as convenient and accessible as using a credit card online. Choose a wallet provided by a company with a long track record for security and features like two-factor authentication. It also exposes you to certain type of risk. There are many occurencies where exchanges were hacked and founds stolen. That's why we recommend the second option.
+
+### Second option - non-custodial solution
+
+Store them offline somewhere safe: Some investors choose to keep their private keys on a computer that isn’t connected to the internet, written on pieces of paper, or even just memorized. This is referred to as “cold storage,” and while it does protect your private key against digital theft, it makes using your cryptocurrency much less convenient while creating other risks. 
