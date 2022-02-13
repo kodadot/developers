@@ -11,69 +11,69 @@
 
 ## KodaDot app in Nova wallet
 
-- 
+
 ![dapp1](/novawallet-kodadot-dapp/nova_2520.png)
 
 
 
-![dapp1](/novawallet-kodadot-dapp/nova_2521.png)
+![dapp2](/novawallet-kodadot-dapp/nova_2521.png)
 
 
 
-![dapp1](/novawallet-kodadot-dapp/nova_2522.png)
+![dapp3](/novawallet-kodadot-dapp/nova_2522.png)
 
 
 
-![dapp1](/novawallet-kodadot-dapp/nova_2523.png)
+![dapp4](/novawallet-kodadot-dapp/nova_2523.png)
 
 
 
-![dapp1](/novawallet-kodadot-dapp/nova_2524.png)
+![dapp5](/novawallet-kodadot-dapp/nova_2524.png)
 
 
 
-![dapp1](/novawallet-kodadot-dapp/nova_2525.png)
+![dapp6](/novawallet-kodadot-dapp/nova_2525.png)
 
 
 
-![dapp1](/novawallet-kodadot-dapp/nova_2526.png)
+![dapp7](/novawallet-kodadot-dapp/nova_2526.png)
 
 
 
-![dapp1](/novawallet-kodadot-dapp/nova_2527.png)
+![dapp8](/novawallet-kodadot-dapp/nova_2527.png)
 
 
 
-![dapp1](/novawallet-kodadot-dapp/nova_2528.png)
+![dapp9](/novawallet-kodadot-dapp/nova_2528.png)
 
 
 
-![dapp1](/novawallet-kodadot-dapp/nova_2529.png)
+![dapp10](/novawallet-kodadot-dapp/nova_2529.png)
 
 
 
-![dapp1](/novawallet-kodadot-dapp/nova_2530.png)
+![dapp11](/novawallet-kodadot-dapp/nova_2530.png)
 
 
 
 
-![dapp1](/novawallet-kodadot-dapp/nova_2531.png)
+![dapp12](/novawallet-kodadot-dapp/nova_2531.png)
 
 
 
-![dapp1](/novawallet-kodadot-dapp/nova_2532.png)
+![dapp13](/novawallet-kodadot-dapp/nova_2532.png)
 
 
 
-![dapp1](/novawallet-kodadot-dapp/nova_2533.png)
+![dapp14](/novawallet-kodadot-dapp/nova_2533.png)
 
 
 
-![dapp1](/novawallet-kodadot-dapp/nova_2534.png)
+![dapp15](/novawallet-kodadot-dapp/nova_2534.png)
 
 
 
-![dapp1](/novawallet-kodadot-dapp/nova_2535.png)
+![dapp16](/novawallet-kodadot-dapp/nova_2535.png)
 
 
 
