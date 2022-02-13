@@ -74,6 +74,5 @@
 
 ![testflight9](/kodadot-phone-ios/testflight9.png)
 
-
-
+- Go back to the [previous page](how-to-kodadot-phone-ios.md) and continue with the next steps
 
