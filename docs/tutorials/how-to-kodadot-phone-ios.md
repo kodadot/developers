@@ -1,4 +1,4 @@
-# How to use KodaDot application on iOS software
+# How to use KodaDot application on iOS software (beta)
 
 ## What we need
 
@@ -7,6 +7,12 @@
     - Nova wallet is next gen Polkadot & Kusama wallet
 
 - [TestFlight](https://testflight.apple.com/) 
-- [Nova wallet](https://novawallet.io/) -> Choose "Get iOS app" and continue
+- [Nova wallet](https://novawallet.io/) 
+
+## How to download testflight 
+
+
+
+
 
 
