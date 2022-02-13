@@ -53,24 +53,24 @@
 
 - Once you set up your nova wallet, you need to go back to Testflight app, click on Nova wallet and change the build version to 2.2.1(2)
 - This won't do anything with your current account state of the wallet
+- Open Testlflight and open Nova wallet
 
 ![testflight5](/kodadot-phone-ios/testflight5.png)
 
-
+- Scroll down a bit and choose "previous builds"
 
 ![testflight6](/kodadot-phone-ios/testflight6.png)
 
-
+- Choose 2.2.1 and continue
 
 ![testflight7](/kodadot-phone-ios/testflight7.png)
 
-
-
+- Choose install
 
 ![testflight8](/kodadot-phone-ios/testflight8.png)
 
-
-
+- Confirm and you are ready!    
+- This older build will allow you to see dapps browser and try KodaDot
 
 ![testflight9](/kodadot-phone-ios/testflight9.png)
 
