@@ -22,3 +22,29 @@
 
 ## Nova Wallet setup
 
+![nova1](/kodadot-phone-ios/nova1.png)
+
+
+
+![nova2](/kodadot-phone-ios/nova2.png)
+
+
+
+![nova3](/kodadot-phone-ios/nova3.png)
+
+
+
+![nova4](/kodadot-phone-ios/nova4.png)
+
+
+
+![nova5](/kodadot-phone-ios/nova5.png)
+
+
+
+![nova6](/kodadot-phone-ios/nova6.png)
+
+
+
+![nova7](/kodadot-phone-ios/nova7.png)
+
