@@ -51,3 +51,6 @@
 
 ![nova7](/kodadot-phone-ios/nova7.png)
 
+- Once you set up your nova wallet, you need to go back to Testflight app, click on Nova wallet and change the build version to 2.2.1(2)
+- This won't do anything with your 
+
