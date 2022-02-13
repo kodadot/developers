@@ -22,29 +22,32 @@
 
 ## Nova Wallet setup
 
+- Open your browser on your device and type in https://novawallet.io/
+
+
 ![nova1](/kodadot-phone-ios/nova1.png)
 
-
+- Scroll down and tap on "Get ios App on Testflight"
 
 ![nova2](/kodadot-phone-ios/nova2.png)
 
-
+- Tap accept and continue
 
 ![nova3](/kodadot-phone-ios/nova3.png)
 
-
+- Install the wallet
 
 ![nova4](/kodadot-phone-ios/nova4.png)
 
-
+- Tap open, app opens for you
 
 ![nova5](/kodadot-phone-ios/nova5.png)
 
-
+- Choose next and continue
 
 ![nova6](/kodadot-phone-ios/nova6.png)
 
-
+- Choose between the two according to your preferences
 
 ![nova7](/kodadot-phone-ios/nova7.png)
 
