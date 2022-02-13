@@ -74,5 +74,5 @@
 
 ![testflight9](/novawallet-testflight-setup/testflight9.png)
 
-- Go back to the [previous page](how-to-novawallet-testflight-setup.md) and continue with the next steps
+- Go back to the [previous page](how-to-kodadot-phone-ios.md) and continue with the next steps
 
