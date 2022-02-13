@@ -49,36 +49,36 @@
 
 ![dapp9](/novawallet-kodadot-dapp/nova_2528.png)
 
-
+- Check all the details and cick on "confirm"
 
 ![dapp10](/novawallet-kodadot-dapp/nova_2529.png)
 
-
+- Wait for the transaction to be confirmed
 
 ![dapp11](/novawallet-kodadot-dapp/nova_2530.png)
 
-
-
+- Buying has been succesfull!
+- Let's check it on our profile
 
 ![dapp12](/novawallet-kodadot-dapp/nova_2531.png)
 
-
+- To navigate yourself to your profile, click  on the dropdown icon
 
 ![dapp13](/novawallet-kodadot-dapp/nova_2532.png)
 
-
+- Tap on your profile, popup window will appear
 
 ![dapp14](/novawallet-kodadot-dapp/nova_2533.png)
 
-
+- Choose "Profile"
 
 ![dapp15](/novawallet-kodadot-dapp/nova_2534.png)
 
-
+- You'll see your collected pieces in "Collected" section
 
 ![dapp16](/novawallet-kodadot-dapp/nova_2535.png)
 
-
+- Congratz! You've succesfully bought an nft from your phone!
 
 
 
