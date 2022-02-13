@@ -12,7 +12,7 @@
 ## KodaDot app in Nova wallet
 
 - 
-![dapp1](/novawallet-kodadot-dapp/nova2520.png)
+![dapp1](/novawallet-kodadot-dapp/nova_2520.png)
 
 
 
