@@ -9,7 +9,7 @@
 
 [How to download testflight and set up nova wallet for kodadot app](how-to-testflight-and-nova-setup.md)
 
-## KodaDot app
+## KodaDot app in Nova wallet
 
 - 
 
