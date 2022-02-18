@@ -29,7 +29,7 @@ module.exports = {
           },
           {
             text: 'NFTs from scratch',
-            link: 'how-to-make-nft.md',
+            link: '/how-to-make-nft.md',
           },
         ],
       },
@@ -54,7 +54,7 @@ module.exports = {
           },         
           {
             text: 'Meta_hours',
-            link: 'meta-hours.md',
+            link: '/meta-hours.md',
           },
           {
             text: 'Presskit & Logo',
@@ -62,16 +62,37 @@ module.exports = {
           },
           {
             text: 'Writings',
-            link: 'writings.md',
+            link: '/writings.md',
           },
           {
             text: 'Collaborate with us',
-            link: 'get_featured.md',
+            link: '/get_featured.md',
           },
           {
             text: 'Frequently asked questions',
-            link: 'faq.md',
+            link: '/faq.md',
           },
+        ]
+      },
+      {
+        text: 'Incentives',
+        children: [
+          {
+            text: 'Incentives',
+            link: '/incentives/incentives.md',
+          },
+          {
+            text: 'Incentivized Bug Reporting',
+            link: '/incentives/incentivized-bug-reporting.md',
+          },
+          {
+            text: 'Incentivized Development',
+            link: '/developer.md',
+          },
+          {
+            text: 'Incentivized QA',
+            link: '/incentives/incentivized-qa.md',
+          }
         ]
       },
       {
@@ -79,15 +100,11 @@ module.exports = {
         children: [
           {
             text: 'Why you should contribute to KodaDot?',
-            link: 'developer.md',
-          },
-          {
-            text: 'Incentives to participate',
-            link: 'incentives.md',
+            link: '/developer.md',
           },
           {
             text: 'Meta_hours - digest on progress',
-            link: 'meta-hours.md',
+            link: '/meta-hours.md',
           },
           { 
             text: 'nft-gallery/issues',
