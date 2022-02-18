@@ -73,13 +73,13 @@ No participant can change or tamper with a transaction after it’s been recorde
 
 ### Smart contracts
 
-To speed transactions, a set of rules — called a smart contract — is stored on the blockchain and executed automatically. A smart contract can define conditions for corporate bond transfers, include terms for travel insurance to be paid and much more.
+To speed transactions, a set of rules — called a [smart contract](https://en.wikipedia.org/wiki/Smart_contract) — is stored on the blockchain and executed automatically. A smart contract can define conditions for corporate bond transfers, include terms for travel insurance to be paid and much more.
 
 ## Exchanges
 
 When the number of digitalassets exploded, so did all the different ways to exchange one for another.
 
-Cryptocurrency exchanges, which are systems where you could send some digital assets and receive tens of different assets on the other end, sprung up everywhere.
+[Cryptocurrency exchanges](https://en.wikipedia.org/wiki/Cryptocurrency_exchange), which are systems where you could send some digital assets and receive tens of different assets on the other end, sprung up everywhere.
 
 Exchanges are like stock brokers that allow you to securely trade cryptocurrencies for other cryptocurrencies and also for fiat money (dollars, euros and so on).
 
