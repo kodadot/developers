@@ -25,6 +25,8 @@ This is still under going thought process and experiment to establish fixed amou
 
 **Base range where we value your contribution is around $20-$50.** If there is opportunity you are technical contributor and you make origin pull-request suggestions what and why should be done other way, **it possibility to raise up to $100.** 
 
+### Reference
+- [What is QA?](https://en.wikipedia.org/wiki/Quality_assurance)
 
 
 
