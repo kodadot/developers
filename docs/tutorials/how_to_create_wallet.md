@@ -5,7 +5,7 @@
 - We'll have 2 tutorials to choose from, either you can watch video tutorial in english on our youtube channel, or you can follow the step by step tutorial. The tutorial on youtube channel will be avalaible soon.
 
 ## Video tutorial
-- 
+<iframe width="740" height="380" src="https://www.youtube.com/embed/_b0xGiqwDcA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Step by step tutorial
 - Go to [polkadot.js.org/extension/](https://polkadot.js.org/extension/)

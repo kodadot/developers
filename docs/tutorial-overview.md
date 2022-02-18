@@ -18,3 +18,7 @@
 
 ### [File proper bug report](/tutorials/how_to_bug_report.md)
 
+## KodaDot mobile
+
+### [How to use KodaDot application on iOS software (beta)](/tutorials/how-to-kodadot-phone-ios.md)
+

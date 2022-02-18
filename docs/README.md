@@ -37,7 +37,8 @@ It may take while till we finish migrating from old sources, plus we are recreat
 
 ### I'm artist
 
-- Are you new here and want to find out more information? Have a look at our [NFTs from scratch](how-to-make-nft.md)
+- Are you new here and want to find out more information? Have a look at our 
+- [NFTs from scratch](how-to-make-nft.md)
 - Learn [more](get_featured.md) about KodaDot incentives to support artists and collections.
 
 ### I'm developer
@@ -46,7 +47,7 @@ It may take while till we finish migrating from old sources, plus we are recreat
 
 ### I'm interested in the technology
 
-- Great! We are working on [technology-dedicated page](beginner-intro.md).
+- Great! We are working on [technology-dedicated page](technology.md).
 
 ## Getting Started 
 
