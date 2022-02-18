@@ -53,7 +53,7 @@ module.exports = {
             link: 'https://github.com/kodadot/nft-gallery/discussions/categories/meta-hours'
           },         
           {
-            text: 'Meta_hours dedicated page',
+            text: 'Meta_hours',
             link: 'meta_hours.md',
           },
           {
@@ -75,14 +75,18 @@ module.exports = {
         ]
       },
       {
-        text: 'KodaDot Developer',
+        text: 'KodaDot Development',
         children: [
           {
             text: 'Why you should contribute to KodaDot?',
             link: 'developer.md',
           },
           {
-            text: 'Meta_hours - bi-weekly digest of development progress',
+            text: 'Incentives to participate',
+            link: 'incentives.md',
+          },
+          {
+            text: 'Meta_hours - digest on progress',
             link: 'meta_hours.md',
           },
           { 
