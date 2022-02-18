@@ -2,10 +2,10 @@
 
 ## Is this page for you?
 
-- This is ideal place for someone who is getting in touch with web3/digital assets technologies and wants to learn everything at one place.
+- This is ideal place for someone who is getting in touch with [web3](https://en.wikipedia.org/wiki/Web3)/digital assets technologies and wants to learn everything at one place.
 - This is work in progress and there'll be many links leading to more thorough concepts.
 
-- If you're just getting started in the world of digital assets, then the amount of information may seem a bit overwhelming at first.
+- If you're just getting started in the world of [digital assets](https://en.wikipedia.org/wiki/Digital_asset), then the amount of information may seem a bit overwhelming at first.
 
 - Blockchains, forks, stablecoins, mining, staking, exchanges, security, hardware wallets.. Yup, it seems like there's no ending.
 
@@ -18,7 +18,7 @@ Digital assets are revolutionary technology, and they bring a whole set of uniqu
 
 Let's start from the beginning. What are digital assets? How is it different from a credit card or other instruments from the legacy financial system?
 
-A digital asset is a technology which allows value to be transferred from peer to peer, anywhere in the world, without requiring trust between the parties involved.
+A digital asset is a technology which allows value to be transferred from [peer to peer](https://en.wikipedia.org/wiki/Peer-to-peer), anywhere in the world, without requiring trust between the parties involved.
 
 Sounds simple, right?
 

@@ -47,7 +47,7 @@ It may take while till we finish migrating from old sources, plus we are recreat
 
 ### I'm interested in the technology
 
-- Great! We are working on [technology-dedicated page](beginner-intro.md).
+- Great! We are working on [technology-dedicated page](technology.md).
 
 ## Getting Started 
 
