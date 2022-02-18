@@ -101,6 +101,8 @@ When you first buy some digital asset, you are issued two keys: a public key, wh
 You can think of the private key as a password that unlocks the virtual vault that holds your money. As long as you — and only you — have access to your private key, your funds are safe and can be managed anywhere in the world with an internet connection. 
 Where should you store your private keys?
 
+Learn more about [cryptographic keys and types.](https://en.wikipedia.org/wiki/Cryptographic_key_types)
+
 ## Where can i store my private keys(seed phrase)?
 
 ### First option - custodial solution
