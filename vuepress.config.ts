@@ -54,7 +54,7 @@ module.exports = {
           },         
           {
             text: 'Meta_hours',
-            link: 'meta_hours.md',
+            link: 'meta-hours.md',
           },
           {
             text: 'Presskit & Logo',
@@ -87,7 +87,7 @@ module.exports = {
           },
           {
             text: 'Meta_hours - digest on progress',
-            link: 'meta_hours.md',
+            link: 'meta-hours.md',
           },
           { 
             text: 'nft-gallery/issues',
