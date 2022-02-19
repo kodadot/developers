@@ -37,10 +37,6 @@ module.exports = {
         text: 'KodaDot',
         children: [
           {
-            text: 'kodadot.xyz',
-            link: 'https://kodadot.xyz'
-          },
-          {
             text: 'Discord',
             link: 'https://discord.gg/kodadot',
           },
@@ -49,11 +45,15 @@ module.exports = {
             link: 'https://twitter.com/kodadot',
           },
           {
+            text: 'Token $kodao',
+            link: '/token/draft.md',
+          },
+          {
             text: 'Meta_Hours (GitHub)',
             link: 'https://github.com/kodadot/nft-gallery/discussions/categories/meta-hours'
           },         
           {
-            text: 'Meta_hours',
+            text: 'Meta_Hours',
             link: '/meta-hours.md',
           },
           {
@@ -72,6 +72,10 @@ module.exports = {
             text: 'Frequently asked questions',
             link: '/faq.md',
           },
+          {
+            text: 'kodadot.xyz',
+            link: 'https://kodadot.xyz'
+          }
         ]
       },
       {
