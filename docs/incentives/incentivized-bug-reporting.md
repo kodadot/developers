@@ -1,8 +1,8 @@
 # Incentivised Bug Reporting
 
-We are building KodaDot for everyone. As we are creators and builders, **we are users of KodaDot**. Sometimes is pretty normal that we doesn't encounter erroneous behaviour or something doesn't work for us. **Quality of KodaDot is based on development iterations and strong feedback loop by it's users. **
+We are building KodaDot for everyone. As we are creators and builders, **we are users of KodaDot**. Sometimes it's pretty normal that we encounter erroneous behaviour or something doesn't work for us. **Quality of KodaDot is based on development iterations and strong feedback loop by users themselves.**
 
-Thus if you do encounter error next time, we would really love you to report us back and **reward you for this behaviour.** For us it would be really valuable feedback, because till we will have client side reporting tool, **you might improve comfort of using KodaDot for you in the future and help others.** There is high probability, same error could be encountered by someone else. Yet till, **we aren't aware of bug is happening, we can not fix it.**
+Thus if you do encounter an error next time, we would really love you to report back to us and we can surely **reward you for this behaviour.** For us it's really valuable feedback, because till we have client side reporting tool, **you might improve comfort of using KodaDot for you in the future and help others.** There is high probability, same error could be encountered by someone else. **Yet till, if we are not aware of some bug, we can't fix it.**
 
 **As soon you report it to us, sooner we can push fix to the production. Easy as that.**
 
