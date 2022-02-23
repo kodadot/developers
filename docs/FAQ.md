@@ -134,3 +134,9 @@
 ### **How much will it cost me to mint an nft?**
 
 - At the time of writing, the fees for minting an nft are 0.02 USD :tada:
+
+### What are NFT royalties?
+
+- Royalties, or royalty payments, are financial payments that are made from one party to another for the ongoing use of their assets. The term is most commonly associated with the music industry, where musicians allow their records to be played on the radio, streamed online, or sampled by other musicians in exchange for a (royalty) fee. However, it isn’t just musicians that are owed royalties when their work is used. Songwriters, composers, publishers, novelists, producers, and just about anybody involved in a creative process has the potential to claim royalties. 
+
+- NFT royalties give artists a percentage of the sale price each time their artwork is resold. No matter how many secondary sales occur, the royalties will always be paid back to the original creator, and the best part is that the whole process is automated. 
