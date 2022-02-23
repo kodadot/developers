@@ -1,11 +1,11 @@
 # Incentives 
 
-Our ethos are that we are trying **to be web3-native**. We are trying lowering fulltime members and **best not have any internal team.**
+Our ethos is that we are trying **to be web3-native**. We are trying to lower fulltime members and **best not have any internal team.**
 
-We've learned it's time efficient and capital efficient for us have someone on fulltime on job which is quite rare, **we prefer renting your brain time and send you reward.** We've started with technical focused tasks as it was easier to compose for us and opening doors for non-technical person to join KodaDot with **opportunity being part of KoDAO**. In this way we are building our own Gig Economy apart from our popular and [state of art NFT marketplace KodaDot](https://kodadot.xyz)
+We've learned it's time efficient and capital efficient for us to have someone on fulltime job which is quite rare, **we prefer renting your brain time and send you reward.** We've started with technical focused tasks as it was easier to compose for us and later we opened doors for non-technical persons to join KodaDot with **opportunity being part of KoDAO**. In this way we are building our own Gig Economy apart from our popular and [state of art NFT marketplace KodaDot](https://kodadot.xyz)
 
 ### Current incentive roles
-Our current direct incentives are focused on currently three personas based on their experience and skillset
+Our  direct incentives are focused on currently three personas based on their experience and skillset
 - [Developers](./developer.md)
   - we have over $50k bounties in [our Github repository kodadot/nft-gallery](https://github.com/kodadot/nft-gallery/issues)
 - [QA](./incentivized-qa.md)
