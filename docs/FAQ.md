@@ -14,7 +14,7 @@
 
 ### **What's the flow when I'm NFT creator?**
 
-- First of all, you need to install [Polkadot Extension](https://polkadot.js.org/extension), **backup your seed**. Then you can top up your wallet address [here](https://kodadot.xyz/rmrk/credit) or use our [grant](https://tally.so/r/mVP06w) feature. Once you have funds, head to [Create](https://kodadot.xyz/#/rmrk/create), choose Collection. Wait till Collection is minted, then you go to [Create Token](https://kodadot.xyz/#/rmrk/create) and Mint your very first token! Feel free to share it with us on our [discord](https://discord.gg/gHrQTJam).
+- First of all, you need to install [Polkadot Extension](https://polkadot.js.org/extension), **backup your seed**. Then you can top up your wallet address [here](https://kodadot.xyz/rmrk/credit) or use our [grant](https://form.kodadot.xyz/grant) feature. Once you have funds, head to [Create](https://kodadot.xyz/#/rmrk/create), choose Collection. Wait till Collection is minted, then you go to [Create Token](https://kodadot.xyz/#/rmrk/create) and Mint your very first token! Feel free to share it with us on our [discord](https://discord.gg/gHrQTJam).
 
 ### **How can i sell KSM i got for my art?**
 
@@ -22,7 +22,7 @@
 
 ### **How can i obtain KSM as new-comer?**
 
-- We recommend to obtain KSM through custodial exchanges like [Binance](https://www.binance.com/en) or [Bybit](https://www.bybit.com/en-US/) or you can use RAMP network [integration](https://kodadot.xyz/rmrk/credit). If you are struggling with this, feel free to ask for a [grant](https://tally.so/r/mVP06w) or let us know in [help](https://discord.gg/AkCJPmwJ) channel on discord.
+- We recommend to obtain KSM through custodial exchanges like [Binance](https://www.binance.com/en) or [Bybit](https://www.bybit.com/en-US/) or you can use RAMP network [integration](https://kodadot.xyz/rmrk/credit). If you are struggling with this, feel free to ask for a [grant](https://form.kodadot.xyz/grant) or let us know in [help](https://discord.gg/AkCJPmwJ) channel on discord.
 
 ### **Can I use this in virtual worlds?**
 
@@ -148,3 +148,9 @@
 ### What are the transfer fees on Kusama?
 
 - It is important to note that the cost of transferring KSM is [dynamic](https://guide.kusama.network/docs/faq/#what-are-the-transfer-fees-for-kusama). Currently, the minimum cost of transferring KSM is 0.01 KSM (the base fee), although this can be changed via governance. 
+
+### Can someone double buy my art?
+
+- RMRK is currently just an NFT baked into the blockchain and we don’t have any chain logic. 
+From the lesson of randomness, we know that there is the possibility that two or more people can make buy transactions in the same block and can lose money. Then it’s just about the honesty of the artist to return the money or mint the same NFT as the token of appreciation. 
+
