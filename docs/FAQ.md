@@ -140,3 +140,11 @@
 - Royalties, or royalty payments, are financial payments that are made from one party to another for the ongoing use of their assets. The term is most commonly associated with the music industry, where musicians allow their records to be played on the radio, streamed online, or sampled by other musicians in exchange for a (royalty) fee. However, it isn’t just musicians that are owed royalties when their work is used. Songwriters, composers, publishers, novelists, producers, and just about anybody involved in a creative process has the potential to claim royalties. 
 
 - NFT royalties give artists a percentage of the sale price each time their artwork is resold. No matter how many secondary sales occur, the royalties will always be paid back to the original creator, and the best part is that the whole process is automated. 
+
+### What are fees and why do i need to pay them?
+
+- Transaction fees prevent individual users from consuming too many resources. Polkadot uses a weight-based fee model as opposed to a gas-metering model. As such, fees are charged prior to transaction execution; once the fee is paid, nodes will execute the transaction.
+
+### What are the transfer fees on Kusama?
+
+- It is important to note that the cost of transferring KSM is [dynamic](https://guide.kusama.network/docs/faq/#what-are-the-transfer-fees-for-kusama). Currently, the minimum cost of transferring KSM is 0.01 KSM (the base fee), although this can be changed via governance. 
