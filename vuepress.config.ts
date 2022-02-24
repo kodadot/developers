@@ -1,6 +1,19 @@
 module.exports = {
   title: 'KodaDot Documentation',
-  description: 'Better understanding KodaDot',
+  description: 'Better understanding KodaDot NFT marketplace',
+  plugins: [
+    [
+      '@vuepress/plugin-search',
+      { 
+        maxSuggestions: 10,
+        locales: {
+          '/': {
+            placeholder: 'Search',
+          },
+        },
+      },
+    ],
+  ],
   public: 'docs/assets',
   themeConfig: {
     navbar: [
