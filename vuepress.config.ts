@@ -16,6 +16,9 @@ module.exports = {
   ],
   public: 'docs/assets',
   themeConfig: {
+    logo: '/KODA_v3.png',
+    repo: 'https://github.com/kodadot/nft-gallery',
+    repoLabel: 'kodadot/nft-gallery',
     navbar: [
       {
         text: 'Tutorials',
@@ -50,6 +53,14 @@ module.exports = {
         text: 'KodaDot',
         children: [
           {
+            text: 'Collaborate with us',
+            link: '/get_featured.md',
+          },
+          {
+            text: 'Frequently asked questions',
+            link: '/faq.md',
+          },
+          {
             text: 'Discord',
             link: 'https://discord.gg/kodadot',
           },
@@ -62,28 +73,12 @@ module.exports = {
             link: '/token/draft.md',
           },
           {
-            text: 'Meta_Hours (GitHub)',
-            link: 'https://github.com/kodadot/nft-gallery/discussions/categories/meta-hours'
-          },         
-          {
-            text: 'Meta_Hours',
-            link: '/meta-hours.md',
-          },
-          {
             text: 'Presskit & Logo',
             link: 'https://github.com/kodadot/kodadot-presskit',
           },
           {
             text: 'Writings',
             link: '/writings.md',
-          },
-          {
-            text: 'Collaborate with us',
-            link: '/get_featured.md',
-          },
-          {
-            text: 'Frequently asked questions',
-            link: '/faq.md',
           },
           {
             text: 'kodadot.xyz',
@@ -123,6 +118,10 @@ module.exports = {
             text: 'Meta_hours - digest on progress',
             link: '/meta-hours.md',
           },
+          {
+            text: 'Meta_Hours (GitHub)',
+            link: 'https://github.com/kodadot/nft-gallery/discussions/categories/meta-hours'
+          },         
           { 
             text: 'nft-gallery/issues',
             link: 'https://github.com/kodadot/nft-gallery/issues'

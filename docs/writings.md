@@ -1,6 +1,6 @@
 # Writings
 - We are trying to document our recent additions to KodaDot in long-form writings 
-- [We do bi-weekly community updates called Meta_Hours](meta_hours.md)
+- [We do bi-weekly community updates called Meta_Hours](meta-hours.md)
 
 ### KodaDot writings on Medium
 - [Wen Statemine by KodaDot](https://medium.com/kodadot/wen-statemine-by-kodadot-b35ae13b70ff)
