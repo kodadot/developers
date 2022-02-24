@@ -2,6 +2,8 @@
 
 - This tutorial is supposed to show you, how can you contribute to KodaDot without coding skills.
 
+## Conditions
+
 - **Important notice:** All pull requests and commited changes must align with our [contributing policy.](https://github.com/kodadot/nft-gallery/blob/main/CONTRIBUTING.md)
 
 - **Important notice 2:** Each contribution needs at least two reviewers from the same language native person. Make sure you follow this otherwise your pull request won't be approved.
@@ -41,6 +43,7 @@
 
 ![5](/language-translations/5.png)
 
-- :tada: Now you need to wait untill we approve your commited changes
+- :tada: Now you need to wait untill we approve your commited changes.
+- In case you have any questions, don't hesitate and contact us on [discord](https://discord.gg/yzdWuFaY8W)!
 
 
