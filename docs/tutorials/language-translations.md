@@ -16,11 +16,19 @@
 
 ![1](/language-translations/1.png)
 
--
+- This is important step:
+    - en.json file is constantly updated with new builds and additions
+    - If you want to translate for example de.json, you have to make sure you are translating according to the newest version and that is en.json.
+    - Some translations might be old and not updated, it simply means you have to take what's translated and synchronize it with "en.json" and translate what's left.
+    - It might be also good idea to simply start from scratch.
+
+![2](/language-translations/2.png)
+
+- Click on the "edit" icon and make changes
 
 ![3](/language-translations/3.png)
 
--
+- After you finish making changes
 
 ![4](/language-translations/4.png)
 
@@ -28,6 +36,4 @@
 
 ![5](/language-translations/5.png)
 
--
 
-![6](/language-translations/6.png)
