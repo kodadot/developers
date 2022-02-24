@@ -10,13 +10,11 @@
 
 ![0](/language-translations/0.png)
 
--
+- Once you are in the nft-gallery/langDir/ folder, navigate yourself to the right upper corner and click on "Fork"
+
+- This will fork the repository so you can make changes to it
 
 ![1](/language-translations/1.png)
-
--
-
-![2](/language-translations/2.png)
 
 -
 
