@@ -26,6 +26,7 @@ It may take while till we finish migrating from old sources, plus we are recreat
   - We have many opportunities how you can contribute and help us drive community-driven experience for open source NFT marketplace
   - You can become our steward or ambassador -- to help us on various non-technical tackling issues, like helping around in Discord, helping on translations or reporting bugs
   - Participate in [various contests](contests_programs.md). In past we had contest for _Discord logo, Animated Banner for Discord, Animated preloader for KodaDot_ and more are coming.
+  - [Contribute by translating KodaDot](/tutorials/language-translations.md)
   
 ## Contests and other incentive programs
 - There is always some contest! Our incentive to motivate fellow KodaHeadz is there because we want to grow as community. Everyone here, has a chance to contribute, without a single knowledge of code.
