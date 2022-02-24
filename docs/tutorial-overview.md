@@ -22,3 +22,7 @@
 
 ### [How to use KodaDot application on iOS software (beta)](/tutorials/how-to-kodadot-phone-ios.md)
 
+## Contributing to KodaDot
+
+### [How to translate KodaDot via Github web interface](/tutorials/language-translations.md)
+
