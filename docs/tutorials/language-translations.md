@@ -7,6 +7,8 @@
 - **Important notice 2:** Each contribution needs at least two reviewers from the same language native person. Make sure you follow this otherwise your pull request won't be approved.
 - [More info on rewards and conditions](https://github.com/kodadot/nft-gallery/issues/1891)
 
+## Step by step tutorial
+
 - Without no further ado, in the first place, we have to visit [KodaDot Github code](https://github.com/kodadot/nft-gallery).
 
 - Navigate yourself to the "langDir" folder and open it
