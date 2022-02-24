@@ -2,7 +2,10 @@
 
 - This tutorial is supposed to show you, how can you contribute to KodaDot without coding skills.
 
-- Important notice: All pull requests and commited changes must align with our [contributing policy.](https://github.com/kodadot/nft-gallery/blob/main/CONTRIBUTING.md)
+- **Important notice:** All pull requests and commited changes must align with our [contributing policy.](https://github.com/kodadot/nft-gallery/blob/main/CONTRIBUTING.md)
+
+- **Important notice 2:** Each contribution needs at least two reviewers from the same language native person. Make sure you follow this otherwise your pull request won't be approved.
+- [More info on rewards and conditions](https://github.com/kodadot/nft-gallery/issues/1891)
 
 - Without no further ado, in the first place, we have to visit [KodaDot Github code](https://github.com/kodadot/nft-gallery).
 
@@ -24,16 +27,18 @@
 
 ![2](/language-translations/2.png)
 
-- Click on the "edit" icon and make changes
+- Click on the "edit" icon and make changes, scroll all the way down 
 
 ![3](/language-translations/3.png)
 
-- After you finish making changes
+- After you finish making changes, scroll all the way down where you need to fill in some details
 
 ![4](/language-translations/4.png)
 
--
+- Now, if you are adding new language just write "add mylanguage.json" and commit the changes
 
 ![5](/language-translations/5.png)
+
+- :tada: Now you need to wait untill we approve your commited changes
 
 
