@@ -20,7 +20,7 @@
 
 ## KodaDot mobile
 
-### [How to use KodaDot application on iOS software (beta)](/tutorials/how-to-kodadot-phone-ios.md)
+### [How to mint NFTs from iOS device](/tutorials/how-to-kodadot-phone-ios.md)
 
 ## Contributing to KodaDot
 

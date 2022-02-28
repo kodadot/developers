@@ -1,13 +1,18 @@
-# How to use KodaDot application on iOS software (beta)
+# How to mint NFTs from iOS device
 
 ## What we need
 
 - [Nova wallet ](https://novawallet.io/)
-- Download it from your appstore and follow the tutorial
+- Download the wallet from your appstore and follow the tutorial or watch the video below
+- If you need help with setting up the Nova wallet, feel free to let us know on discord.
 
-## KodaDot app in Nova wallet
+## Video tutorial
 
-- You will need to top up your balance, to do that, fetch your Kusama wallet adress in nova wallet and transfer some $KSM to your account
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xuPAcG4gKzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## How to buy NFTs from your iOS device
+
+- You will need to top up your balance, to do that, fetch your Kusama adress in nova wallet and transfer some $KSM to your account
 - In the lower mid screen tap on "browser"
 
 ![dapp1](/nova-ios-tutorial/155.jpg)
