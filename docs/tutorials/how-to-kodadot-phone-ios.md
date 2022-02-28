@@ -2,19 +2,15 @@
 
 ## What we need
 
-- [TestFlight](https://testflight.apple.com/) 
-    - Testflight helps developers test beta versions of their apps and App Clips using the TestFlight app.
-- [Nova wallet](https://novawallet.io/) 
-    - Nova wallet is next gen Polkadot & Kusama wallet
-
-[How to download testflight and set up nova wallet for kodadot app](how-to-testflight-and-nova-setup.md)
+- [Nova wallet ](https://novawallet.io/)
+- Download it from your appstore and follow the tutorial
 
 ## KodaDot app in Nova wallet
 
 - You will need to top up your balance, to do that, fetch your Kusama wallet adress in nova wallet and transfer some $KSM to your account
 - In the lower mid screen tap on "dapps"
 
-![dapp1](/novawallet-kodadot-dapp/ss_2520.png)
+![dapp1](/nova-ios-tutorial/ss_2520.pngs)
 
 - Find KodaDot and choose it
 
