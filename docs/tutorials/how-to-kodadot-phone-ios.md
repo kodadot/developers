@@ -12,67 +12,50 @@
 
 ![dapp1](/nova-ios-tutorial/155.jpg)
 
-
+- Choose "NFT" section
 
 ![dapp1](/nova-ios-tutorial/156.jpg)
 
-- Allow KodaDot app access to your nova wallet
+- Choose KodaDot
 
 ![dapp1](/nova-ios-tutorial/157.jpg)
-![dapp3](/novawallet-kodadot-dapp/ss_2522.png)
 
 - You can search or filter nfts, after you find something you want to buy, click on it
 
-![dapp4](/novawallet-kodadot-dapp/ss_2523.png)
+![dapp1](/nova-ios-tutorial/158.jpg)
 
-- You can see filter function in action
 
-![dapp5](/novawallet-kodadot-dapp/ss_2524.png)
+- You can see search function in action
 
-- I've chosen my nft i want to buy, scroll down a bit
+![dapp1](/nova-ios-tutorial/159.jpg)
 
-![dapp6](/novawallet-kodadot-dapp/ss_2525.png)
+- Choose nft you want to buy and click on it
 
-- Here are collection information and owner+creator info, scroll down
+![dapp1](/nova-ios-tutorial/160.jpg)
 
-![dapp7](/novawallet-kodadot-dapp/ss_2526.png)
+- You can see collection number and the creator name, to proceed, click on "buy"
 
-- Click on "account", choose yours and click on "done"
+![dapp1](/nova-ios-tutorial/161.jpg)
 
-![dapp8](/novawallet-kodadot-dapp/ss_2527.png)
+- Click on "Confirm" 
 
-- Now, the account you selected will own the nft
-- Click "buy"
+![dapp1](/nova-ios-tutorial/162.jpg)
 
-![dapp9](/novawallet-kodadot-dapp/ss_2528.png)
+- The transaction will go through and once it is confirmed (couple seconds) you can see the nft you bought in your profile
+- To do that, navigate yourself to the right upper corner and click on the list icon
 
-- Check all the details and cick on "confirm"
+![dapp1](/nova-ios-tutorial/163.jpg)
 
-![dapp10](/novawallet-kodadot-dapp/ss_2529.png)
+- Click on your profile name or adress
 
-- Wait for the transaction to be confirmed
+![dapp1](/nova-ios-tutorial/164.jpg)
 
-![dapp11](/novawallet-kodadot-dapp/ss_2530.png)
+- Choose "profile"
 
-- Buying has been succesfull!
-- Let's check it on our profile
+![dapp1](/nova-ios-tutorial/165.jpg)
 
-![dapp12](/novawallet-kodadot-dapp/ss_2531.png)
+- You will be able to see the nft you selected right under "Collected"
 
-- To navigate yourself to your profile, click  on the dropdown icon
+![dapp1](/nova-ios-tutorial/166.jpg)
 
-![dapp13](/novawallet-kodadot-dapp/ss_2532.png)
-
-- Tap on your profile, popup window will appear
-
-![dapp14](/novawallet-kodadot-dapp/ss_2533.png)
-
-- Choose "Profile"
-
-![dapp15](/novawallet-kodadot-dapp/ss_2534.png)
-
-- You'll see your collected pieces in "Collected" section
-
-![dapp16](/novawallet-kodadot-dapp/ss_2535.png)
-
-- Congratz! You've succesfully bought an nft from your phone!
+:tada: You are successful! Let us know about your first mint on our [discord](https://discord.gg/kodadot) channel!
