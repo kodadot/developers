@@ -18,7 +18,29 @@
 
 ### 3. Update Metadata
 
-- Go to polkadot.js. It's likely that you'll see a small "1" next to Settings. If that's the case, go to Settings > Metadata and click on "Update metadata".
-Then go to the Accounts page and try sending again.
+- Go to [polkadot.js.org](https://polkadot.js.org) It's likely that you'll see a small "1" next to Settings. If that's the case, go to Settings > Metadata and click on "Update metadata".
+
+![1](/error-keypair/2.png)
+
+- Click on "Metadata" and after on "Update metadata".
+
+![1](/error-keypair/3.png)
+
+- Confirm the update in polkadot.js popup window
+
+![1](/error-keypair/4.png)
+
+### 4. Disable other extensions
+
+
+- If none of the above solved the issue, then there must be another extension interfering with the Polkadot extension. In order to troubleshoot this, disable them one by one and try again. 
+
+- Start with the Polkadot- and Crypto-related extensions to pinpoint exactly which extension is causing trouble. 
+
+- If you need help feel free to let us know on our [discord](https://discord.gg/kodadot).
+
+
+
+
 
 
