@@ -8,16 +8,17 @@
 ## KodaDot app in Nova wallet
 
 - You will need to top up your balance, to do that, fetch your Kusama wallet adress in nova wallet and transfer some $KSM to your account
-- In the lower mid screen tap on "dapps"
+- In the lower mid screen tap on "browser"
 
-![dapp1](/nova-ios-tutorial/ss_2520.pngs)
+![dapp1](/nova-ios-tutorial/155.jpg)
 
-- Find KodaDot and choose it
 
-![dapp2](/novawallet-kodadot-dapp/ss_2521.png)
+
+![dapp1](/nova-ios-tutorial/156.jpg)
 
 - Allow KodaDot app access to your nova wallet
 
+![dapp1](/nova-ios-tutorial/157.jpg)
 ![dapp3](/novawallet-kodadot-dapp/ss_2522.png)
 
 - You can search or filter nfts, after you find something you want to buy, click on it
