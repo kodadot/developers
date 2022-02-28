@@ -26,3 +26,8 @@
 
 ### [How to translate KodaDot via Github web interface](/tutorials/language-translations.md)
 
+## Troubleshooting
+
+### [How to fix "Unable to retrieve keypair" error](/tutorials/how-to-fix-error-keypair.md)
+
+
