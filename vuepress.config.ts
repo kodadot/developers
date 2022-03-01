@@ -57,7 +57,7 @@ module.exports = {
           },
           {
             text: 'Fixing keypair error',
-            link: '/how-to-fix-error-keypair.md',
+            link: '/tutorials/how-to-fix-error-keypair.md',
           },
         ],
       },
