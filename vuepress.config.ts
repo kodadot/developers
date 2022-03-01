@@ -47,6 +47,18 @@ module.exports = {
             text: 'NFTs from scratch',
             link: '/how-to-make-nft.md',
           },
+          {
+            text: 'Buying NFTs from iOS device',
+            link: '/tutorials/how-to-kodadot-phone-ios.md',
+          },
+          {
+            text: 'Translating KodaDot via Github',
+            link: '/tutorials/language-translations.md',
+          },
+          {
+            text: 'Fixing keypair error',
+            link: '/how-to-fix-error-keypair.md',
+          },
         ],
       },
       {
