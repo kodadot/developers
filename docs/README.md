@@ -56,7 +56,7 @@ It may take while till we finish migrating from old sources, plus we are recreat
 - [Tutorials overview](tutorial-overview.md)
 
 ### Beginner tutorials 
-- [How to create a wallet](tutorials/how_to_create_wallet.md)
+- [How to create a wallet](tutorials/how-to-create-wallet.md)
 - [How to top up your wallet](tutorials/how-to-top-up-wallet.md)
 - [How to mint](tutorials/minting.md)
 - [Frequently asked questions](FAQ.md)
