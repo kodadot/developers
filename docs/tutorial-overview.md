@@ -12,7 +12,7 @@
 
 ### [Mint](/tutorials/how_to_mint.md)
 
-### [Airdrop](/tutorials/how_to_airdrop.md)
+### [Airdrop](/tutorials/how-to-airdrop.md)
 
 ## Community involvements
 
