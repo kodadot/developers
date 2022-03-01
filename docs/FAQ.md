@@ -14,7 +14,7 @@
 
 ### **What's the flow when I'm NFT creator?**
 
-- First of all, you need to install [Polkadot Extension](https://polkadot.js.org/extension), **backup your seed**. Then you can top up your wallet address [here](https://kodadot.xyz/rmrk/credit) or use our [grant](https://form.kodadot.xyz/grant) feature. Once you have funds, head to [Create](https://kodadot.xyz/#/rmrk/create), choose Collection. Wait till Collection is minted, then you go to [Create Token](https://kodadot.xyz/#/rmrk/create) and Mint your very first token! Feel free to share it with us on our [discord](https://discord.gg/gHrQTJam).
+- First of all, you need to install [Polkadot Extension](https://polkadot.js.org/extension), **backup your seed**. Then you can top up your wallet address [here](https://kodadot.xyz/rmrk/credit) or use our [grant](https://form.kodadot.xyz/grant) feature. Once you have funds, head to [Create](https://kodadot.xyz/#/rmrk/create), choose Collection. Wait till Collection is minted, then you go to [Create Token](https://kodadot.xyz/#/rmrk/create) and Mint your very first token! Feel free to share it with us on our [discord](https://discord.gg/gHrQTJam). You might aswell check tutorial on [how to create polkadot.js](https://www.youtube.com/watch?v=_b0xGiqwDcA&t=80s) wallet.
 
 ### **How can i sell KSM i got for my art?**
 
