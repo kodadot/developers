@@ -154,3 +154,7 @@
 - RMRK is currently just an NFT baked into the blockchain and we don’t have any chain logic. 
 From the lesson of randomness, we know that there is the possibility that two or more people can make buy transactions in the same block and can lose money. Then it’s just about the honesty of the artist to return the money or mint the same NFT as the token of appreciation. 
 
+### Can i buy nfts from my phone?
+
+- Yes, currently the KodaDot integration in [Nova wallet](https://novawallet.io/) is working fine. We've made [video](https://www.youtube.com/watch?v=xuPAcG4gKzA&t=4s) and [written](https://docs.kodadot.xyz/tutorials/how-to-kodadot-phone-ios.html#how-to-mint-nfts-from-ios-device) tutorial on how to do this.
+
