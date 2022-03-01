@@ -20,16 +20,16 @@ Fortunately, we have all the tutorials for you. Let's proceed
 
 ## Set up a crypto wallet
 
-Visit a [dedicated page](tutorials/how_to_create_wallet.md) which takes you through the process step by step.
+Visit a [dedicated page](tutorials/how-to-create-wallet.md) which takes you through the process step by step.
 
 ## Add funds to your cryptocurrency wallet
 
 Great! If you followed the tutorial, you should be ready to recieve some $KSM which is used to pay for micro fees.
-Looks like you are ready to proceed to another step. [Add funds to your wallet!](tutorials/how_to_top_up_wallet.md)
+Looks like you are ready to proceed to another step. [Add funds to your wallet!](tutorials/how-to-top-up-wallet.md)
 
 ## Right.. funds.. now what?
 
-Congratulations! You are almost there. The most fun part begins right now. You'll get to the [minting process](tutorials/how_to_mint.md) which officially and forever stores your art on blockchain. It's all up to you now, whether you want to send it to a friend, or list it and start selling your art! Good luck!
+Congratulations! You are almost there. The most fun part begins right now. You'll get to the [minting process](tutorials/how-to-mint.md) which officially and forever stores your art on blockchain. It's all up to you now, whether you want to send it to a friend, or list it and start selling your art! Good luck!
 
 ## Share your first minted art!
 
