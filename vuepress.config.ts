@@ -37,7 +37,7 @@ module.exports = {
           },
           {
             text: 'Filing bug report',
-            link: '/tutorials/how_to_bug_report.md'
+            link: '/tutorials/how-to-bug-report.md'
           },
           {
             text: 'Airdroping nfts',

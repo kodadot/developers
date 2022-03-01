@@ -60,7 +60,7 @@ It may take while till we finish migrating from old sources, plus we are recreat
 - [How to top up your wallet](tutorials/how_to_top_up_wallet.md)
 - [How to mint](tutorials/minting.md)
 - [Frequently asked questions](FAQ.md)
-- [How to file a bug report](tutorials/how_to_bug_report.md)
+- [How to file a bug report](tutorials/how-to-bug-report.md)
 
 ## How can you contribute
 - Join our [discord](https://discord.gg/kodadot) where the fireplace is always burning and community always welcoming. 

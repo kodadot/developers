@@ -16,7 +16,7 @@
 
 ## Community involvements
 
-### [File proper bug report](/tutorials/how_to_bug_report.md)
+### [File proper bug report](/tutorials/how-to-bug-report.md)
 
 ## KodaDot mobile
 
