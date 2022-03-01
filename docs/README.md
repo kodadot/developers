@@ -25,14 +25,14 @@ It may take while till we finish migrating from old sources, plus we are recreat
 - ### As non-tech savvy user
   - We have many opportunities how you can contribute and help us drive community-driven experience for open source NFT marketplace
   - You can become our steward or ambassador -- to help us on various non-technical tackling issues, like helping around in Discord, helping on translations or reporting bugs
-  - Participate in [various contests](contests_programs.md). In past we had contest for _Discord logo, Animated Banner for Discord, Animated preloader for KodaDot_ and more are coming.
+  - Participate in [various contests](contests-programs.md). In past we had contest for _Discord logo, Animated Banner for Discord, Animated preloader for KodaDot_ and more are coming.
   - [Contribute by translating KodaDot](/tutorials/language-translations.md)
   
 ## Contests and other incentive programs
 - There is always some contest! Our incentive to motivate fellow KodaHeadz is there because we want to grow as community. Everyone here, has a chance to contribute, without a single knowledge of code.
-- Find out more information at [Contests and other incentive programs](contests_programs.md) page
-- [Bug bounty program](contests_programs.md#bug-bounty-program)
-- [Gif-memes contest](contests_programs.md#gif-meme-contest)
+- Find out more information at [Contests and other incentive programs](contests-programs.md) page
+- [Bug bounty program](contests-programs.md#bug-bounty-program)
+- [Gif-memes contest](contests-programs.md#gif-meme-contest)
 
 ## Navigation
 
