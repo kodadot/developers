@@ -33,7 +33,7 @@ module.exports = {
           },
           { 
             text: 'Minting', 
-            link: '/tutorials/how_to_mint.md' 
+            link: '/tutorials/how-to-mint.md' 
           },
           {
             text: 'Filing bug report',

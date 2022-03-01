@@ -10,7 +10,7 @@
 
 ### [NFTs from scratch](how-to-make-nft.md)
 
-### [Mint](/tutorials/how_to_mint.md)
+### [Mint](/tutorials/how-to-mint.md)
 
 ### [Airdrop](/tutorials/how-to-airdrop.md)
 
