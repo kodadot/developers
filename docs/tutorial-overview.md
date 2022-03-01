@@ -4,7 +4,7 @@
 
 ### [Set up cryptocurrency wallet](tutorials/how_to_create_wallet.md)
 
-### [Add funds to your wallet](/tutorials/how_to_top_up_wallet.md)
+### [Add funds to your wallet](/tutorials/how-to-top-up-wallet.md)
 
 ## Non-fungible tokens
 

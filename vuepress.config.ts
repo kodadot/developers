@@ -29,7 +29,7 @@ module.exports = {
           },
           { 
             text: 'Adding funds to your wallet', 
-            link: '/tutorials/how_to_top_up_wallet.md' 
+            link: '/tutorials/how-to-top-up-wallet.md' 
           },
           { 
             text: 'Minting', 
