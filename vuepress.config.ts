@@ -25,7 +25,7 @@ module.exports = {
         children: [
           { 
             text: 'Creating a wallet', 
-            link: '/tutorials/how_to_create_wallet.md' 
+            link: '/tutorials/how-to-create-wallet.md' 
           },
           { 
             text: 'Adding funds to your wallet', 

@@ -2,7 +2,7 @@
 
 ## Technology
 
-### [Set up cryptocurrency wallet](tutorials/how_to_create_wallet.md)
+### [Set up cryptocurrency wallet](tutorials/how-to-create-wallet.md)
 
 ### [Add funds to your wallet](/tutorials/how-to-top-up-wallet.md)
 
