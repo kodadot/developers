@@ -33,6 +33,7 @@ It may take while till we finish migrating from old sources, plus we are recreat
 - Find out more information at [Contests and other incentive programs](contests-programs.md) page
 - [Bug bounty program](contests-programs.md#bug-bounty-program)
 - [Gif-memes contest](contests-programs.md#gif-meme-contest)
+- [Koda-Forest logo contest](contests-programs.md#koda-forest-logo-contest)
 
 ## Navigation
 
