@@ -101,3 +101,13 @@ From the NFT detail and action panel, we can move to the Collection detail. We s
 Clicking on the paper plane icon on the right side of the screen we will spawn a dialogue where we just put the address of the future owner. After the submission, the blockchain magic happens and voila the collection is no longer us.
 
 ![6](/statemine/6.png)
+
+#### Teleport
+
+One of the features we have implemented is teleport. Teleport allows us to send our tokens between the parachain and the relay chain. The teleport interface is delightfully simple. All we need to know is who is the recipient of the tokens and the amount of the tokens we want to transfer. How do we know to which chain am I sending the funds? In the figure below we see that the app shows where we are teleporting assets. To swap the source and destination chain we use the smart way of the route prefixes which we describe in the later section.
+
+![7](/statemine/7.png)
+
+### Technical difficulties
+
+As what Bruno called a few calls it is more difficult under the hood. The backbone of the app is the indexer hosted by SubQuery. We use the indexer as a discovery service. In other words for listing all available NFTs, getting a list of collections created by us and also a paginated list of NFTs owned by a particular address. As it is not necessary to run an indexer against the Statemine as we can read all the data from the chain, some queries will be computationally expensive for the client’s device. Moreover, we would completely lose the NFT’s history (wen create, send, burn). As a side effect, we would love to see other teams leverage Statemine’s indexer and build something.
