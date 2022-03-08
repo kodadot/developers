@@ -5,3 +5,5 @@
 - It's probably not gone, we are only trying to maximize user experience on the landing page so some stuff might be hidden because it's not necessary to have it on sight.
 
 ## New changes are going to reflect as first
+
+-
