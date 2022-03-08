@@ -68,4 +68,36 @@ We’ve been thinking about this quite long-term and can tell that we are prepar
 
 Tada 🎉 we made it! We have our shiny new NFT ready. Let’s look at the NFT detail. The main portion of our screen is taken by the art itself. Under the image, we can see the information we added during the mint. The middle section under the image is dedicated to the important ownership data, such as the under which collection we minted the creator’s address, address of the current owner and delegator’s address. On the bottom right we have the panel with available actions for the currently logged user. Because we are the owners of the NFT we can now send it, burn it or delegate.
 
+
 ![3](/statemine/3.png)
+- View the [NFT](https://kodadot.xyz/westmint/gallery/0-2)
+
+### Action panel
+
+Whenever you are owner of particular NFT, you can SEND, CONSUME (BURN), Delegate and erase metadata (Trash icon)
+
+![4](/statemine/4.png)
+
+#### Delegator
+
+Who is the delegator anyway? We can delegate our NFT to another address that is able to send our NFT. Imagine that as asking our friend to take be our trusted third party.
+
+#### Submit delegate
+
+We are going to delegate this token to the friend. All we just need to do is to insert her address and hit submit button.
+
+#### Fancy addons
+
+From the other fancy features on the action panel, we can show the QR code for the NFT, copy the current URL to the clipboard spawn a sharing modal. The last feature on the panel (very dangerous), will show us a modal with a possibility to remove all attributes and the metadata. Proceed with caution as adding metadata is an only one-way operation available only at minting operation.
+
+#### Collection detail
+
+From the NFT detail and action panel, we can move to the Collection detail. We see all the important information as the creator, name, image and the list of NFTs in the collection. As the additional perk of this screen, KodaDot UI allows you to transfer ownership of the collection to someone else!
+
+![5](/statemine/5.png)
+
+#### Transfer collection
+
+Clicking on the paper plane icon on the right side of the screen we will spawn a dialogue where we just put the address of the future owner. After the submission, the blockchain magic happens and voila the collection is no longer us.
+
+![6](/statemine/6.png)
