@@ -47,6 +47,25 @@ Isn’t that ineffective to hold many bytes on the chain? That is an excellent a
 ## KodaDot on Statemine: What have we delivered?
 
 We’ve made a straightforward UI for users to create their collections (classes) and then mint their lovely non-fungible tokens (instances) on Statemine. For the sake of clarity, we will refer to Classes as collection and Instances will be referred to as NFTs.
-Create Class — Collection
+
+### Create Class - Collection
 
 Let’s mint our first collection (aka class). All we need is an image to represent our class, a cool name and a description. As we see in the figure below we decided to mint our first KodaDot logo as the image of our collection then name our collection as Kodadot and as you know we are a carbon-neutral NFT platform.
+
+![1](/statemine/1.png)
+
+### Create NFT
+
+When our collection is ready, we can create some NFTs. The process of creating the NFT/Instance is exactly the same as in the collection. The image below shows that first, we need to select a collection (in our case KodaDot), image, name and description. Moreover, if we click on the “Show on-chain attributes”, we can really add some attributes to the NFT 👀. These attributes are stored on the chain in the form of key-value a requires a bit of KSM. We have to be careful not to run out of KSM.
+
+### Gaming NFT on KodaDot
+
+We’ve been thinking about this quite long-term and can tell that we are preparing for GameFi to be run on Statemine with help of KodaDot. Right now we’ve opened gates for anyone to add traits and we are playing with further experimentation for [MetaPrime.network](https://metaprime.network/)
+
+![2](/statemine/2.png)
+
+### Minted NFT on Statemine / Westmint
+
+Tada 🎉 we made it! We have our shiny new NFT ready. Let’s look at the NFT detail. The main portion of our screen is taken by the art itself. Under the image, we can see the information we added during the mint. The middle section under the image is dedicated to the important ownership data, such as the under which collection we minted the creator’s address, address of the current owner and delegator’s address. On the bottom right we have the panel with available actions for the currently logged user. Because we are the owners of the NFT we can now send it, burn it or delegate.
+
+![3](/statemine/3.png)
