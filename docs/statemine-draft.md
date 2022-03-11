@@ -121,17 +121,35 @@ By definition of SubQuery, the events are processed by the order they have defin
 
 ### Delayed delivery
 
-Moreover, in the meantime of finishing the statemine implementation, we were upgrading our single page application to the Nuxt. The migration brought a lot of changes for the UI as well as the application itself is much faster. I highly recommend you to read the Koda 2.0 article.
+Moreover, in the meantime of finishing the statemine implementation, we were upgrading our single page application to the Nuxt. The migration brought a lot of changes for the UI as well as the application itself is much faster. I highly recommend you to read the [Koda 2.0 article](https://medium.com/kodadot/kodadot-2-0-beta-d136f6ff139).
 
 ::: tip What is Nuxt?
 Nuxt is a fantastic choice for teams building a production-grade product on the web.
 :::
 
-We wanted that the Statemine integration should be already written Nuxt, which has slowed the development process on the one hand, but on the flip-side, the code is not in the state that will be unusable in a couple of weeks.
-Two parallel connected RPC nodes
+We wanted that the Statemine integration should be already written in Nuxt, which has slowed the development process on the one hand, but on the flip-side, the code is not in the state that will be unusable in a couple of weeks.
+
+### Two parallel connected RPC nodes
 
 The third major challenge was how to connect two parallelly connected RPC nodes to one client. As we internally still use kodadot1/packages this seems like a major decision: rewrite sub-API, to manage multiple connections.
+
+::: tip What is RPC node?
+As an RPC is the most straightforward API in which developers can communicate with servers to execute code remotely, they are very similar to function calls, only that they occur between two separate systems. 
+:::
 
 We decided not to take this path and rather rethink how we can make the app seamless for the user and the app extendable for the other future OSS contributors.
 Therefore we’ve hacked internally called a prefixed based routing. Depending on which route we are app decides automatically on the background which node should we connect and which indexer should be used.
 As the model example:
+
+- Every page which has /statemine/ in the path, tells that we need a Statemine node and indexer in order to work.
+- Alternatively, /rmrk/prefix uses the Kusama node
+
+Whenever you visit /teleport from the RMRK prefix it is for the reason that you want to teleport your KSM to the Statemine. This saves a lot of future hassle with connecting other Kusama-based parachains
+
+![10](/statemine/10.png)
+
+What we left out from the grant is the embeddable component. In the past using single page application we were able to do it, but it showed up as a security issue. Therefore, we would like to propose a security bounty to the Kusama council for the team that is able to spot and tackle security issues.
+
+![11](/statemine/11.png)
+
+- As you can see on the graph, KodaDot has currently the highest security grade for the secure headers
