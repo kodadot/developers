@@ -151,14 +151,13 @@ Whenever you visit /teleport from the RMRK prefix it is for the reason that you 
 What we left out from the grant is the embeddable component. In the past using single page application we were able to do it, but it showed up as a security issue. Therefore, we would like to propose a security bounty to the Kusama council for the team that is able to spot and tackle security issues.
 
 ![11](/statemine/11.png)
-
-- As you can see on the graph, KodaDot has currently the highest security grade for the secure headers
+*As you can see on the graph, KodaDot has currently the highest security grade for the secure headers*
 
 ### Random bug
 
-While writing up this article we spotted a [random bug](https://github.com/kodadot/nft-gallery/issues/2058). When we were trying to access the NFT the app failed because the unique module was  undefined despite the fact that the app claimed we were connected to the Statemine. Cracking our heads with this, [we’ve opened an issue for the @polkadot-js/api](https://github.com/polkadot-js/api/issues/4493). After hours of debugging, we’ve been happy to raise awareness as more people we’re using old-setup. Jaco realized it would be helpful for others (less_experienced) parachain developers who are debugging their stuff.
+While writing up this article we spotted a [random bug](https://github.com/kodadot/nft-gallery/issues/2058). When we were trying to access the NFT the app failed because the unique module was `undefined` despite the fact that the app claimed we were connected to the Statemine. Cracking our heads with this, [we’ve opened an issue for the @polkadot-js/api](https://github.com/polkadot-js/api/issues/4493). After hours of debugging, we’ve been happy to raise awareness as more people we’re using old-setup. Jaco realized it would be helpful for others (less_experienced) parachain developers who are debugging their stuff.
 
-- How we spotted a random bug? We’ve realized that we are missing types for unique module.
+How we spotted a random bug? We’ve realized that we are missing types for unique module.
 
 #### Recent changes since we’ve started implementing it
 
@@ -173,9 +172,9 @@ To make end-user easier life, we’ve added in top-right way to select chain you
 We’ve gone through a cosmetic redesign of NFT item detail so this should look way better and we’ve introduced major improvements for mobile experience as well.
 
 ![13](/statemine/13.png)
-- [https://kodadot.xyz/statemine/gallery/11-63](https://kodadot.xyz/statemine/gallery/11-63)
+*[https://kodadot.xyz/statemine/gallery/11-63](https://kodadot.xyz/statemine/gallery/11-63)*
 
-What have we learned?
+#### What have we learned?
 
 - First of all, KodaDot is no longer a small project with more than 950 merged pull requests from 60 contributors and 143 forks. We have distributed the grant and other KSM funds to the contributors as they also believe in the thesis of the public good.
 
@@ -185,3 +184,21 @@ As a consequence, we are thinking about how to make a marketplace on top of the 
 ### Future work && last remarks
 
 The future work of this proposal is to extend and implement Statemine-based fungible tokens such as RMRK or BillCoin to be shared between the users and integrate MoonRiver’s XC20.
+
+> Last Remarks: All the presented features were presented on the Westmint — a testnet Statemine
+
+## Hard Facts about KodaDot development
+
+![14](/statemine/14.png)
+
+There are boring hard facts about our developers’ engagement and [we would like to invite you to participate](https://github.com/kodadot/nft-gallery/) and help shape the future of KodaDot as we are rewarding every great pull-requests based on issues we have backlogged in our repository.
+
+### Rewards
+
+Currently, we have over 190 bounties with total rewards of $47k denominated in $KSM. This sounds impressive and anyone who would like to have on their Github Profile prolific participation in Open Source can join us.
+
+![15](/statemine/15.png)
+
+### We are hiring — you and your friends
+
+As a growing team, we need to hire social capital to render our vision true. You and your friends can be part of it. Let us know if you know someone who would like to contribute to open-source web3 projects and change the world.
