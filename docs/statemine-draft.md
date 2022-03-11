@@ -153,3 +153,35 @@ What we left out from the grant is the embeddable component. In the past using s
 ![11](/statemine/11.png)
 
 - As you can see on the graph, KodaDot has currently the highest security grade for the secure headers
+
+### Random bug
+
+While writing up this article we spotted a [random bug](https://github.com/kodadot/nft-gallery/issues/2058). When we were trying to access the NFT the app failed because the unique module was  undefined despite the fact that the app claimed we were connected to the Statemine. Cracking our heads with this, [we’ve opened an issue for the @polkadot-js/api](https://github.com/polkadot-js/api/issues/4493). After hours of debugging, we’ve been happy to raise awareness as more people we’re using old-setup. Jaco realized it would be helpful for others (less_experienced) parachain developers who are debugging their stuff.
+
+- How we spotted a random bug? We’ve realized that we are missing types for unique module.
+
+#### Recent changes since we’ve started implementing it
+
+### Chain Selector
+
+To make end-user easier life, we’ve added in top-right way to select chain you are connecting to. You can choose collecting RMRK-based NFT on Kusama or opt for Statemine. Bonus stage, as we love developers, we’ve kept option for testnets.
+
+![12](/statemine/12.png)
+
+### NFT Item detail
+
+We’ve gone through a cosmetic redesign of NFT item detail so this should look way better and we’ve introduced major improvements for mobile experience as well.
+
+![13](/statemine/13.png)
+- [https://kodadot.xyz/statemine/gallery/11-63](https://kodadot.xyz/statemine/gallery/11-63)
+
+What have we learned?
+
+- First of all, KodaDot is no longer a small project with more than 950 merged pull requests from 60 contributors and 143 forks. We have distributed the grant and other KSM funds to the contributors as they also believe in the thesis of the public good.
+
+- Second, many people has joined our Discord to ask: “wen statemine”. At the first glance, we thought “hmm they are super hyped about the tech” which we later find out they just want to sell one of the rare NFTs such as Fractanary.
+As a consequence, we are thinking about how to make a marketplace on top of the Statemine, which could help drive more real NFTs adoption on Kusama and Polkadot ecosyste
+
+### Future work && last remarks
+
+The future work of this proposal is to extend and implement Statemine-based fungible tokens such as RMRK or BillCoin to be shared between the users and integrate MoonRiver’s XC20.
