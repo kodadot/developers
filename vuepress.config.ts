@@ -116,7 +116,11 @@ module.exports = {
           {
             text: 'Incentivized QA',
             link: '/incentives/incentivized-qa.md',
-          }
+          },
+          {
+            text: 'Translating KodaDot',
+            link: '/incentives/translating-kodadot.md',
+          },
         ]
       },
       {
