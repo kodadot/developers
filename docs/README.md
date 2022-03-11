@@ -56,12 +56,13 @@ It may take while till we finish migrating from old sources, plus we are recreat
 ### All tutorials under one roof
 - [Tutorials overview](tutorial-overview.md)
 
-### Beginner tutorials 
+### Beginner section 
 - [How to create a wallet](tutorials/how-to-create-wallet.md)
 - [How to top up your wallet](tutorials/how-to-top-up-wallet.md)
 - [How to mint](tutorials/minting.md)
 - [Frequently asked questions](FAQ.md)
 - [How to file a bug report](tutorials/how-to-bug-report.md)
+- [Simplified writings](simplified-writings.md)
 
 ## How can you contribute
 - Join our [discord](https://discord.gg/kodadot) where the fireplace is always burning and community always welcoming. 
