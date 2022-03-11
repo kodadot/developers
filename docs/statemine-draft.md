@@ -111,3 +111,27 @@ One of the features we have implemented is teleport. Teleport allows us to send 
 ### Technical difficulties
 
 As what Bruno called a few calls it is more difficult under the hood. The backbone of the app is the indexer hosted by SubQuery. We use the indexer as a discovery service. In other words for listing all available NFTs, getting a list of collections created by us and also a paginated list of NFTs owned by a particular address. As it is not necessary to run an indexer against the Statemine as we can read all the data from the chain, some queries will be computationally expensive for the client’s device. Moreover, we would completely lose the NFT’s history (wen create, send, burn). As a side effect, we would love to see other teams leverage Statemine’s indexer and build something.
+
+### Ordered data
+
+How do we know the data are correct? Well, we learned that the hard way 😅.
+By definition of SubQuery, the events are processed by the order they have defined in the project.yml and not by the way they were included in the block so when we made a batch that makes freeze, thaw, freeze the result in the indexer was that NFT is frozen, but the reality was quite the opposite.
+
+![8](/statemine/8.png)
+
+### Delayed delivery
+
+Moreover, in the meantime of finishing the statemine implementation, we were upgrading our single page application to the Nuxt. The migration brought a lot of changes for the UI as well as the application itself is much faster. I highly recommend you to read the Koda 2.0 article.
+
+::: tip What is Nuxt?
+Nuxt is a fantastic choice for teams building a production-grade product on the web.
+:::
+
+We wanted that the Statemine integration should be already written Nuxt, which has slowed the development process on the one hand, but on the flip-side, the code is not in the state that will be unusable in a couple of weeks.
+Two parallel connected RPC nodes
+
+The third major challenge was how to connect two parallelly connected RPC nodes to one client. As we internally still use kodadot1/packages this seems like a major decision: rewrite sub-API, to manage multiple connections.
+
+We decided not to take this path and rather rethink how we can make the app seamless for the user and the app extendable for the other future OSS contributors.
+Therefore we’ve hacked internally called a prefixed based routing. Depending on which route we are app decides automatically on the background which node should we connect and which indexer should be used.
+As the model example:
