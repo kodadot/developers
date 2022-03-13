@@ -4,10 +4,14 @@
 
 ![KodaDot_logo_v3](./assets/KODA_v3.png)
 
-We are in process migrating our old resources from 
+We are in process of migrating our old resources from 
 - [kodadot.gitbook.io](https://kodadot.gitbook.io)
 
 It may take while till we finish migrating from old sources, plus we are recreating new resources
+
+#### Are you looking for information regarding Blockathon_dao x KodaDot hackathon?
+
+- [Visit KodaDot x BlockathonDAO dedicated page](blockathon.md)
 
 ## What is KodaDot?
 
