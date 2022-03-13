@@ -18,4 +18,4 @@
 
 - We kindly [invite you to our discord server](https://discord.gg/nq7jAWW87c), where coordination and further info can be provided. Ping **@damsky** if you need any help. 
 
-- KodaDot team is also hanging out on Blockathon_dao discord.
+- KodaDot team is also hanging out on BlockathoDAO discord.
