@@ -187,18 +187,3 @@ The future work of this proposal is to extend and implement Statemine-based fung
 
 > Last Remarks: All the presented features were presented on the Westmint — a testnet Statemine
 
-## Hard Facts about KodaDot development
-
-![14](/statemine/14.png)
-
-There are boring hard facts about our developers’ engagement and [we would like to invite you to participate](https://github.com/kodadot/nft-gallery/) and help shape the future of KodaDot as we are rewarding every great pull-requests based on issues we have backlogged in our repository.
-
-### Rewards
-
-Currently, we have over 190 bounties with total rewards of $47k denominated in $KSM. This sounds impressive and anyone who would like to have on their Github Profile prolific participation in Open Source can join us.
-
-![15](/statemine/15.png)
-
-### We are hiring — you and your friends
-
-As a growing team, we need to hire social capital to render our vision true. You and your friends can be part of it. Let us know if you know someone who would like to contribute to open-source web3 projects and change the world.
