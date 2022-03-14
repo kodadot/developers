@@ -12,6 +12,10 @@
 
 - All participants looking to tackle issues in KodaDot repository follow few simple steps:
 
+::: warning Important notice:
+We are using label system in our github repository. While participating on the hackathon, please [look for Hackathon label ](https://github.com/kodadot/nft-gallery/issues?page=1&q=is%3Aopen+is%3Aissue+label%3Ahackathon) to participate in the hackathon! 
+:::
+
 ### [Code of conduct](https://github.com/kodadot/nft-gallery/blob/main/CODE_OF_CONDUCT.md)
 
 ### [First time tackling issues at KodaDot](https://github.com/kodadot/nft-gallery/blob/main/FIRST_TIME.md)
