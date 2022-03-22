@@ -24,40 +24,40 @@ module.exports = {
         text: 'Tutorials',
         children: [
           { 
-            text: 'Creating a wallet', 
-            link: '/tutorials/how-to-create-wallet.md' 
-          },
-          { 
             text: 'Adding funds to your wallet', 
             link: '/tutorials/how-to-top-up-wallet.md' 
-          },
-          { 
-            text: 'Minting', 
-            link: '/tutorials/how-to-mint.md' 
-          },
-          {
-            text: 'Filing bug report',
-            link: '/tutorials/how-to-bug-report.md'
           },
           {
             text: 'Airdroping nfts',
             link: '/tutorials/how-to-airdrop.md'
           },
           {
-            text: 'NFTs from scratch',
-            link: '/how-to-make-nft.md',
-          },
-          {
             text: 'Buying NFTs from iOS device',
             link: '/tutorials/how-to-kodadot-phone-ios.md',
           },
+          { 
+            text: 'Creating a wallet', 
+            link: '/tutorials/how-to-create-wallet.md' 
+          },
           {
-            text: 'Translating KodaDot via Github',
-            link: '/tutorials/language-translations.md',
+            text: 'Filing bug report',
+            link: '/tutorials/how-to-bug-report.md'
           },
           {
             text: 'Fixing keypair error',
             link: '/tutorials/how-to-fix-error-keypair.md',
+          },
+          { 
+            text: 'Minting', 
+            link: '/tutorials/how-to-mint.md' 
+          },
+          {
+            text: 'NFTs from scratch',
+            link: '/how-to-make-nft.md',
+          },
+          {
+            text: 'Translating KodaDot via Github',
+            link: '/tutorials/language-translations.md',
           },
         ],
       },
