@@ -82,33 +82,6 @@ Invite your friends!
 KodaDot gif-meme contest invite link: https://discord.gg/3aG6SrhFNE 
 
 
-## Koda-forest logo contest
 
-- As you might know, climate change is a big issue now and we want to go further down the stream and help with this as much as we can. Hence we decided to frequently support RMTerra.org and in this colaboration - **Koda-Forest** has grown. 
-- We are working on many other initiatives, for example for every XX mints you'll be eligible to "plant a tree" on your behalf and other interesting concepts. Also communities in Portugal are growing and i believe after some time when we have ambassador program up, Pedro from RMTerra will be taking care about this in Portugal and local communities. But enough of words, let's get to the contest.
-
-- The contest has quite easy parameters and for now has a deadline of one week. This deadline will of course be extended if there won't be enough participants. Take your time, we are looking for high quality work. We are working on article regarding koda-forest and kusama carbon neutrality so we want to have this done asap.
-
-- The logo should meet these conditions:
-
-    - **KodaDot logo** as one of main focuses of the logo - would love to see this somehow implemented into the general idea
-    - **Reforestation/nature/climate** as a main theme
-
-**Bounty: 1-3 $KSM for the chosen contribution**
-
-- If your contribution will be chosen, we'd like to cooperate with you more on other stuff regarding koda-forest. There'll be pfp needed, banners, thumbnails etc.
-
-**Materials for production:** 
-
-[KodaDot latest presskit](https://github.com/kodadot/kodadot-presskit/tree/main/v3) 
-
-
-**Inspiration:**
-
-[RMTerra.org](https://www.rmterra.org/)
-
-[twitter RMTerra.org](https://twitter.com/RmterraO)
-
-[RMTerra youtube channel](https://www.youtube.com/channel/UCwI6HDGNpWBGUGqf94V-OLQ)
 
 
