@@ -1,43 +1,43 @@
 # KodaDot NFT Marketplace
 
-## Docs are being created, be patient
-
 ![KodaDot_logo_v3](./assets/KODA_v3.png)
 
-
-It may take while till we finish migrating from old sources, plus we are recreating new resources
-
-#### Are you looking for information regarding Blockathon_dao x KodaDot hackathon?
-
-- [Visit KodaDot x BlockathonDAO dedicated page](blockathon.md)
-
-## What is KodaDot?
+## What is KodaDot
 
 - [KodaDot](https://kodadot.xyz) is developed as open source NFT marketplace and ultimately created as public goods of Internet, currently running on [Kusama.network](https://kusama.network)
 
-## Contribute to KodaDot 
+- First of all, we are offering warm space for artists, developers, collectors, analytics and basicly everyone who's desire is to be close to NFT space in Polkadot & Kusama ecosystem
 
-- ### As developer
+## Getting involved with KodaDot
+
+
+- ### Are you developer?
   - We offer bounties for solving issues in our Github repository at [kodadot/nft-gallery](https://github.com/kodadot/nft-gallery/issues/) and successfully creating pull-requests against our upstream branch.
-  - range of our bounties starts at **$50 USD and are up to $1000 USD**
+  - Range of our bounties starts at **$50 USD and are up to $1000 USD**
   - [Why you should contribute to KodaDot?](developer.md)
   - You can learn more in our [Contributing.md](https://github.com/kodadot/nft-gallery/blob/main/CONTRIBUTING.md)
   - Is it your **first time** contributing? Please have a look at the [instructions](first_time.md)
  
-- ### As non-tech savvy user
+- ### Are you daily User/Observer of the space?
   - We have many opportunities how you can contribute and help us drive community-driven experience for open source NFT marketplace
   - You can become our steward or ambassador -- to help us on various non-technical tackling issues, like helping around in Discord, helping on translations or reporting bugs
   - Participate in [various contests](contests-programs.md). In past we had contest for _Discord logo, Animated Banner for Discord, Animated preloader for KodaDot_ and more are coming.
   - [Contribute by translating KodaDot](/incentives/translating-kodadot.md)
-  
-## Contests and other incentive programs
+
+- ### Are you Artist?
+
+  - We are all artists in its way. It is our deep intention to support artists and starting collections either in form of grant or by being spotlighted on our discord and also on the kodadot.xyz landing page.
+   - [How to become curated artist?](get_featured.md)
+
+
+
+## Keeping the community warm with contests
 - There is always some contest! Our incentive to motivate fellow KodaHeadz is there because we want to grow as community. Everyone here, has a chance to contribute, without a single knowledge of code.
 - Find out more information at [Contests and other incentive programs](contests-programs.md) page
 - [Bug bounty program](contests-programs.md#bug-bounty-program)
 - [Gif-memes contest](contests-programs.md#gif-meme-contest)
-- [Koda-Forest logo contest](contests-programs.md#koda-forest-logo-contest)
 
-## Navigation
+## Getting started
 
 ### I'm artist
 
@@ -53,24 +53,17 @@ It may take while till we finish migrating from old sources, plus we are recreat
 
 - Great! We are working on [technology-dedicated page](technology.md).
 
-## Getting Started 
 
-### All tutorials under one roof
+### Tutorials 
 - [Tutorials overview](tutorial-overview.md)
 
-### Beginner section 
-- [How to create a wallet](tutorials/how-to-create-wallet.md)
-- [How to top up your wallet](tutorials/how-to-top-up-wallet.md)
-- [How to mint](tutorials/minting.md)
-- [Frequently asked questions](FAQ.md)
-- [How to file a bug report](tutorials/how-to-bug-report.md)
-- [Simplified writings](simplified-writings.md)
-
-## How can you contribute
+## Contributing Options
 - Join our [discord](https://discord.gg/kodadot) where the fireplace is always burning and community always welcoming. 
 - If you want to help us contributing to this docs, you can be rewarded as well.
 
-## Meta_Hours - bi-weekly digest of development progress 
+## KodaDot development
+
+### Meta-hours -- Bi-weekly update of development
 - We are having bi-weekly updates from contributors to the KodaDot, incl developers, community and creators to share insights on issues we've done, tackling issues, challenges and generally what's happening speaking on roadmap. 
 - You can [learn more about Meta_Hours at dedicated page](meta-hours.md)
 
