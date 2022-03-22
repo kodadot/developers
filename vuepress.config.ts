@@ -65,12 +65,8 @@ module.exports = {
         text: 'KodaDot',
         children: [
           {
-            text: 'Collaborate with us',
-            link: '/get_featured.md',
-          },
-          {
-            text: 'Frequently asked questions',
-            link: '/faq.md',
+            text: 'Kodadot.xyz',
+            link: 'https://kodadot.xyz',
           },
           {
             text: 'Discord',
@@ -81,21 +77,25 @@ module.exports = {
             link: 'https://twitter.com/kodadot',
           },
           {
-            text: 'Token $kodao',
-            link: '/token/draft.md',
-          },
-          {
             text: 'Presskit & Logo',
             link: 'https://github.com/kodadot/kodadot-presskit',
+          },
+          {
+            text: 'Collaboration with Artists',
+            link: '/get_featured.md',
+          },
+          {
+            text: 'Frequently asked questions',
+            link: '/faq.md',
+          },
+          {
+            text: 'Token $kodao',
+            link: '/token/draft.md',
           },
           {
             text: 'Writings',
             link: '/writings.md',
           },
-          {
-            text: 'kodadot.xyz',
-            link: 'https://kodadot.xyz'
-          }
         ]
       },
       {
