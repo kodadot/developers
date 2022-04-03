@@ -1,6 +1,19 @@
-# KodaDot NFT Marketplace
+---
+home: true
+heroImage: https://github.com/kodadot/kodadot-presskit/blob/main/v3/KODA_v3.png?raw=true
+tagline: Documentation serving all user categories
+sidebar: auto
+features:
+- title: Beginner
+  details: 
+- title: Creator
+  details: 
+- title: Developer
+  details: 
+footer: Made by KodaDot with ❤️
+---
 
-![KodaDot_logo_v3](./assets/KODA_v3.png)
+# Docs are being redesigned, be patient
 
 ## What is KodaDot
 
