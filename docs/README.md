@@ -14,7 +14,7 @@ We're aiming to be a project that welcomes those from all backgrounds to contrib
   - [Why you should contribute to KodaDot?](developer.md)
   - We offer paid bounties for successfully solving issues in our Github repository at [kodadot/nft-gallery](https://github.com/kodadot/nft-gallery/issues/).
   - Is it your **first time** contributing? Get started [here](first_time.md)!
-  - Before making a pull request, please make sure you refer to [Contributing.md](https://github.com/kodadot/nft-gallery/blob/main/CONTRIBUTING.md) to ensure that adhere to our contributing guidelines.
+  - Before making a pull request, please make sure you refer to [Contributing.md](https://github.com/kodadot/nft-gallery/blob/main/CONTRIBUTING.md) to ensure that you adhere to our contributing guidelines.
 
 ## Are you an Artist?
 We are passionate about supporting artists, whether it's by providing them a grant to continue their NFT collection, putting them in our Discord's spotlight, or by featuring them on KodaDot.xyz. Does this sound like this would benefit you? Learn how to become a [curated artist](get_featured.md) for KodaDot.
@@ -23,7 +23,7 @@ We are passionate about supporting artists, whether it's by providing them a gra
   You don't need to be technically or artisically inclined to contribute to KodaDot. We have many opportunities for those like you who want to change the open-source NFT marketplace.
   - You can become a steward or ambassador -- help us on various non-technical tackling issues like helping around in our 
   [Discord server](https://discord.gg/kodadot), [translating documentation](/incentives/translating-kodadot.md), or [reporting bugs](contests-programs.md#bug-bounty-program).
-  - Another way to contribute would be to publish articles for us! We document and publish KodaDot's recent developments on our [Medium](writings.md).
+  - Another way to contribute would be to publish articles for us! We document and publish KodaDot's recent developments on our [Medium](https://medium.com/kodadot).
   - Participate in [various contests](contests-programs.md). In past we had a contest for KodaDot's new _Discord logo and Animated Banner. Don't worry, more contests are on the way!
 
 ## Come say Hi!
