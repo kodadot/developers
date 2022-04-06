@@ -17,6 +17,11 @@ Everyone has a side hustle nowadays and with the **gig economy**, this is  how w
 ## Challenging Puzzles
 Our challenging issues will push you to think deeply about solutions and force you to learn a thing or two along the way. The mental stimulation is something you won't get on your day-to-day office jobs, so this is where we come in.
 
+## Sense of Community
+Collaboration is an important part of contributing. Your name becomes known throughout the community when you make pull requests, ask questions, or even hop on a call for a minute or two. Everyone who contributes to KodaDot becomes a member of the family. You'll find others who are working on challenges similar to yours, as well as those that are struggling. This is where you enter the picture. We're all here for each other, and we want to see each other succeed. KodaDot will become synonymous with a sense of belonging.
+
+
+
 ## Contribution to Open Source
 **Public proof of contribution** is arguably one of the most important things when trying to land your first tech job. Focusing on a person's GitHub is more telling of ones' skillset than reading a PDF. Rather than blindly trusting resumes, you can judge off of what a person has contributed publicly.
 
