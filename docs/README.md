@@ -32,7 +32,7 @@ We have bi-weekly meetings with contributors of KodaDot to share each other's pr
 Is this your first time joining? Feel free to catch up on our [past Meta_Hours](https://github.com/kodadot/nft-gallery/discussions/categories/meta-hours)!
 
  ## Need some help?
-Here are some [tutorials](tutorial-overview.md)
+Here are some [tutorials](tutorial-overview.md) and our [FAQ's](FAQ.md)
 ## Presskit & Logo
 [KodaDot's icons/logos](./presskit.md)
 
