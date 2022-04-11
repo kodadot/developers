@@ -17,7 +17,9 @@ We're aiming to be a project that welcomes those from all backgrounds to contrib
   - Before making a pull request, please make sure you refer to [Contributing.md](https://github.com/kodadot/nft-gallery/blob/main/CONTRIBUTING.md) to ensure that adhere to our contributing guidelines.
 
 ## Are you an Artist?
-We are passionate about supporting artists, whether it's by providing them a grant to continue their NFT collection, putting them in our Discord's spotlight, or by featuring them on KodaDot.xyz. Does this sound like this would benefit you? Learn how to become a [curated artist](get_featured.md) for KodaDot.
+We are passionate about supporting artists, whether it's by providing them a grant to continue their NFT collection, putting them in our Discord's spotlight, or by featuring them on KodaDot.xyz. 
+
+Our Discord Spotlight is a channel in our [Discord](https://discord.gg/kodadot) where the most passionate projects get the chance to keep close contact with the community (updates, launches, etc). You can also get the chance to be featured on the front page of KodaDot by being active in our community.
  
 ## Looking to contribute to anything?
   You don't need to be technically or artisically inclined to contribute to KodaDot. We have many opportunities for those like you who want to change the open-source NFT marketplace.
@@ -32,7 +34,7 @@ We have bi-weekly meetings with contributors of KodaDot to share each other's pr
 Is this your first time joining? Feel free to catch up on our [past Meta_Hours](https://github.com/kodadot/nft-gallery/discussions/categories/meta-hours)!
 
  ## Need some help?
-Here are some [tutorials](tutorial-overview.md) and our [FAQ's](FAQ.md)
+Here are some [tutorials](tutorial-overview.md) and our [FAQ](FAQ.md)
 ## Presskit & Logo
 [KodaDot's icons/logos](./presskit.md)
 
