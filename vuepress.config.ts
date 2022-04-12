@@ -127,10 +127,6 @@ module.exports = {
             link: '/developer.md',
           },
           {
-            text: 'Meta_hours - digest on progress',
-            link: '/meta-hours.md',
-          },
-          {
             text: 'Meta_Hours (GitHub)',
             link: 'https://github.com/kodadot/nft-gallery/discussions/categories/meta-hours'
           },         
