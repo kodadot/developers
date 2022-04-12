@@ -92,10 +92,6 @@ module.exports = {
             text: 'Token $kodao',
             link: '/token/draft.md',
           },
-          {
-            text: 'Writings',
-            link: '/writings.md',
-          },
         ]
       },
       {
