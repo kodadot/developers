@@ -16,7 +16,7 @@ Mitigating means that the reported bug is fixed and merged into `main` branch an
 - For security bugs range is from **$300 up to $5000.** 
 
 ### How to Bug report
-- [You can learn how to bug report](tutorials/how_to_bug_report.md)
+- [You can learn how to bug report](/tutorials/how-to-bug-report.md)
 
 ### Reference
 
