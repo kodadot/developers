@@ -6,7 +6,7 @@ sidebar: auto
 footer: Made by KodaDot with ❤️
 ---
 [KodaDot](https://kodadot.xyz) is an open source NFT marketplace and serving as a public goods of Internet, currently running on [Kusama.network](https://kusama.network).
-We're aiming to be a project that welcomes those from all backgrounds to contribute to Polkadot/Kusama's NFT ecosystem. 
+We're aiming to be a project that welcomes those from all backgrounds to contribute to Polkadot/Kusama's NFT ecosystem. Don't be scared, we're [beginner friendly](technology.md)!
 
 # Getting Started
 

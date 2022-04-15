@@ -1,33 +1,31 @@
-# All up-to-date tutorials in beginner-friendly order
+# Begineer-Friendly Tutorials
+Visual Learner? You've got the right spot.
 
-## Technology
+## Your Crypto Wallet
 
-### [Set up cryptocurrency wallet](tutorials/how-to-create-wallet.md)
+- [Set up cryptocurrency wallet](tutorials/how-to-create-wallet.md)
 
-### [Add funds to your wallet](/tutorials/how-to-top-up-wallet.md)
+- [Add funds to your wallet](/tutorials/how-to-top-up-wallet.md)
 
-## Non-fungible tokens
+## Non-Fungible Tokens (NFTs)
 
-### [NFTs from scratch](how-to-make-nft.md)
+- [NFTs from scratch](how-to-make-nft.md)
 
-### [Mint](/tutorials/how-to-mint.md)
+- How to [Mint](/tutorials/how-to-mint.md) NFTs
 
-### [Airdrop](/tutorials/how-to-airdrop.md)
+- How to [Airdrop](/tutorials/how-to-airdrop.md) NFTs
 
-## Community involvements
+## Contributing
 
-### [File proper bug report](/tutorials/how-to-bug-report.md)
+- How to [file a proper bug report](/tutorials/how-to-bug-report.md)
+- How to translate KodaDot via [Github's web interface](/tutorials/language-translations.md)
 
-## KodaDot mobile
+## KodaDot Mobile
 
-### [How to mint NFTs from iOS device](/tutorials/how-to-kodadot-phone-ios.md)
-
-## Contributing to KodaDot
-
-### [How to translate KodaDot via Github web interface](/tutorials/language-translations.md)
+- How to mint NFTs from [iOS device](/tutorials/how-to-kodadot-phone-ios.md)
 
 ## Troubleshooting
 
-### [How to fix "Unable to retrieve keypair" error](/tutorials/how-to-fix-error-keypair.md)
+- How to [fix "unable to retrieve keypair" error](/tutorials/how-to-fix-error-keypair.md)
 
 
