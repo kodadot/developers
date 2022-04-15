@@ -1,4 +1,4 @@
-# Begineer-Friendly Tutorials
+# Beginner-Friendly Tutorials
 Visual Learner? You've got the right spot.
 
 ## Your Crypto Wallet
