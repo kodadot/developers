@@ -29,9 +29,9 @@ Our Discord Spotlight is a channel in our [Discord](https://discord.gg/kodadot) 
   - Participate in [various contests](contests-programs.md). In past we had a contest for KodaDot's new _Discord logo and Animated Banner_. Don't worry, more contests are on the way!
 
 ## Come say Hi at KodaDot's Meta_Hours!
-We have bi-weekly meetings with contributors of KodaDot to share each other's progress as well as future goals in our [Discord sever](https://discord.gg/kodadot).
+We have bi-weekly meetings with contributors of KodaDot to share each other's progress as well as future goals in our [Discord sever](https://discord.gg/kodadot). Before speaking, please make sure you're prepared as a [speaker](meta-hours.md). 
 
-Is this your first time joining? Feel free to catch up on our [past Meta_Hours](https://github.com/kodadot/nft-gallery/discussions/categories/meta-hours)!
+Is this your first time joining? Feel free to catch up on our [past Meta_Hours](https://github.com/kodadot/nft-gallery/discussions/categories/meta-hours)! 
 
  ## Need some help?
 Here are some [tutorials](tutorial-overview.md) and our [FAQ](FAQ.md)
