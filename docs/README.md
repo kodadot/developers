@@ -6,7 +6,7 @@ sidebar: auto
 footer: Made by KodaDot with ❤️
 ---
 [KodaDot](https://kodadot.xyz) is an open source NFT marketplace and serving as a public goods of Internet, currently running on [Kusama.network](https://kusama.network).
-We're aiming to be a project that welcomes those from all backgrounds to contribute to Polkadot/Kusama's NFT ecosystem. 
+We're aiming to be a project that welcomes those from all backgrounds to contribute to Polkadot/Kusama's NFT ecosystem. Don't be scared, we're [beginner friendly](technology.md)!
 
 # Getting Started
 
@@ -17,7 +17,9 @@ We're aiming to be a project that welcomes those from all backgrounds to contrib
   - Before making a pull request, please make sure you refer to [Contributing.md](https://github.com/kodadot/nft-gallery/blob/main/CONTRIBUTING.md) to ensure that you adhere to our contributing guidelines..
 
 ## Are you an Artist?
-We are passionate about supporting artists, whether it's by providing them a grant to continue their NFT collection, putting them in our Discord's spotlight, or by featuring them on KodaDot.xyz. Does this sound like this would benefit you? Learn how to become a [curated artist](get_featured.md) for KodaDot.
+We are passionate about supporting artists, whether it's by providing them a grant to continue their NFT collection, putting them in our Discord's spotlight, or by featuring them on KodaDot.xyz. 
+
+Our Discord Spotlight is a channel in our [Discord](https://discord.gg/kodadot) where the most passionate projects get the chance to keep close contact with the community (updates, launches, etc). You can also get the chance to be featured on the front page of KodaDot by being active in our community.
  
 ## Looking to contribute to anything?
   You don't need to be technically or artisically inclined to contribute to KodaDot. We have many opportunities for those like you who want to change the open-source NFT marketplace. We believe one of the best ways to bring a community together is by bringing a challenge amongst themselves. This way, members either learn how to collaborate or innovate.
@@ -30,12 +32,12 @@ We are passionate about supporting artists, whether it's by providing them a gra
   - Participate in our [active contests](contests-programs.md). In past we had a contest for KodaDot's new _Discord logo and Animated Banner. Don't worry, more contests are on the way!
 
 ## Come say Hi at KodaDot's Meta_Hours!
-We have bi-weekly meetings with contributors of KodaDot to share each other's progress as well as future goals in our [Discord sever](https://discord.gg/kodadot).
+We have bi-weekly meetings with contributors of KodaDot to share each other's progress as well as future goals in our [Discord sever](https://discord.gg/kodadot). Before speaking, please make sure you're prepared as a [speaker](meta-hours.md). 
 
-Is this your first time joining? Feel free to catch up on our [past Meta_Hours](https://github.com/kodadot/nft-gallery/discussions/categories/meta-hours)!
+Is this your first time joining? Feel free to catch up on our [past Meta_Hours](https://github.com/kodadot/nft-gallery/discussions/categories/meta-hours)! 
 
  ## Need some help?
-Here are some [tutorials](tutorial-overview.md)
+Here are some [tutorials](tutorial-overview.md) and our [FAQ](FAQ.md)
 ## Presskit & Logo
 [KodaDot's icons/logos](./presskit.md)
 
