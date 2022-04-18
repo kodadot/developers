@@ -20,7 +20,11 @@
 
  ## Spotlight
 
- Spotlight is a dedicated category on our [discord](https://discord.gg/kodadot) where the most active and high quality projects recieve their chance to connect with the rest of the community and share news and mints more exclusively. It's right at the top so it definitely gets the much needed attention
+ Spotlight is a dedicated category on our [discord](https://discord.gg/kodadot) where the most active and high quality projects recieve their chance to connect with the rest of the community and share news and mints more exclusively. It's right at the top so it definitely gets the much needed attention.
+
+ Newly, spotlighted artists are also visible on the main page.
+
+ ![spotlight](./assets/get-featured/spotlight.png)
 
  ## Would you like to get featured on the main KodaDot landing page?
 
