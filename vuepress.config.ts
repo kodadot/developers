@@ -81,8 +81,12 @@ module.exports = {
             link: 'https://github.com/kodadot/kodadot-presskit',
           },
           {
+            text: 'Ambassador Program',
+            link: '/ambassador-program/ambassador-intro.md',
+          },
+          {
             text: 'Collaboration with Artists',
-            link: '/get_featured.md',
+            link: '/get-featured.md',
           },
           {
             text: 'Frequently asked questions',
