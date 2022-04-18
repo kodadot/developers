@@ -1,6 +1,6 @@
 # How To Make NFT
 
- ![KodaDot_logo_v3](./assets/KODA_v3.png)
+ 
  - We at [KodaDot](https://kodadot.xyz) are superior dedicated for easy onboarding experience with helping minting your first NFTs
 
  ## Create a piece of Art

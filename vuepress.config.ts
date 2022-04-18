@@ -16,7 +16,7 @@ module.exports = {
   ],
   public: 'docs/assets',
   themeConfig: {
-    logo: '/KODA_v3.png',
+    logo: '/koda_v3.png',
     repo: 'https://github.com/kodadot/nft-gallery',
     repoLabel: 'kodadot/nft-gallery',
     navbar: [
@@ -53,7 +53,7 @@ module.exports = {
           },
           {
             text: 'NFTs from scratch',
-            link: '/how-to-make-nft.md',
+            link: '/tutorials/how-to-make-nft.md',
           },
           {
             text: 'Translating KodaDot via Github',
