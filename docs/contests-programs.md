@@ -17,13 +17,13 @@ If you find yourself on Github wanting to immediately report an issue, here's ho
 #### 2) Click on 'Issues'
 ![step2](/bug_report/step2.png)
 
-### 3) Click on "New issue"
+#### 3) Click on "New issue"
 ![step3](/bug_report/step3.png)
 
-### 4) Choose "Get Started" on the Bug Report Option
+#### 4) Choose "Get Started" on the Bug Report Option
 ![step4](/bug_report/step4.png)
 
-### 5) Fill out the boxes.
+#### 5) Fill out the boxes.
 ![step1](/bug_report/step5.png)
 
 
