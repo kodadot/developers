@@ -26,7 +26,7 @@ Our Discord Spotlight is a channel in our [Discord](https://discord.gg/kodadot) 
 
  We built KodaDot as an open-source community project. Everyone can contribute regardless of their technical ability and dedication. Choose what you're good at and get rewarded. We value high quality effort. Here's what you can do for us:
 
-  - You can become a steward or ambassador -- help us on various non-technical tackling issues like helping around in our 
+  - You can become a steward or [ambassador](ambassador-program/ambassador-intro.md) -- help us on various non-technical tackling issues like helping around in our 
   [Discord server](https://discord.gg/kodadot), [translating documentation](/incentives/translating-kodadot.md), or [reporting bugs](contests-programs.md#bug-bounty-program).
   - Publish articles for us! We document and publish KodaDot's recent developments on our [Medium](https://medium.com/kodadot).
   - Participate in our [active contests](contests-programs.md). In past we had a contest for KodaDot's new _Discord logo and Animated Banner. Don't worry, more contests are on the way!
