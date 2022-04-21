@@ -1,31 +1,19 @@
-# How can you be featured on KodaDot?
+# Being featured on KodaDot
+We strongly encourage artists who are joining our space to create or continue their art. We're aware of obstacles that might prevent an artist from doing so, which is why we're heavily backing our artists with support through grants and recognition.
 
- ## Thesis
+## Recognition comes in two ways here at KodaDot:
 
- We are all artists in its way. It is our deep intention  to support artists and starting collections either in form of grant or by being spotlighted on our discord and also on the kodadot.xyz landing page.
+### 1) Discord Spotlights
+Spotlight is a dedicated category in our [Discord](https://discord.gg/kodadot) where we feature the most active and passionate artists in the space. This is your chance to connect with the rest of the community! 
 
- By being spotlighted on our discord, creators and collectors get direct contact with you and a lot of stuff can flourish just from that as well as collectors can catch up on your recent updates and new drops.
+By being spotlighted in our Discord, creators and collections will be able to directly communicate to you. Whether it'd be compliments, constructive criticism, or just to make a new friend, you can count on making meaningful connections here at KodaDot. Through our spotlights, you can update our community members with your newest drops and updates.
 
- Artists shape the community as well as collectors. We want to to keep this flowing hence we decided to give chance to high quality artists and collections.
 
- The main point is to shine light on active individuals in the space whose project is heading into long-term direction. As stated already in these docs, our values lie in long term plays rather than short term speculation. Simply bringing value to everyone in the space is what we are trying to achieve as we also could be called a common-good project.
-
- ## Pros
-
- As everyone in the space has their own purpose, KodaDot, as a common-good project is open to everyone. We have creators, artists, collaborators, collectors, biohackers. You can find many individuals under KodaDot roof and nurture many great opportunities
-
- Simply by being able to connect with other creators or even your people who just bought an art from you, we try to keep everything under one roof. Why?
-
- It's simple. Reaching out to your fans and community can be sometimes frustrating and time consuming. That's why we came up with spotlight possibility for active creators and artists.
-
- ## Spotlight
-
- Spotlight is a dedicated category on our [discord](https://discord.gg/kodadot) where the most active and high quality projects recieve their chance to connect with the rest of the community and share news and mints more exclusively. It's right at the top so it definitely gets the much needed attention.
-
- Newly, spotlighted artists are also visible on the main page.
-
+### 2) Homepage Features
+Being spotlighted in our Discord gives you the chance to be featured on our homepage. The same rules apply: be an active member and a passionate artist. We pick our homepage features based off eagerness, so make sure to let us know that you're interested in being featured when you join our Discord!
  ![spotlight](./assets/get-featured/spotlight.png)
 
- ## Would you like to get featured on the main KodaDot landing page?
 
- Find out more on our discord! Looking forward for your introduction it the dedicated channel.
+We're more inclined to shine a light on those who have potential for scaling their projects in the long-term. We're want to invest in someone who's truly passionate in their work rather than someone who's here just to make a quick buck. 
+
+Does this sound like you? We'll see you in the server.

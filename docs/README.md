@@ -19,7 +19,7 @@ We're aiming to be a project that welcomes those from all backgrounds to contrib
 ## Are you an Artist?
 We are passionate about supporting artists, whether it's by providing them a grant to continue their NFT collection, putting them in our Discord's spotlight, or by featuring them on KodaDot.xyz. 
 
-Our Discord Spotlight is a channel in our [Discord](https://discord.gg/kodadot) where the most passionate projects get the chance to keep close contact with the community (updates, launches, etc). You can also get the chance to be featured on the front page of KodaDot by being active in our community.
+Our Discord Spotlight is a channel in our [Discord](https://discord.gg/kodadot) where the most passionate projects get the chance to keep close contact with the community (updates, launches, etc). You can also get the chance to be featured on the front page of KodaDot by being active in our community. Learn more on how to [get featured](get-featured.md).
  
 ## Looking to contribute to anything?
   You don't need to be technically or artisically inclined to contribute to KodaDot. We have many opportunities for those like you who want to change the open-source NFT marketplace. We believe one of the best ways to bring a community together is by bringing a challenge amongst themselves. This way, members either learn how to collaborate or innovate.
