@@ -8,9 +8,29 @@ The main focus of our bug bounty program is to make sure the KodaDot's user expe
 ### Submit a Bug Report
 If you come across a bug, please use our [bug report form](https://github.com/kodadot/nft-gallery/issues/new?assignees=&labels=bug&template=bug.yml&title=Be+descriptive+and+short) on GitHub to report and detail your scenario while following the [Code of Conduct](https://github.com/kodadot/nft-gallery/blob/main/CODE_OF_CONDUCT.md).
 
-NOTE: The more thorough and detailed your bug reports are, the faster a developer can review it and reward you in #KSM.
 
-Feel free to ask in one of the developer channels in our Discord about the issue you submitted
+If you find yourself on Github wanting to immediately report an issue, here's how you can through our [Repository](https://github.com/kodadot/nft-gallery):
+
+
+#### 1) Go to 'nft-gallery'
+![step1](/bug_report/step1.png)
+#### 2) Click on 'Issues'
+![step2](/bug_report/step2.png)
+
+#### 3) Click on "New issue"
+![step3](/bug_report/step3.png)
+
+#### 4) Choose "Get Started" on the Bug Report option
+![step4](/bug_report/step4.png)
+
+#### 5) Fill out the boxes
+![step1](/bug_report/step5.png)
+
+
+
+**NOTE: The more thorough and detailed your bug reports are, the faster a developer can review it and reward you in $KSM. Collaborators and contributors have a say on the significance of the bug and whether or not it should be prioritized, which might affect the speed in which the bug is resolved.**
+
+Feel free to ask in our Discord about the issue you submitted
 
 ### Rewards
 We reward bounty hunters in $KSM. They can vary from $50 up to $600 depending on the severity of the bug. However, you can become disqualified if you don't follow the Code of Conduct.
