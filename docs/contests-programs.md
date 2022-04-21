@@ -10,8 +10,11 @@ If you come across a bug, please use our [bug report form](https://github.com/ko
 
 NOTE: The more thorough and detailed your bug reports are, the faster a developer can review it and reward you in #KSM.
 
+Feel free to ask in one of the developer channels in our Discord about the issue you submitted
+
 ### Rewards
 We reward bounty hunters in $KSM. They can vary from $50 up to $600 depending on the severity of the bug. However, you can become disqualified if you don't follow the Code of Conduct.
+
 
 
 ## GIF-meme contest
