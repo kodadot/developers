@@ -1,101 +1,97 @@
-# KodaDot Ambassador program
+# KodaDot's Ambassador Program
 
-**We are looking for talented individuals who are in the space and would like to tackle various issues on the KodaDot journey.**
+## The Opportunity
+As an Ambassador of KodaDot, you'll establish strong relationships with people around the world. You'll create articles, engage in different communities, attend in-person conferences, and foster our social media communities. You'll stay on top of the latest developments, keep in close contact with KodaDot's internal team, and help artists thrive in our community. We are currently looking for talented individuals who would like to represent KodaDot virtually and in-person. 
+
+## Responsibilities
+- Experience organizing events either in-person or virtually
+- Actively engage with users on all social media platforms
+- Write articles on KodaDot's newest releases, spotlights, and other KodaDot-based news
+- Engage with other DotSama communities
+- Develop and maintain a social media based community for KodaDot
+- Build KodaDot's presence, and the presence of our community-owned NFT marketplace, as consistent participants in relevant conversations about NFTs, Web3, etc.
 
 
-## We require
-- Good english
-- Social skills 
-- Experience with discord&twitter
-- General knowledge about how nfts & KodaDot work
-- Activity on meta-hours to be able to reflect on latest updates
+## What We're Looking For
+- Fluent/Native English Skills
+- Great Interpersonal Skills
+- Excellent writing and communication skills in English
+- Experience with Discord and Twitter
+- General knowledge of NFTs & KodaDot as a whole
+- Active members of Meta_hours (to stay up-to-date with KodaDot's newest developments)
 
+## Compensation
 
+#### Hosting an In-person Event
+- 300$+ (costs vary)
 
-## What will the Ambassador do?
-- Activity on twitter & discord and other channels
-- Writing articles and engaging other DotSama communities with KodaDot
-- Spreading good word about KodaDot
-- Bring new people to the space 
-- Be part of Ambassadors guild
-
-## Apply
-- If you feel like this is something you can do, feel free to ping  damsky #0879 on discord and you'll recieve more information.
-
-## Rewards:
-
-#### Hosting irl or offline event
-
-- 300$ or more (depending on costs etc.)
-
-#### Article in english
-
+#### Articles in English
 - 150-200$
 
-#### Video/tutorial/content 
-
+#### Videos/Tutorials 
 - 150-300$
 
-#### Article in local language(translation) and activity around that 
-
+#### Article Translations
 - 50-100$
 
-#### Weekly twitter activity - basicly being active in the DotSama waters and spreading good word about KodaDot/bringing new people/artists to the KodaDot space&community.
-
+#### Active Social Media
+This includes being active in the DotSama ecosystem and exposing KodaDot to new audiences 
 - 100-150$
 
-
-## General guidelines around content & community activity
-
-
-### Articles
-
-If you haven't released any articles yet, you might wanna watch this [easy introduction video](https://youtu.be/gUui94Xd85s) and start writing. We'll help you with basic review of the article sumbitted to us and continue from there.
-
-#### Content
-- This is pretty much up to you, since there is always something happening at KodaDot, you might write an article on how the UX works, or write and overview over KodaDot or how our community works.
-- We also have ideas ready for you in our GitHub repository with label writing
-- Before you start writing it's ideal to write down your idea in ambassador channel, where are other ambassadors and community managers and have a little bit of coordination there.
+## Apply
+Sound like a good fit? Feel free to message damsky #0879 on Discord to move forward or with any questions.
 
 
-#### Length and focus
-Generally we are looking for short-mid long articles with some nice context pictures(you don't need to make them, just publish the source in the caption of the picture)
 
-- 400-1000 words is fine
-- Focused on non-tech savy users
-- Creativity is welcomed
+## General Guidelines 
 
-#### How the process works
+# Articles
 
-- You have an idea on article
-- Write down the idea to the ambassador channel
-- Chat with others, agree on topic and such
-- Write the article and submit to KodaDot publication
-- We'll review and contact you with any necessary changes
-- You get paid.
+If you're new to writing articles, check out this [video](https://youtu.be/gUui94Xd85s) to get some tips on how to produce a good article. When you're ready, you'll submit your article to us and we'll give you continuous feedback until it's perfect. 
 
-### Videos
+# Article Content
+Deciding on the topic of an article is up to you. Since there is always something happening at KodaDot, you might find yourself writing about KodaDot's newest UI feature or KodaDot's amazing community ;)
 
-In this case, it would be good if you had general knowledge on how to create videos with various software, there are plenty of tutorials and possibilities how to create video content.
+If you're feeling stuck, don't worry! We have ideas ready for you in our GitHub repository issues labeled "writing"
 
-#### Content
-- This is pretty much up to you, since there is always something happening at KodaDot, you might make a video/tutorial on how the UX works, or record an overview of KodaDot or how our community works.
-- We'll prepare some GitHub labels with tag "video"
-- Before you start creating/recording it's ideal to write down your idea in ambassador channel, where are other ambassadors and community managers and have a little bit of coordination there.
+NOTE: Before you start writing it's recommended that you send your article idea to the ambassador channel in our Discord. This way, other ambassadors and team members can properly coordinate and plan out future releases.
+
+# Article Expectations
+We are looking for 400-1000 word articles that include visuals (make sure you cite the source!) to make it easier for the reader to follow. We want to focus on a non-technical audience, so knowing how to communicate to beginners is highly preferred. Make sure you add some creativity in your content- we don't want the readers to fall asleep!
+
+Make sure you follow these steps when producing an article:
+
+1) Text the article idea to our Discord's ambassador channel
+2) Get feedback, agree on your final topic
+3) Write the article 
+4) Submit it to KodaDot publication
+5) Make changes if there's any feedback from KodaDot
+6) Publish the article
+7) Get Paid
+
+# Videos
+Ideally, it would be nice if you have previous experience creating videos. This includes knowing how to edit and upload videos. Bonus points if you have good internet connection and a clear microphone.
+
+# Video Content
+Deciding on the topic of a video is up to you. Since there is always something happening at KodaDot, you might find yourself talking about KodaDot's newest UI feature or KodaDot's amazing community ;)
+
+If you're feeling stuck, don't worry! We have ideas ready for you in our GitHub repository issues labeled "video"
+
+NOTE: Before you start recording it's recommended that you send your video idea to the ambassador channel in our Discord. This way, other ambassadors and team members can properly coordinate and plan out future releases.
 
 
-#### Length and focus
-Generally we are looking for shorter videos which are entertaining and original.
 
-- Up to 5 minutes it's completely fine
-- Focused on non-tech savy users
-- Creativity is welcomed
+# Video Expectations
+We are looking for shorter videos (5 minutes) that is aimed towards a non-technical audience. We encourage you to be extra creative in your videos so that viewers are entertained.
 
-#### How the process works
 
-- You have an idea on video
-- Write down the idea to the ambassador channel
-- Chat with others, agree on topic and such
-- Create the video and submit the uploaded video to Ambassadors channel
-- We'll review and contact you with any necessary changes
-- You get paid.
+Make sure you follow these steps when producing a video:
+
+1) Text the video idea to our Discord's ambassador channel
+2) Get feedback, agree on your final topic
+3) Record the video 
+4) Upload the video to KodaDot's ambassador channel
+5) Make changes if there's any feedback from KodaDot
+6) Publish the video
+7) Get Paid
+
