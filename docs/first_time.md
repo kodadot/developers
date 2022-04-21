@@ -1,28 +1,38 @@
-# First time contribution instructions
+# Setting up your Local Environment
 
-We are using a `yarn` workspace, as installing things via npm **will result in broken dependencies.**
+We are using a `yarn` workspace, installing things via npm **will result in broken dependencies.**
 
 
-# Hyper start 🚀
+## Prerequisites 
+You're using a version of node that's on/after version 16.13.2 
 
-### Prerequisites 🎒
+- Install node by visiting [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
 
+You have yarn installed.
+
+- You can install yarn by running in your terminal
 ```MD
-node >=16.13.2
-yarn 🧶
+npm install --global yarn
 ```
 
-Copy and paste these commands to your terminal:
+## Installation
+1) Fork our [Repository](https://github.com/kodadot/nft-gallery)
+2) Go to the forked repo and click the green "Code" button
+3) Copy the HTTPS link (i.e https://github.com/your-username/nft-gallery.git)
+4) Go to your IDE and open the terminal
+5) Type in the terminal "git clone your-HTTPS-link". 
 
+For example,
 ```bash
-git clone https://github.com/kodadot/nft-gallery.git nft-gallery
+git clone https://github.com/your-username/nft-gallery.git
+```
+6) Then paste these two commands in the terminal
+```bash
 cd nft-gallery;
 yarn;
 ```
 
-It will clone your project and install all dependencies.
-
-to start the server, run:
+7) Lastly, start the server by running
 
 ```bash
 yarn dev
@@ -30,9 +40,11 @@ yarn dev
 
 **KodaDot will be available at [localhost:9090](http://localhost:9090).**
 
-### Starting dev server with the pinning functionality 📦
+## Starting localhost with pinning functionality 
 
 If you want to use the pinning functionality, you must create a `.env` file in your project root.
+
+Copy and paste the following:
 
 ```bash
 echo 'NUXT_ENV_KEYRING=true
@@ -41,67 +53,98 @@ echo 'NUXT_ENV_KEYRING=true
       PINATA_MASTER=' > .env
 ```
 
-Functions are located in `src-functions/`
+**You can obtain Master Pinata Keys [here](https://app.pinata.cloud/keys)**
 
-**[You can obtain Master Pinata Keys here](https://app.pinata.cloud/keys)**
-
-you need to install the netlify-cli:
+Install the netlify-cli by running this in your terminal:
 
 ```bash
 npm install netlify-cli -g
 ```
 
-to start the server, run:
-
+Start the server by running:
 ```bash
 netlify dev
 ```
 
-**App will start on [localhost:9000](http://localhost:9000).**
+**Dev server will start on [localhost:9000](http://localhost:9000).**
+You can find all the functions in `src-functions/`
 
-# ⚠️ Notice for contributors before 15/01/2022 ⚠️
+## Using KodaDot on Kusama
 
-If you've had contributed before **15/01/2022 and have an older fork of** `nft-gallery`, there are currently two strategies to be up-to-date.
+If you just want to try out our KodaDot on Kusama, you must have [Docker](https://docs.docker.com/get-docker/) and [docker-compose](https://docs.docker.com/compose/install/) installed to have a local setup and node.
 
-- Easiest - [Delete your fork and fork it as new.](https://docs.github.com/en/repositories/creating-and-managing-repositories/deleting-a-repository)
-- Harder - [Sync your fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork)
+### Installation
 
-### Ref
-
-- https://github.com/kodadot/nft-gallery/issues/1845
-- https://github.com/kodadot/nft-gallery/issues/1844
-
-## Docker 🐳
-
-If you just want to try out our KodaDot on Kusama and have a complete local set up with a local node, we assume you have [docker](https://docs.docker.com/get-docker/) and docker-compose installed.
-
-- ### First time setup
-
-  - Build the docker image
+1) Build the docker image
 
     ```bash
-    # Make sure you are logged into docker.
-
     docker-compose up --build
     ```
 
-  - To check if the container is up:
+2) Check if the container is up:
     ```bash
     docker ps
     ```
 
-- ### From next time
-
-  Run:
-
+3) Run:
   ```bash
   docker-compose up
   ```
 
-Voila! KodaDot will be available at [localhost:9090](http://localhost:9090).
-KodaDot supports Hot Module Replacement on docker; any changes made will take effect immediately.
+KodaDot will be available at [localhost:9090](http://localhost:9090).
 
-## Dev hacks (FAQ) 🦇
+KodaDot supports Hot Module Replacement on Docker; any changes made will take effect immediately.
+
+
+
+## Running local Polkadot and Subquery nodes
+
+To run the complete local environment, we recommend running a [Polkadot/Kusama node](https://github.com/paritytech/polkadot).
+In case you are using Apple M1, we have a [tutorial for that 🍏 ](https://vikiival.medium.com/run-substrate-on-apple-m1-a2699743fae8)
+
+Current Indexers we have/use:
+
+- SubSquid
+  - RMRK: [rubick](https://github.com/kodadot/rubick)
+- SubQuery
+  - RMRK: [magick](https://github.com/vikiival/magick)
+  - Statemine (Unique NFT pallet): [unique](https://github.com/kodadot/unique)
+
+## Checking your code
+
+#### Linting code
+
+**Show all problems**
+
+```bash
+yarn lint
+```
+
+**Show only errors**
+
+```bash
+yarn lint --quiet
+```
+
+**Fix errors**
+
+```bash
+yarn lint --fix
+```
+
+#### Generating changelog
+
+To generate a changelog, use GitHub CLI
+List only merged
+
+If you need limit, use `-L`
+
+```bash
+gh pr list -s merged --json mergedAt,baseRefName,number,title,headRefName -B main -L 37 | jq -r '.[] | .number, .title' | sed '/^[0-9]/{N; s/\n/ /;}'
+```
+
+
+## Troubleshooting
 
 **0. How can I resolve conflict on yarn.lock?**
 
@@ -241,46 +284,19 @@ You can change the network in the navbar.
 Currently supported networks are `Kusama, Westend, statemine, westmint`.
 Do you want to add more networks? [Open a PR on vuex-options](https://github.com/kodadot/packages)
 
-## Running local Polkadot and subquery nodes
 
-To run the complete local environment, we recommend running a [polkadot/Kusama node](https://github.com/paritytech/polkadot).
-In case you are using Apple M1, we have a [tutorial for that 🍏 ](https://vikiival.medium.com/run-substrate-on-apple-m1-a2699743fae8)
 
-Current Indexers we have/use:
 
-- SubSquid
-  - RMRK: [rubick](https://github.com/kodadot/rubick)
-- SubQuery
-  - RMRK: [magick](https://github.com/vikiival/magick)
-  - Statemine (Unique NFT pallet): [unique](https://github.com/kodadot/unique)
+## Notice for contributors before 15/01/2022 
 
-### MISC 🏞
+If you've forked nft-gallery before **15/01/2022**, you have an older fork that doesn't include our newest additions.
 
-#### Linting code
+There's two ways you can work around this:
 
-**Show all problems**
+1) [Re-forking](https://docs.github.com/en/repositories/creating-and-managing-repositories/deleting-a-repository)
+2) [Syncing your fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork)
 
-```bash
-yarn lint
-```
+Learn more about these issues here:
 
-**Show only errors**
-
-```bash
-yarn lint --quiet
-```
-
-**Fix errors**
-
-```bash
-yarn lint --fix
-```
-
-#### Generating changelog
-
-To generate changelog, use GitHub CLI
-List only merged; if you need limit, use `-L`
-
-```bash
-gh pr list -s merged --json mergedAt,baseRefName,number,title,headRefName -B main -L 37 | jq -r '.[] | .number, .title' | sed '/^[0-9]/{N; s/\n/ /;}'
-```
+- [Issue 1845](https://github.com/kodadot/nft-gallery/issues/1845)
+- [Issue 1844](https://github.com/kodadot/nft-gallery/issues/1844)
