@@ -146,7 +146,7 @@ gh pr list -s merged --json mergedAt,baseRefName,number,title,headRefName -B mai
 
 ## Troubleshooting
 
-**How can I resolve conflict on yarn.lock?**
+#### **How can I resolve conflict on yarn.lock?**
 
 > CONFLICT (content): Merge conflict in yarn.lock
 
@@ -158,7 +158,7 @@ git merge origin/main
 yarn
 ```
 
-**How can I read some data from the GraphQL?**
+#### **How can I read some data from the GraphQL?**
 
 Every `.graphql` file is located in the `src/queries/`.
 
@@ -205,7 +205,7 @@ Then we can use it like this:
 </script>
 ```
 
-**How can I read on-chain data from the RPC node?**
+#### **How can I read on-chain data from the RPC node?**
 
 ```html
 <script lang="ts">
@@ -226,7 +226,7 @@ Then we can use it like this:
 </script>
 ```
 
-**Is it possible to subscribe to the on-chain data from the RPC node?**
+#### **Is it possible to subscribe to the on-chain data from the RPC node?**
 
 ```html
 <script lang="ts">
@@ -249,7 +249,7 @@ Then we can use it like this:
 </script>
 ```
 
-**How can I make an on-chain transaction?**
+#### **How can I make an on-chain transaction?**
 ```html
 <script lang="ts">
   import { Component, mixins } from "nuxt-property-decorator"
@@ -276,7 +276,7 @@ Then we can use it like this:
 </script>
 ```
 
-**How can I test Kodadot without spending KSM?**
+#### **How can I test Kodadot without spending KSM?**
 
 [You can obtain some Westend (WND)](https://matrix.to/#/#westend_faucet:matrix.org)
 
