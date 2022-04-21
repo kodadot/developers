@@ -1,6 +1,6 @@
 # Setting up your Local Environment
 
-We are using a `yarn` workspace, installing things via npm **will result in broken dependencies.**
+We are using a `pnpm` workspace, installing things via npm **will result in broken dependencies.**
 
 
 ## Prerequisites 
@@ -8,11 +8,11 @@ You're using a version of node that's on/after version 16.13.2
 
 - Install node by visiting [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
 
-You have yarn installed.
+You have pnpm installed.
 
-- You can install yarn by running in your terminal
+- You can install pnpm by running in your terminal
 ```MD
-npm install --global yarn
+npm install -g pnpm
 ```
 
 ## Installation
@@ -29,13 +29,13 @@ git clone https://github.com/your-username/nft-gallery.git
 6) Then paste these two commands in the terminal
 ```bash
 cd nft-gallery;
-yarn;
+pnpm;
 ```
 
 7) Lastly, start the server by running
 
 ```bash
-yarn dev
+pnpm dev
 ```
 
 **KodaDot will be available at [localhost:9090](http://localhost:9090).**
