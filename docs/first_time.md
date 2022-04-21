@@ -146,7 +146,7 @@ gh pr list -s merged --json mergedAt,baseRefName,number,title,headRefName -B mai
 
 ## Troubleshooting
 
-**0. How can I resolve conflict on yarn.lock?**
+**How can I resolve conflict on yarn.lock?**
 
 > CONFLICT (content): Merge conflict in yarn.lock
 
@@ -158,7 +158,7 @@ git merge origin/main
 yarn
 ```
 
-**1. How can I read some data from the GraphQL?**
+**How can I read some data from the GraphQL?**
 
 Every `.graphql` file is located in the `src/queries/`.
 
@@ -205,7 +205,7 @@ Then we can use it like this:
 </script>
 ```
 
-**2. How can I read on-chain data from the RPC node?**
+**How can I read on-chain data from the RPC node?**
 
 ```html
 <script lang="ts">
@@ -226,7 +226,7 @@ Then we can use it like this:
 </script>
 ```
 
-**3. Is it possible to subscribe to the on-chain data from the RPC node?**
+**Is it possible to subscribe to the on-chain data from the RPC node?**
 
 ```html
 <script lang="ts">
@@ -249,7 +249,7 @@ Then we can use it like this:
 </script>
 ```
 
-**4. How can I make an on-chain transaction?**
+**How can I make an on-chain transaction?**
 ```html
 <script lang="ts">
   import { Component, mixins } from "nuxt-property-decorator"
@@ -276,7 +276,7 @@ Then we can use it like this:
 </script>
 ```
 
-**5. How can I test Kodadot without spending KSM?**
+**How can I test Kodadot without spending KSM?**
 
 [You can obtain some Westend (WND)](https://matrix.to/#/#westend_faucet:matrix.org)
 
@@ -300,3 +300,4 @@ Learn more about these issues here:
 
 - [Issue 1845](https://github.com/kodadot/nft-gallery/issues/1845)
 - [Issue 1844](https://github.com/kodadot/nft-gallery/issues/1844)
+
