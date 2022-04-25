@@ -29,7 +29,13 @@ git clone https://github.com/your-username/nft-gallery.git
 6) Then paste these two commands in the terminal
 ```bash
 cd nft-gallery;
-pnpm;
+pnpm i;
+```
+If you come across 
+ERR_PNPM_UNSUPPORTED_ENGINE  Unsupported environment (bad pnpm and/or Node.js version), run 
+
+```bash
+nvm use 16
 ```
 
 7) Lastly, start the server by running
