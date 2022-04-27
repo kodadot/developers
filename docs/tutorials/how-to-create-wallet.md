@@ -56,13 +56,14 @@ Sharing your address is fine (not your seed phrase). This allows you to send/rec
 :::
 
 Change your network here: 
+
 ![step11](/polkadot_js_tut/step11.png)
 
 Yay! You've changed to the Kusama Relay Chain. Send ONLY $KSM to this address. This is different from the "Allow to use on any chain" option.
 
 ![step12](/polkadot_js_tut/step12.png)
 
-Enjoy your new wallet!
+Learn how to add funds to your wallet [here](how-to-top-up-wallet.md)!
 
 
 
