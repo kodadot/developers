@@ -16,7 +16,7 @@ module.exports = {
   ],
   public: 'docs/assets',
   themeConfig: {
-    logo: '/assets/koda_v3.png',
+    logo: '/koda-v3.png',
     repo: 'https://github.com/kodadot/nft-gallery',
     repoLabel: 'kodadot/nft-gallery',
     navbar: [
