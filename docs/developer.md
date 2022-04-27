@@ -1,6 +1,6 @@
 # Why you should contribute to KodaDot?
 
-![KodaDot_logo_v3](./assets/KODA_v3.png)
+![KodaDot_logo_v3](./assets/koda-v3.png)
 
   
 ## Bounty Rewards

@@ -1,6 +1,6 @@
 ### Presskit & Mediakit for KodaDot
 
-![KodaDot_logo_v3](./assets/KODA_v3.png)
+![KodaDot_logo_v3](./assets/koda-v3.png)
 
 - Recent logo types [could be found in kodadot/presskit repository](https://github.com/kodadot/kodadot-presskit)
 - While writing this, our [most recent logotype is currently KodaDot v3](https://github.com/kodadot/kodadot-presskit/tree/main/v3) and you are free to grab it for whatever you need it
