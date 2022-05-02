@@ -1,154 +1,174 @@
-# How to top up my polkadot.js wallet
+# Adding Funds 
 
-- First, you need to have [polkadot.js](https://polkadot.js.org/extension/) wallet installed. If you don't, check the tutorial on how to create the wallet [here](how_to_create_wallet.md).
+After [setting up](/docs/docs/tutorials/how-to-create-wallet.md) your polkadot.js wallet, you might be wondering: "How can I add funds?"
 
-## Options
-- There are several ways how you can top up your wallet
-    - [Ramp](https://ramp.network) network
-    - Ask for a [grant](https://tally.so/r/mVP06w)
-    - Through centralized exchange like [Bybit](https://www.bybit.com/en-US/) or [Binance](https://www.binance.com/en) 
+## There are several ways how you can add funds to your wallet:
+### 1) The [Ramp Network](https://ramp.network)
+The easiest way to add funds straight to your wallet is through KodaDot.
 
-::: tip 
-The process on most of the exchanges is very similliar. The most important thing is changing the network to KUSAMA Relay chain in the polkadot.js wallet and copying the address. [Learn](how_to_create_wallet.md) how to do it.
-:::
-
-### Top-up through [Ramp](https://ramp.network) network
-
-- There is a possibility to top up your wallet right from KodaDot. Or you can go to [Ramp network](https://ramp.network/) by yourself and continue couple steps later.
-- Anyway, to do it right from [KodaDot](https://kodadot.xyz/), click on your profile, choose "credit"
+1) Click on your profile and choose "credit"
 
 ![step1](/ramp_topup/ramp1.png)
 
-- All needed information are in the window, now choose the account you want to top-up
+2) Choose the account you want to fund
 
 ![step2](/ramp_topup/ramp2.png)
 
-- Click on "Buy KUSAMA" which will take you to ramp netowrk
+3) Click on "Buy KUSAMA" which will take you to Ramp Network
 
 ![step3](/ramp_topup/ramp3.png)
 
-- Choose amount and currency and click on "proceed"
+4) Choose the amount and currency you'd like to add and click on "proceed"
 
 ![step4](/ramp_topup/ramp4.png)
 
-- Input your email address, where you'll receive confirmation email
+5) Enter your email address (for confirmation purposes)
 
 ![step5](/ramp_topup/ramp5.png)
 
-- Input the confirmation code from your account and continue
+6) Enter the confirmation code sent to your email
 
 ![step6](/ramp_topup/ramp6.png)
 
-- Now you'll need to fetch your Kusama address. It's easy. - Click on the extension icon, choose polkadot js, click on those 3 dots as shown on the picture and change the network to Kusama Relay chain. Now your address is prefixed for Kusama Relay chain. Send only $KSM to this address!
+7) You'll need to fetch your Kusama address:
+    - Click on the extension icon, choose polkadot js
+    - Click on the 3 dots as shown on the picture 
+    - Change the network to the Kusama Relay Chain
+
+Now your address is prefixed for Kusama Relay Chain. Send only $KSM to this address!
 
 ![step7](/ramp_topup/ramp7.png)
 
-- Copy your address by clicking on the "copy" icon and make sure the network has changed
+8) Copy your address by clicking on the "copy" icon
+
+***Double check to make sure you're on the Kusama Relay Chain***
 
 ![step8](/ramp_topup/ramp8.png)
 
-- You have your address from your polkadot.js wallet copied in clipboard. Paste it to the "Address" row and click "confirm and proceed"
+9) Paste it to the "Address" box and click "Confirm and Proceed"
 
 ![step9](/ramp_topup/ramp9.png)
 
-- Choose your payment method and click on "proceed"
+10) Choose your payment method and click on "Proceed"
 
 ![step10](/ramp_topup/ramp10.png)
 
-- Fill your billing address and click on "save billing address"
+11) Fill out your information and click on "Save Billing Address"
 
 ![step11](/ramp_topup/ramp11.png)
 
-- Fill all your card details and proceed to payment
+12) Fill all your information and click "Add Card"
 
 ![step12](/ramp_topup/ramp12.png)
 
-- Once payment is confirmed, $KSM should arrive to your address soon! Congratulations! :tada:
+Congratulations! :tada: Once your payment goes through, you should see $KSM should in your wallet! 
 
-### Top-up through centralized exchange(withdrawal)
-- For this tutorial, we've chosen to go with [Bybit](https://www.bybit.com/en-US/) but the process is usually the same. We recommend to store your digital assets on your wallet, as it's much safer.
-- If you don't  have account on bybit, [follow this link](https://www.bybit.com/en-US/register) and create your account.
-- Now, you can find yourself on the main landing bybit page. If you know how to purchase $KSM, but need help with withdrawal, skip a few steps.
+### 2) Centralized Exchanges 
 
-### Purchasing $KSM through centralized exchange from the beginning
-- We are now on bybit landing page, select "Buy crypto" and click on "Express"
+We've chosen to go through [Bybit](https://www.bybit.com/en-US/) in this tutorial, but the process of adding funds is similar to [Binance](https://www.binance.com/en). 
+
+Before going through this tutorial, make sure you have an account on Bybit. Create one [here](https://www.bybit.com/en-US/register)!
+
+1) After going to [https://www.bybit.com/en-US/](https://www.bybit.com/en-US/), select "Buy crypto" and click on "Express".
 
 ![step1](/bybit_topup/bybit1.png)
 
-- This will take you to express purchase page and you need to fill this according to your needs. Click continue and proceed. You are buying USDT, which is [stablecoin](https://en.wikipedia.org/wiki/Stablecoin) which we will use to buy $KSM
+2) Choose the USDT option under "I will recieve". Fill out the payment information and click "Continue". 
+
+You are buying USDT, which is a [stablecoin](https://en.wikipedia.org/wiki/Stablecoin). We'll use this to buy $KSM.
 
 ![step2](/bybit_topup/bybit2.png)
 
-- This will automatically take you to page of specific providers which you need to finish and once done, your balance in spot account will be visible in [USDT](https://en.wikipedia.org/wiki/Tether_(cryptocurrency))
+3) You will be redirected to the page of your provider of choice. Fill out any information needed and proceed until you get a confirmation that you're done with the process. 
+
+Once done, your balance in spot account will be in [USDT](https://en.wikipedia.org/wiki/Tether_(cryptocurrency)).
 
 ![step3](/bybit_topup/bybit3.png)
 
-- After you go through the process, your balance will be show in Spot account. Click on "Assets" and hit "Spot account"
+4) To access your funds, click on "Assets" and hit "Spot account".
 
 ![step4](/bybit_topup/bybit4.png)
 
-- This takes you to your spot account overview, where you can overview your balances.
+This process takes you to your Spot account overview, where you can check your balances.
 
 ![step5](/bybit_topup/bybit5.png)
 
-- Alright, now since we have some USDT, we can buy $KSM! :tada:
-- Click on "Trade" choose "usdt" write in "KSM" and click on the ticker.
+#### Now that we've obtained USDT, we can now go on to buy $KSM! :tada:
+
+1) Click on "Trade" and choose "USDT". Search "KSM" in the search bar.
 
 ![step6](/bybit_topup/bybit6.png)
 
-- This will take you to the exchange interface, automatically to the ticker you've chosen. On the right side, make sure you are in "Buy" column and choose "market"
-- That will simply immediately without any prolonging market buy the cryptocurrency
-- Input order value and click on Buy KSM
+This will take you to the exchange interface. 
+
+2) On the right, make sure you've chosen the "Buy" and "Market" options. This will allow you to market buy $KSM. Input order value and click on Buy KSM.
 
 ![step7](/bybit_topup/bybit7.png)
 
-- Congratulations. Navigate yourself to the top as usually and click on "assets" and choose "spot account"
+3) After purchasing your $KSM, click on "Assets" and choose "Spot Account" on the top right.
 
 ![step8](/bybit_topup/bybit8.png)
 
-- This will take you to your classic overview where can you withdraw your purchased coins. Find KSM and in the same row click on "withdraw"
+This will take you to your Overview where can you withdraw your purchased coins.
+
+4) Find KSM and click on "Withdraw"
 
 ![step9](/bybit_topup/bybit9.png)
 
-- A window shows up, you'll need to for safety add your address to address list. Click on "add"
+5) A window will pop up. For security purposes, add your wallet address.
 
 ![step10](/bybit_topup/bybit10.png)
 
-- This takes you to address list, where you can add your address and keep it there for future withdrawals. Click on "add"
+This takes you to your address list, where you can keep all your addresses for future withdrawals. 
+
+6) Click on "Add".
 
 ![step11](/bybit_topup/bybit11.png)
 
-- It's important to keep in mind, that your polkadot.js wallet has the network set to Kusama Relay chain.
-- Click on the extension icon, choose polkadot js, click on those 3 dots as shown on the picture and change the network to Kusama Relay chain. Now your address is prefixed for Kusama Relay chain. Send only $KSM to this address!
+**It's important to keep in mind, that your polkadot.js wallet has the network set to Kusama Relay Chain.**
+
+7) Go to the polkadot.js extenion, click on those 3 dots at the top right and change the network to Kusama Relay Chain.
+
+ Now your address is prefixed for the Kusama Relay Chain. Send only $KSM to this address!
 
 ![step12](/bybit_topup/bybit12.png)
 
-- Copy your address by clicking on the "copy" icon and make sure the network has changed
+8) Copy your wallet address by clicking on the copy icon.
 
 ![step13](/bybit_topup/bybit13.png)
 
-- You have your address from your polkadot.js wallet copied in clipboard. Paste it to the "Address" row, choose name and click on "continue"
+9) Paste your wallet address in the "Address" box, come up with an Address name and click on "Continue".
 
 ![step14](/bybit_topup/bybit14.png)
 
-- If you have 2FA enabled(recommended), input your 2FA code and click "continue" 
+10) If you have 2FA enabled (recommended), input your 2FA code and click "Continue".
 
 ![step15](/bybit_topup/bybit15.png)
 
-- You can now see your address in the list. Navigate yourself to the right upper corner, click on "Back to my assets" 
+11) Your address should pop up on your address list. Go to the top right and click on "Back to My Assets".
 
 ![step16](/bybit_topup/bybit16.png)
 
-- Click on "withdraw"
+12) To withdraw $KSM, click on "Withdraw" in the KSM row.
 
 ![step17](/bybit_topup/bybit17.png)
 
-- As coin, choose "Kusama" and chain type must always be KSM!
-- Input your address from the list and choose amount
-- Click submit.
-- Next window will be confirmation of submitting your funds based on what security settings you have chosen. 
+13) You'll have a pop up. 
+- Set "KSM" (Kusama) as your Coin
+- Set Chain Type to KSM!
+- Input your wallet address from dropdown menu 
+- Enter the amount of $KSM you'd like to withdraw
+- Click submit
+
+The next window will be a confirmation of submitting your funds based on what security settings you have chosen. 
 
 ![step18](/bybit_topup/bybit18.png)
+#### :tada: You've successfully withdrawn your coins!
 
-- :tada: You've succsefully withdrawn your coins.
+::: tip 
+The process on most exchanges is similliar. The most important thing to note is to change the network to the Kusama Relay Chain in the polkadot.js wallet. [Learn](how_to_create_wallet.md) how to do it.
+:::
 
+
+### 3) KodaDot [Grants](https://tally.so/r/mVP06w)
+We're always here to support artists. Apply for our grant to get some $KSM in your wallet! 
