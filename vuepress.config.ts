@@ -54,18 +54,6 @@ module.exports = {
             text: 'Code of Conduct',
             link: 'https://github.com/kodadot/nft-gallery/blob/main/CODE_OF_CONDUCT.md)'
           },
-          {
-            text: 'Ambassadors',
-            link: '/ambassador-program/ambassador-intro.md'
-          },
-          {
-            text: 'Code of Conduct',
-            link: 'https://github.com/kodadot/nft-gallery/blob/main/CODE_OF_CONDUCT.md)'
-          },
-          {
-            text: 'Code of Conduct',
-            link: 'https://github.com/kodadot/nft-gallery/blob/main/CODE_OF_CONDUCT.md)'
-          },
         ]
       },
       {
