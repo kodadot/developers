@@ -1,9 +1,35 @@
-# Setting up your Local Environment
+# Contributing as a Developer
+![KodaDot_logo_v3](./assets/koda-v3.png)
 
+
+## Why Should You Contribute?
+
+### Bounty Rewards
+We offer bouties starting from **$50** up to **$1200 USD**, with our most popular issues being **$100 USD**. The more complex the issue is, the more you'll get rewarded.
+
+You can feel free to take a peak at our [current bounties](https://github.com/kodadot/nft-gallery/labels) in our GitHub to get started!
+
+
+
+### Flexibility
+Don't have time for a second job? We got you. 
+Everyone has a side hustle nowadays and with the **gig economy**, this is  how we can operate more efficiently. Here at KodaDot, **we don't hold anyone full-time, nor do we track hours.** Come and go whenever you want.
+
+### Challenging Puzzles
+Our challenging issues will push you to think deeply about solutions and force you to learn a thing or two along the way. The mental stimulation is something you won't get on your day-to-day office jobs, so this is where we come in.
+
+### Sense of Community
+Collaboration is an important part of contributing. Your name becomes known throughout the community when you make pull requests, ask questions, or even hop on a call for a minute or two. Everyone who contributes to KodaDot becomes a member of the family. You'll find others who are working on challenges similar to yours, as well as those that are struggling. This is where you enter the picture. We're all here for each other, and we want to see each other succeed. KodaDot will become synonymous with a sense of belonging.
+
+### Contribution to Open Source
+**Public proof of contribution** is arguably one of the most important things when trying to land your first tech job. Focusing on a person's GitHub is more telling of ones' skillset than reading a PDF. Rather than blindly trusting resumes, you can judge off of what a person has contributed publicly.
+
+
+## Getting Started
 We are using a `pnpm` workspace, installing things via npm **will result in broken dependencies.**
 
 
-## Prerequisites 
+### Prerequisites 
 You're using a version of node that's on/after version 16.13.2 
 
 - Install node by visiting [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
@@ -15,7 +41,7 @@ You have pnpm installed.
 npm install -g pnpm
 ```
 
-## Installation
+### Installation
 1) Fork our [Repository](https://github.com/kodadot/nft-gallery)
 2) Go to the forked repo and click the green "Code" button
 3) Copy the HTTPS link (i.e https://github.com/your-username/nft-gallery.git)
@@ -46,7 +72,7 @@ pnpm dev
 
 **KodaDot will be available at [localhost:9090](http://localhost:9090).**
 
-## Starting localhost with pinning functionality 
+### Starting localhost with pinning functionality 
 
 If you want to use the pinning functionality, you must create a `.env` file in your project root.
 
@@ -75,11 +101,11 @@ netlify dev
 **Dev server will start on [localhost:9000](http://localhost:9000).**
 You can find all the functions in `src-functions/`
 
-## Using KodaDot on Kusama
+### Using KodaDot on Kusama
 
 If you just want to try out our KodaDot on Kusama, you must have [Docker](https://docs.docker.com/get-docker/) and [docker-compose](https://docs.docker.com/compose/install/) installed to have a local setup and node.
 
-### Installation
+#### Installation
 
 1) Build the docker image
 
@@ -103,7 +129,7 @@ KodaDot supports Hot Module Replacement on Docker; any changes made will take ef
 
 
 
-## Running local Polkadot and Subquery nodes
+### Running local Polkadot and Subquery nodes
 
 To run the complete local environment, we recommend running a [Polkadot/Kusama node](https://github.com/paritytech/polkadot).
 In case you are using Apple M1, we have a [tutorial for that 🍏 ](https://vikiival.medium.com/run-substrate-on-apple-m1-a2699743fae8)
@@ -116,7 +142,7 @@ Current Indexers we have/use:
   - RMRK: [magick](https://github.com/vikiival/magick)
   - Statemine (Unique NFT pallet): [unique](https://github.com/kodadot/unique)
 
-## Checking your code
+### Checking your code
 
 #### Linting code
 
@@ -150,7 +176,7 @@ gh pr list -s merged --json mergedAt,baseRefName,number,title,headRefName -B mai
 ```
 
 
-## Troubleshooting
+### Troubleshooting
 
 #### **How can I resolve conflict on yarn.lock?**
 
@@ -293,7 +319,7 @@ Do you want to add more networks? [Open a PR on vuex-options](https://github.com
 
 
 
-## Notice for contributors before 15/01/2022 
+### Notice for contributors before 15/01/2022 
 
 If you've forked nft-gallery before **15/01/2022**, you have an older fork that doesn't include our newest additions.
 
@@ -306,4 +332,26 @@ Learn more about these issues here:
 
 - [Issue 1845](https://github.com/kodadot/nft-gallery/issues/1845)
 - [Issue 1844](https://github.com/kodadot/nft-gallery/issues/1844)
+
+
+## Contributing Guidelines
+
+Before submitting your pull request, read up on our [documentation](https://docs.kodadot.xyz) and make sure it follows:
+
+- [Code of Conduct](https://github.com/kodadot/nft-gallery/blob/main/CODE_OF_CONDUCT.md)
+- [Contribution Guidelines](https://github.com/kodadot/nft-gallery/blob/main/CONTRIBUTING.md)
+- [Style Guide](https://github.com/kodadot/nft-gallery/blob/main/STYLE_GUIDE.md)
+
+##### **Failure to do so can lead to your PR being rejected**
+
+We [reward](https://github.com/kodadot/nft-gallery/blob/main/REWARDS.md) our contributors in $KSM for their time and effort with every issue they solve. If you're finding yourself to be more involved with KodaDot, we are always [hiring](https://github.com/kodadot/nft-gallery/blob/main/HIRING.md).
+
+
+
+
+
+
+## Refeferences
+- This is original posting from our [Meta_Hours 2](https://github.com/kodadot/nft-gallery/discussions/1699), bi-weekly digests on progress and development
+- [Github Repository KodaDot/NFT-gallery](https://github.com/kodadot/nft-gallery/issues/)
 
