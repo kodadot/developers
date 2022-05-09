@@ -10,7 +10,7 @@ We're aiming to be a project that welcomes those from all backgrounds to contrib
 
 # Getting Started
 
-## Are you a developer?
+## Are you a developer? 
   - [Why you should contribute to KodaDot?](developer.md)
   - We offer paid bounties for successfully solving issues in our Github repository at [kodadot/nft-gallery](https://github.com/kodadot/nft-gallery/issues/).
   - Is it your **first time** contributing? Get started [here](first_time.md)!
