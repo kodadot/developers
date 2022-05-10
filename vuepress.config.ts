@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'KodaDot Documentation',
-  description: 'Better understanding KodaDot NFT marketplace',
+  title: ' ',
+  description: 'Everything You Need to Know',
   plugins: [
     [
       '@vuepress/plugin-search',
