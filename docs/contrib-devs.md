@@ -4,24 +4,24 @@
 
 ## Why Should You Contribute?
 
-### Bounty Rewards
+#### Bounty Rewards
 We offer bouties starting from **$50** up to **$1200 USD**, with our most popular issues being **$100 USD**. The more complex the issue is, the more you'll get rewarded.
 
 You can feel free to take a peak at our [current bounties](https://github.com/kodadot/nft-gallery/labels) in our GitHub to get started!
 
 
 
-### Flexibility
+#### Flexibility
 Don't have time for a second job? We got you. 
 Everyone has a side hustle nowadays and with the **gig economy**, this is  how we can operate more efficiently. Here at KodaDot, **we don't hold anyone full-time, nor do we track hours.** Come and go whenever you want.
 
-### Challenging Puzzles
+#### Challenging Puzzles
 Our challenging issues will push you to think deeply about solutions and force you to learn a thing or two along the way. The mental stimulation is something you won't get on your day-to-day office jobs, so this is where we come in.
 
-### Sense of Community
+#### Sense of Community
 Collaboration is an important part of contributing. Your name becomes known throughout the community when you make pull requests, ask questions, or even hop on a call for a minute or two. Everyone who contributes to KodaDot becomes a member of the family. You'll find others who are working on challenges similar to yours, as well as those that are struggling. This is where you enter the picture. We're all here for each other, and we want to see each other succeed. KodaDot will become synonymous with a sense of belonging.
 
-### Contribution to Open Source
+#### Contribution to Open Source
 **Public proof of contribution** is arguably one of the most important things when trying to land your first tech job. Focusing on a person's GitHub is more telling of ones' skillset than reading a PDF. Rather than blindly trusting resumes, you can judge off of what a person has contributed publicly.
 
 
@@ -72,38 +72,10 @@ pnpm dev
 
 **KodaDot will be available at [localhost:9090](http://localhost:9090).**
 
-### Starting localhost with pinning functionality 
-
-If you want to use the pinning functionality, you must create a `.env` file in your project root.
-
-Copy and paste the following:
-
-```bash
-echo 'NUXT_ENV_KEYRING=true
-      PINATA_API_KEY=
-      PINATA_SECRET_API_KEY=
-      PINATA_MASTER=' > .env
-```
-
-**You can obtain Master Pinata Keys [here](https://app.pinata.cloud/keys)**
-
-Install the netlify-cli by running this in your terminal:
-
-```bash
-npm install netlify-cli -g
-```
-
-Start the server by running:
-```bash
-netlify dev
-```
-
-**Dev server will start on [localhost:9000](http://localhost:9000).**
-You can find all the functions in `src-functions/`
 
 ### Using KodaDot on Kusama
 
-If you just want to try out our KodaDot on Kusama, you must have [Docker](https://docs.docker.com/get-docker/) and [docker-compose](https://docs.docker.com/compose/install/) installed to have a local setup and node.
+If you want to try out our KodaDot on Kusama, you must have Docker ([install here](https://docs.docker.com/get-docker/)) and docker-compose ([install here](https://docs.docker.com/compose/install/)) installed to have a local setup and node.
 
 #### Installation
 
@@ -119,9 +91,9 @@ If you just want to try out our KodaDot on Kusama, you must have [Docker](https:
     ```
 
 3) Run:
-  ```bash
-  docker-compose up
-  ```
+   ```bash
+   docker-compose up
+   ```
 
 KodaDot will be available at [localhost:9090](http://localhost:9090).
 
@@ -319,9 +291,9 @@ Do you want to add more networks? [Open a PR on vuex-options](https://github.com
 
 
 
-### Notice for contributors before 15/01/2022 
+### Notice for contributors before January 15, 2022
 
-If you've forked nft-gallery before **15/01/2022**, you have an older fork that doesn't include our newest additions.
+If you've forked nft-gallery before **January 15, 2022**, you have an older fork that doesn't include our newest additions.
 
 There's two ways you can work around this:
 
