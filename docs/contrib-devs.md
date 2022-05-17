@@ -48,38 +48,10 @@ pnpm dev
 
 **KodaDot will be available at [localhost:9090](http://localhost:9090).**
 
-### Starting localhost with pinning functionality 
-
-If you want to use the pinning functionality, you must create a `.env` file in your project root.
-
-Copy and paste the following:
-
-```bash
-echo 'NUXT_ENV_KEYRING=true
-      PINATA_API_KEY=
-      PINATA_SECRET_API_KEY=
-      PINATA_MASTER=' > .env
-```
-
-**You can obtain Master Pinata Keys [here](https://app.pinata.cloud/keys)**
-
-Install the netlify-cli by running this in your terminal:
-
-```bash
-npm install netlify-cli -g
-```
-
-Start the server by running:
-```bash
-netlify dev
-```
-
-**Dev server will start on [localhost:9000](http://localhost:9000).**
-You can find all the functions in `src-functions/`
 
 ### Using KodaDot on Kusama
 
-If you just want to try out our KodaDot on Kusama, you must have [Docker](https://docs.docker.com/get-docker/) and [docker-compose](https://docs.docker.com/compose/install/) installed to have a local setup and node.
+If you want to try out our KodaDot on Kusama, you must have Docker ([install here](https://docs.docker.com/get-docker/)) and docker-compose ([install here](https://docs.docker.com/compose/install/)) installed to have a local setup and node.
 
 #### Installation
 
@@ -95,9 +67,9 @@ If you just want to try out our KodaDot on Kusama, you must have [Docker](https:
     ```
 
 3) Run:
-  ```bash
-  docker-compose up
-  ```
+   ```bash
+   docker-compose up
+   ```
 
 KodaDot will be available at [localhost:9090](http://localhost:9090).
 
@@ -295,9 +267,9 @@ Do you want to add more networks? [Open a PR on vuex-options](https://github.com
 
 
 
-### Notice for contributors before 15/01/2022 
+### Notice for contributors before January 15, 2022
 
-If you've forked nft-gallery before **15/01/2022**, you have an older fork that doesn't include our newest additions.
+If you've forked nft-gallery before **January 15, 2022**, you have an older fork that doesn't include our newest additions.
 
 There's two ways you can work around this:
 
