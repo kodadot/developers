@@ -1,6 +1,6 @@
 module.exports = {
   title: ' ',
-  description: 'Everything You Need to Know',
+  description: ' ',
   plugins: [
     [
       '@vuepress/plugin-search',
@@ -26,6 +26,10 @@ module.exports = {
           {
             text: 'What is KodaDot?',
             link: '/README.md',
+          },
+          {
+            text: 'How it all Started',
+            link: '/beginning.md',
           },
           {
             text: 'Frequently Asked Questions',
