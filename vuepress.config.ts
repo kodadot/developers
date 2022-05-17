@@ -42,6 +42,10 @@ module.exports = {
         text: 'Get Involved',
         children: [
           {
+            text: 'Why Should You Contribute?',
+            link: '/why-contrib.md'
+          },
+          {
             text: 'Contributing for Developers',
             link: '/contrib-devs.md'
           },
