@@ -8,6 +8,7 @@ This tutorial is intended for nominators (i.e those who are staking to the valid
 It's recommended that you [generate](https://guide.kusama.network/docs/learn-account-generation/) a separate Controller (the account that will start/stop staking) AND Stash (the account that will hold large funds) key.
 
 1. Navigate to the Staking option in the Network dropdown menu
+(/stake-ksm)
 
 
 
