@@ -18,7 +18,7 @@
 
 ## $KSM
 
-- [Staking KSM](/stake-ksm.md)
+- [Staking KSM](/tutorials/staking-ksm.md)
 
 ## Troubleshooting
 
