@@ -38,10 +38,6 @@ As an Ambassador of KodaDot, you'll establish strong relationships with people a
 This includes being active in the DotSama ecosystem and exposing KodaDot to new audiences 
 - 100-150$
 
-## Apply
-Sound like a good fit? Feel free to message damsky #0879 on Discord to move forward or with any questions.
-
-
 
 ## General Guidelines 
 
@@ -95,3 +91,7 @@ Make sure you follow these steps when producing a video:
 6) Publish the video
 7) Get Paid
 
+## Apply
+Sound like a good fit? Fill out [https://form.kodadot.xyz/ambassador](https://form.kodadot.xyz/ambassador) and we'll be in touch if we think you're a good fit.
+
+Feel free to message damsky #0879 on Discord with any questions.
