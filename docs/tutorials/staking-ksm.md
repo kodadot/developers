@@ -43,7 +43,7 @@ Here's what to look for when considering a validator:
 
 ![step6](/stake-ksm/6.png)
 
-This means their information has been confirmed by Kusama themselves. Not everyone will have a verified badge!
+This means their information has been confirmed by Kusama. Not everyone will have a verified badge!
 
 2. Pay attention to the icons near each validator's names
 
@@ -68,7 +68,7 @@ Here you'll be introduced to statistics that can help structure your opinion on 
 
 ![step10](/stake-ksm/10.png)
 
-One of the important things you should pay attention to is the **era points**.
+One of the most important things you should pay attention to is the **era points**.
 Nominators are paid proportionally to the amount of era points you have in a span of 6 hours in Kusama.
 
 
