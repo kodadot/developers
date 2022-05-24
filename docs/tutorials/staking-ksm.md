@@ -34,7 +34,46 @@ Click Bond & Nominate and you're done!
 In order to claim your payouts, you have to navigate to the "Payouts" tab and claim them manually to add your staking rewards to your funds!
 
 ## Extras
-### How to stop staking
+
+### How to Pick Validators
+It's very important to do research before staking your $KSM to validators. There's a risk of slashing (validators and nominators losing a percentage of their staked KSM) so try your best to decrease those chances!
+
+Here's what to look for when considering a validator:
+1. See if the validator is verified by checking if there's a green checkmark beside their name
+
+![step6](/stake-ksm/6.png)
+
+This means their information has been confirmed by Kusama themselves. Not everyone will have a verified badge!
+
+2. Pay attention to the icons near each validator's names
+
+![step7](/stake-ksm/7.png)
+
+This can tell you about the performance and activity of a validator. Make sure to skip those with the red icons (oversubscribed, slashed, blocks nominations)!
+
+Also note: although you can still nominate to "oversubscribed" validators, only the **top 256** nominators will get rewards. It's recommended that you don't stake to any validators with a lot of nominators as you can easily (and quickly) get bumped to below 256.
+
+3. Check the commission rates (and they can change!)
+
+![step8](/stake-ksm/8.png)
+
+**VALIDATORS WITH 100% COMMISSION RATES WILL GET YOU NO REWARDS**
+
+4. Check their statistics
+
+Click the "PS" icon to the far right of the validator
+![step9](/stake-ksm/9.png)
+
+Here you'll be introduced to statistics that can help structure your opinion on a validator. If you navigate to the "Charts" tab, you can see the performance of a validator. 
+
+![step10](/stake-ksm/10.png)
+
+One of the important things you should pay attention to is the **era points**.
+Nominators are paid proportionally to the amount of era points you have in a span of 6 hours in Kusama.
+
+
+
+### How to Stop Staking
 
 1. Navigate to the "Staking" tab
 2. Go to the "Accounts" tab
@@ -48,5 +87,7 @@ In order to claim your payouts, you have to navigate to the "Payouts" tab and cl
 
 ## References
 [https://guide.kusama.network/docs/maintain-guides-how-to-nominate-polkadot/#using-polkadot-js-ui](https://guide.kusama.network/docs/maintain-guides-how-to-nominate-polkadot/#using-polkadot-js-ui)
+
+[https://wiki.polkadot.network/docs/maintain-guides-validator-payout](https://wiki.polkadot.network/docs/maintain-guides-validator-payout)
 
 ###### please make sure you understand the risks of staking [here](https://guide.kusama.network/docs/learn-staking#slashing)!
