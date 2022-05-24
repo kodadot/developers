@@ -28,12 +28,16 @@ module.exports = {
             link: '/README.md',
           },
           {
-            text: 'Frequently Asked Questions',
-            link: '/faq.md',
-          },
-          {
             text: 'Tokens',
             link: '/token/draft.md',
+          },
+          {
+            text:'Tutorials',
+            link: '/tutorial-overview.md',
+          },
+          {
+            text: 'Frequently Asked Questions',
+            link: '/faq.md',
           },
         ]
       },
@@ -58,8 +62,8 @@ module.exports = {
             link: '/ambassador-program/ambassador-intro.md' 
           },
           {
-            text:'Tutorials',
-            link: '/tutorial-overview.md',
+            text:'Join Us!',
+            link: '/hiring.md',
           },
         ]
       },
