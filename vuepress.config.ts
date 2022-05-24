@@ -61,6 +61,10 @@ module.exports = {
             text:'Tutorials',
             link: '/tutorial-overview.md',
           },
+          {
+            text:'Resources',
+            link: '/resources.md',
+          },
         ]
       },
 
