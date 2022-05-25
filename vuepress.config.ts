@@ -35,6 +35,10 @@ module.exports = {
             text: 'Tokens',
             link: '/token/draft.md',
           },
+          {
+            text: 'Incentives',
+            link: '/incentives/listofincentives.md',
+          },
         ]
       },
          
