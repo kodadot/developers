@@ -1,3 +1,3 @@
 # KodaDot's Incentives
 
-- [GretaForest](/GretaForest.md)
+- [KodaForest](/KodaForest.md)
