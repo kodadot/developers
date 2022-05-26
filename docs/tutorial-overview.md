@@ -16,6 +16,10 @@
 
 - How to mint NFTs via [iOS](/tutorials/how-to-kodadot-phone-ios.md)
 
+## $KSM
+
+- [Staking KSM](/tutorials/staking-ksm.md)
+
 ## Troubleshooting
 
 - ["Unable to retrieve keypair" error](/tutorials/how-to-fix-error-keypair.md)
