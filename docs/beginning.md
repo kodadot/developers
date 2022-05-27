@@ -17,7 +17,7 @@ During yangWao's time researching Substrate, he realised the amount of teams usi
 
 ***Noticing the little to no Vue support in the PolkdaDot ecosystem, his mission was to make Vue an option alongside React for PolkaDot development***
 
-Teaming up with Co-founder [Viki](https://twitter.com/vikiival), they created [https://vue-polkadot.js.org](https://vue-polkadot.js.org), a collection of Vue.js libraries, utlities and classes that allows for easier use of the Polkadot JS infrastructure inside apps, where they grew tremendously in temrs of technical ability and knowledge of the space.
+Teaming up with Co-founder [Viki](https://twitter.com/vikiival), they created [https://vue-polkadot.js.org](https://vue-polkadot.js.org), a collection of Vue.js libraries, utilities and classes that allows for easier use of the Polkadot JS infrastructure inside apps, where they grew tremendously in terms of technical ability and knowledge of the space.
 
 We were soon awarded a grant from the [Web3 Foundation Foundation](https://medium.com/@web3) in 2019 as Wave 3 Recipients for our contribution to the Polkadot ecosystem, allowing us to further develop and maintain KodaDot. 
 
