@@ -16,4 +16,3 @@ We are having currently these spending addresses fueling our ops
 - Weyland Fund
   - [H9VUihXaqCi36XXW4D8cjxxbBwrMkgKtWXUX7vaQbQPs99X](https://kusama.subscan.io/account/H9VUihXaqCi36XXW4D8cjxxbBwrMkgKtWXUX7vaQbQPs99X)
 
-
