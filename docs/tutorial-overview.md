@@ -20,6 +20,10 @@
 
 - [Staking KSM](/tutorials/staking-ksm.md)
 
+## For Developers
+
+- [How to write a SubSquid Query](/tutorials/write-subsquid-query.md)
+
 ## Troubleshooting
 
 - ["Unable to retrieve keypair" error](/tutorials/how-to-fix-error-keypair.md)
