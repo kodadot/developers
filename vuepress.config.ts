@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'KodaDot Documentation',
-  description: 'Better understanding KodaDot NFT marketplace',
+  title: ' ',
+  description: ' ',
   plugins: [
     [
       '@vuepress/plugin-search',
@@ -26,6 +26,10 @@ module.exports = {
           {
             text: 'What is KodaDot?',
             link: '/README.md',
+          },
+          {
+            text: 'How it all Started',
+            link: '/beginning.md',
           },
           {
             text: 'Tokens',
