@@ -69,6 +69,10 @@ module.exports = {
             text:'Join Us!',
             link: '/hiring.md',
           },
+          {
+            text:'Resources',
+            link: '/resources.md',
+          },
         ]
       },
 
