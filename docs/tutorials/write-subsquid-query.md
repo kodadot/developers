@@ -77,6 +77,56 @@ query {
 
 This query is fetching nfts that are on the KodaDot marketplace and ends with an exclamation point(!) and returns the title of the NFT.
 
+
+### orderBy
+
+orderBy is a keyword to sort the search results in ascending or descending order.
+When using ```orderBy``` in a query, the value that you want to be ordered needs to be in the query itself:
+
+```graphql
+query QueryName {
+  <entity>Connection(before: <endCursor>, orderBy: <fieldNameToOrderBy>_ASC) {
+    pageInfo {
+      endCursor
+      hasNextPage
+    }
+    edges {
+      node {
+        <anyOtherField>
+        <fieldNameToOrderBy>
+      }
+    }
+  }
+}
+```
+
+### Sort Operators
+such as _ASC or _DESC
+
+```graphql
+query {
+  nfts(orderBy: [title_ASC]) {
+    id
+    title
+  }
+}
+```
+
+This query is fetching a list of nfts in ascending order.
+
+You can use _ASC and _DESC together like this: 
+
+```graphql
+query {
+  nfts(orderBy: [title_ASC, publishedOn_DESC]) {
+    id
+    title
+  }
+}
+```
+This query is fetching a list of nfts with titles in asecending order on the published date in decending order.
+
+
 ### Limit and Offset
 
 Limit specifies how the limit of results you want and offset specifies the place in your data that you want to start from. 
@@ -109,14 +159,17 @@ query {
   }
 }
 ```
-In cursor based pagination, every entity in the input schema, a query is generated as follows:
+
+This query fetches a list of nfts where isPink is true and returns not only their count, but their pointer. 
+
+In cursor based pagination, with every entity in the input schema, a query is generated as follows:
 "(entityName) + Connection"
 
-This query fetches a list of nfts where isPink is true and returns not only their count, but their pointer.
+This is considered a Connection, an object that contains edges and nodes. ``` edges ``` are relatioships between two nodes that hold an edge type, and  ``` nodes ``` are an edge type and objects. In this example, the node is the object of each nftConnection item.
 
 ### First and Last Operators
 
-First fetches the number of entities from the beginning of the result set and last fetches the number of entities from the end of the result set.
+```first``` fetches the number of entities from the beginning of the result set and ```last``` fetches the number of entities from the end of the result set.
 
 ```graphql
 query {
@@ -131,10 +184,10 @@ query {
 }
 ```
 
-This query fetches a the first 5 nfts with their pointer.
+This query fetches the first 5 nfts with their pointer.
 
 ### Page Info Object
-returns the cursor, page information and object has following fields:
+returns information that you can use in your queries to easily navigate your dataset
 
 ```graphql
 pageInfo {
@@ -145,10 +198,10 @@ pageInfo {
 }
 ```
 
-- startCursor is 
-- endCursor is
-- hasNextPage is 
-- hasPreviousPage is 
+- startCursor is the cursor of the first node in  ```nodes```
+- endCursor is the cursor of the last node in ```nodes```
+- hasNextPage is  used to determine if there are more edges after the defined field values set by the user
+- hasPreviousPage is used to determine if there are more edges before the defined field values set by the user
 
 ### Before and After Operators
 
@@ -156,7 +209,7 @@ The before and after operators deal with startCursor and endCursor.
 
 ```graphql
 query FirstBatchQ {
-  channelsConnection(first: 10, orderBy: createdAt_ASC) {
+  nftConnection(first: 10, orderBy: createdAt_ASC) {
     pageInfo {
       endCursor
       hasNextPage
@@ -172,7 +225,7 @@ query FirstBatchQ {
 }
 
 query SecondBatchQ {
-  channelsConnection(after: <endCursor>, orderBy: createdAt_ASC) {
+  nftConnection(after: <endCursor>, orderBy: createdAt_ASC) {
     pageInfo {
       endCursor
       hasNextPage
@@ -187,6 +240,10 @@ query SecondBatchQ {
   }
 }
 ```
+
+The first query is fetching the first 10 nfts in ascending order based on the time they were created and in.
+
+The second query is fetching the next 10 channels in ascending order based on the last nft the first query ended off on (indicated by ```after: <endcursor>```).
 
 
 
