@@ -88,8 +88,12 @@ module.exports = {
             link: 'https://kodadot.xyz',
           },
           {
-            text: 'Twitter',
-            link: 'https://twitter.com/kodadot',
+            text: 'Kodadot',
+            link: 'https://kodadot.xyz',
+          },
+          {
+            text: 'Github',
+            link: 'https://github.com/kodadot',
           },
           {
             text: 'Discord',
