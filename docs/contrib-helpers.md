@@ -127,3 +127,10 @@ We reward bounty hunters in $KSM. They can vary from $50 up to $600 depending on
  ## Become an Ambassador
 
  Read more about [being an Ambassador of KodaDot](ambassador-program/ambassador-intro.md)
+
+
+ ## Meta-Hours
+
+ We have bi-weekly meetings with contributors of KodaDot to share each other's progress as well as future goals in our [Discord sever](https://discord.gg/kodadot). Before speaking, please make sure you're prepared as a [speaker](meta-hours.md). 
+
+Is this your first time joining? Feel free to catch up on our [past Meta_Hours](https://github.com/kodadot/nft-gallery/discussions/categories/meta-hours)! 

@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'KodaDot Documentation',
-  description: 'Better understanding KodaDot NFT marketplace',
+  title: ' ',
+  description: ' ',
   plugins: [
     [
       '@vuepress/plugin-search',
@@ -28,6 +28,10 @@ module.exports = {
             link: '/README.md',
           },
           {
+            text: 'How it all Started',
+            link: '/beginning.md',
+          },
+          {
             text: 'Tokens',
             link: '/token/draft.md',
           },
@@ -45,6 +49,10 @@ module.exports = {
       {
         text: 'Get Involved',
         children: [
+          {
+            text: 'Why Should You Contribute?',
+            link: '/why-contrib.md'
+          },
           {
             text: 'Contributing for Developers',
             link: '/contrib-devs.md'
@@ -65,6 +73,10 @@ module.exports = {
             text:'Join Us!',
             link: '/hiring.md',
           },
+          {
+            text:'Resources',
+            link: '/resources.md',
+          },
         ]
       },
 
@@ -74,6 +86,10 @@ module.exports = {
           {
             text: 'Kodadot',
             link: 'https://kodadot.xyz',
+          },
+          {
+            text: 'Github',
+            link: 'https://github.com/kodadot',
           },
           {
             text: 'Twitter',
