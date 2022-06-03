@@ -12,6 +12,10 @@
 
 - How to [Airdrop](/tutorials/how-to-airdrop.md) NFTs
 
+## For Developers
+
+- [SubQuery/SubSquid Queries](/tutorials/querytutorial.md)
+
 ## KodaDot Mobile
 
 - How to mint NFTs via [iOS](/tutorials/how-to-kodadot-phone-ios.md)
