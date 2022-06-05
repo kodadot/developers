@@ -1,6 +1,8 @@
 ## How it all Started
 
-Our Co-founder, [yangWao](https://twitter.com/yangWao), was presented an opportunity to research more about [Substrate](https://docs.substrate.io) developers in the Polkadot Econsystem, where he was amazed of its' potential to become a replacement for smaller chains. 
+
+
+KodaDot's Co-founder, [yangWao](https://twitter.com/yangWao), was presented an opportunity to research more on [Substrate](https://docs.substrate.io) developers in the Polkadot Econsystem, where he became intrigued by Polkadot's potential to become a replacement for smaller chains. 
 
 To further understand the space, he created a web-based Subket, where you can:
 - Create a Substrate account from a mnemonic and hex seed
@@ -8,14 +10,14 @@ To further understand the space, he created a web-based Subket, where you can:
 - Sign data
 - Verify signatures
 
-But he realised, it wasn't easy generating yourself a pair of keys as a Vue developer. Why did it take him a week of translating code from Rust libraries to get things done? 
+While developing his project, he came across obstacles. Why wasn't it easy generating a pair of keys as a Vue developer? Why did it take him a week of translating code from Rust libraries to get things done? On top of that, he noticed the amount of teams in the ecosystem using React to quickly put together their frontends so that they can focus more on the backend. 
 
-There was a bigger problem: where was the support for Vue developers?
+Noticing all the React developers getting their projects done within a weeks timeframe in the ecosystem was alarming to him and rasied a bigger question:
 
-During yangWao's time researching Substrate, he realised the amount of teams using React to quickly put together their frontends so that they can focus more on the backend. 
+**Where were the resources for Vue native developers?**
 
 
-***Noticing the little to no Vue support in the PolkdaDot ecosystem, his mission was to make Vue an option alongside React for PolkaDot development***
+Noticing the little to no support in the PolkdaDot ecosystem, his mission was to make Vue an option alongside React for PolkaDot development to make sure that the ever-growing community would account for developers like him. 
 
 Teaming up with Co-founder [Viki](https://twitter.com/vikiival), they created [https://vue-polkadot.js.org](https://vue-polkadot.js.org), a collection of Vue.js libraries, utilities and classes that allows for easier use of the Polkadot JS infrastructure inside apps, where they grew tremendously in terms of technical ability and knowledge of the space.
 
@@ -31,7 +33,7 @@ It was until they found [Bruno Skvorc](https://medium.com/@bitfalls)'s activity 
 
 Quickly realizing the flexibility of [Substrate Data](https://polkadot.js.org/docs/substrate/extrinsics/#remark_remark-bytes) and skimming the [rmrk-spec repository](https://github.com/rmrk-team/rmrk-spec), they spun up a RMRK.app NFT reader, which gained support from the crypto community. However, this wasn't the idea they wanted to settle with.
 
-Finally, after working non-stop for 7 week and sending in a [proposal](https://kusama.polkassembly.io/motion/256) to become an NFT explorer, is the KodaDot that you know today, serving as the first public good of the Dotsama (Kusama/Polkadot) ecosystem. 
+Finally, after working non-stop for 7 weeks and sending in a [proposal](https://kusama.polkassembly.io/motion/256) to become an NFT explorer, the KodaDot that you know today serves as the first public good of the Dotsama (Kusama/Polkadot) ecosystem. 
 
 Read more about our journey from the bottom to the top [here](https://medium.com/kodadot/traverse-to-the-prime-show-733d6046d3f5).
 
