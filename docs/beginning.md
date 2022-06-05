@@ -19,13 +19,15 @@ Noticing all the React developers getting their projects done within a weeks tim
 
 Noticing the little to no support in the PolkdaDot ecosystem, his mission was to make Vue an option alongside React for PolkaDot development to make sure that the ever-growing community would account for developers like him. 
 
-Teaming up with Co-founder [Viki](https://twitter.com/vikiival), they created [https://vue-polkadot.js.org](https://vue-polkadot.js.org), a collection of Vue.js libraries, utilities and classes that allows for easier use of the Polkadot JS infrastructure inside apps, where they grew tremendously in terms of technical ability and knowledge of the space.
+Teaming up with Co-founder [Viki](https://twitter.com/vikiival), they created [https://vue-polkadot.js.org](https://vue-polkadot.js.org), a collection of Vue.js libraries, utilities and classes that allows for easier use of the Polkadot JS infrastructure inside apps. Due to their success, they were awarded a grant from the [Web3 Foundation Foundation](https://medium.com/@web3) in 2019 as Wave 3 Recipients for their contribution to the Polkadot ecosystem, allowing them to further develop and maintain their creation. 
 
-We were soon awarded a grant from the [Web3 Foundation Foundation](https://medium.com/@web3) in 2019 as Wave 3 Recipients for our contribution to the Polkadot ecosystem, allowing us to further develop and maintain KodaDot. 
+Throughout this process, they grew tremendously in terms of technical ability and knowledge of the space which allowed them to continue their journey on Polkadot.
 
 ## But, KodaDot is a NFT marketplace?!
 
-After finishing [https://vue-polkadot.js.org](https://vue-polkadot.js.org), yangWao and Viki wanted to make their creation useful for **themselves**. At first they created an [Automated Registry](https://hackmd.io/@yangwao/r1nRVC3nL) (which won second place in a PolkaDot hackathon!), but soon found out that the idea itself is unfeasible.
+After finishing [https://vue-polkadot.js.org](https://vue-polkadot.js.org), yangWao and Viki wanted to make their creation useful for **themselves**. 
+
+At first they created an [Automated Registry](https://hackmd.io/@yangwao/r1nRVC3nL) (which won second place in a PolkaDot hackathon!), but soon found out that the idea itself was unfeasible. There were too many features that couldn't be achieved with the skillset they had at the moment so they decided to go over and 
 
 Then they experiemented with AR/VR to [visualize blocks on the blockchain](https://github.com/vue-polkadot/apps/issues/100), which had good traction, but wasn't necessarily what they were looking for.
 
