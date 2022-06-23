@@ -7,6 +7,7 @@ From here it was opportunity to start seeing KodaDot as ultimate public good.
 ### Web3 styled development
 - We've took non-traditional turn to develop KodaDot and choosed steer away from traditional web2 development to embrace external participation through bounties and be close to as possible web3 ethos. Turns out, [we have 70+ contributors, 200+ forks](https://github.com/kodadot/nft-gallery) and $50k in paid bounties for external participation. This offers on development more perspective through [collaboration](https://en.wikipedia.org/wiki/Collaboration) and [collective wisdom](https://en.wikipedia.org/wiki/Collective_wisdom). Appart from technical tasks, we paid out for [non-technical bounties](https://github.com/kodadot/nft-gallery/issues?q=is%3Aopen+is%3Aissue+label%3A%22%E2%9C%8D%EF%B8%8F+-+writing%22) as well. Seems system is usable at some scale. 
 - Expand on code review guild 
+- Code Review Guild [already recieved first payout](https://github.com/kodadot/nft-gallery/discussions/2999) after weeks of experiment 
 
 ### Leading NFT analytics platform
 - As you've may heard, KodaDot is powered over 100+ GraphQL queries, which helps users navigate through collectibles and on-chain activity and articulate dynamics of NFTs or collectible. 
@@ -56,7 +57,7 @@ From here it was opportunity to start seeing KodaDot as ultimate public good.
 
 ### Custom store-fronts
 
-Hence we will try to provide best efforst to community oriented exchanges, we will thrive to help your brand your look and feel you would like to need for your community and further power drive sales of collectibles. 
+- Hence we will try to provide best efforst to community oriented exchanges, we will thrive to help your brand your look and feel you would like to need for your community and further power drive sales of collectibles. 
 - [Offering uniquery](https://github.com/kodadot/packages/tree/main/uniquery) with deep liquidity for your integration of NFT products
 - If you are interested, best to reach out KodaDot team and we can provide you how we can start with your community
 
@@ -67,3 +68,4 @@ This is WIP document and might expand in future and prior change
 - [kodadot/nft-gallery](https://github.com/kodadot/nft-gallery)
 - [Collaborative Software](https://en.wikipedia.org/wiki/Collaborative_software)
 - [Collective wisdom](https://en.wikipedia.org/wiki/Collective_wisdom)
+- 
