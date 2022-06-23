@@ -5,6 +5,10 @@ We had need with our [Kodadot developers contributors](https://github.com/kodado
 
 We've dreamed of things where, **we as creators** can collaborate on crafts together, matter if it's game items or series of their emotional production, they should have ability to share and influence their featurings. If it's just simple items for identity, access lists for your community or smart (with custom designed utility) items in your game,  part of your complex game mechanics or bootstraping your gaming community around cause or particular alignment.
 
+### Talk at AMSDOT
+
+[![Reactive NFTs](http://img.youtube.com/vi/3i1nVK-y424/0.jpg)](http://www.youtube.com/watch?v=3i1nVK-y424 "Reactive NFTs")
+
 
 ## What's in the package?
 We plan to pinpoint few major features for our Reactive NFTs out there, highlighting upcoming features we are actively working on
@@ -142,11 +146,6 @@ We plan to pinpoint few major features for our Reactive NFTs out there, highligh
 
 We've felt that protocol in Dotsama are quite opinionated so we come with our own, less-to-no opinionated NFT protocol
 
-
-
-
-
-
 how RNFTs will work
 conditional, hook enabled, token as entity
 why conditional NFTs
@@ -159,14 +158,9 @@ Ref
 
 
 
-
-### Talk at AMSDOT
-
-[![Reactive NFTs](http://img.youtube.com/vi/3i1nVK-y424/0.jpg)](http://www.youtube.com/watch?v=3i1nVK-y424 "Reactive NFTs")
-
-
 ### Ref
 - [http://www.youtube.com/watch?v=3i1nVK-y424]()
 - [https://twitter.com/yangWao/status/1517496677367783426]()
 - [https://twitter.com/yangWao/status/1518144583762391040]()
 - [https://twitter.com/NeuralinkApe/status/1518145402498813953]()
+- [https://github.com/kodadot/nft-gallery/discussions/2737]()
