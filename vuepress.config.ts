@@ -1,18 +1,9 @@
-import { defineUserConfig } from '@vuepress/cli'
-import { socialSharePlugin } from 'vuepress-plugin-social-share'
-
 module.exports = {
   title: ' ',
   description: ' ',
   plugins: [
     [
       '@vuepress/plugin-search',
-      [socialSharePlugin({
-        networks: [`twitter`, `facebook`, `email`, `pinterest`, `linkedin`],
-        fallbackImage: `/koda-v3.png`,
-        autoQuote: true,
-        isPlain: true,
-      })],
       { 
         maxSuggestions: 10,
         locales: {
