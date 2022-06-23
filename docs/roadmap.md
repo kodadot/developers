@@ -1,4 +1,4 @@
-### What's KodaDot?
+### What is the roadmap of KodaDot?
 
 KodaDot has started as re-implementation [DotApps.io](https://dotapps.io/) from React to [VueJs by reversing component by component which was awarded by web3 foundation grant](https://vue-polkadot.js.org/).
 From here, founders behind KodaDot realized it would be great to recycle gathered knowledge and once winning and participating on few Polkadot and Ethereum hackathon decided to choose grind in NFT space. From here implemented UX friendly UI for Substrapunks, then implemented first unofficial RMRK explorer. 
