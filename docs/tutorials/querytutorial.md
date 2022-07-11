@@ -8,7 +8,7 @@ We'll go through the components of a query: the query itself, the parameters, an
 
 The query itself is what you're ultimately fetching, at the end of intializing your query variables, your query should be able to fetch and return the information you specifically asked for. 
 
-The parameters are what helps the query find what you need. If one of your parameters is 'id', then the query will look for id's.
+The parameters are what helps the query find what you need. If one of your parameters is `id`, then the query will look for id's.
 
 The query variables are what you initialize (for example, the address of your own account) and where the query goes to, to begin fetching information.
 
