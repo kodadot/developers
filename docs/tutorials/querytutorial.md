@@ -1,6 +1,6 @@
 ## How to write a Query 
 
-KodaDot currently uses two types of indexers, [Subquery] and [SubSquid]. You can use this tutorial as a way to write queries for both indexers, however there are minimal differences that you should keep track of!
+KodaDot currently uses two types of indexers, Subquery and SubSquid. You can use this tutorial as a way to write queries for both indexers, however there are minimal differences that you should keep track of!
 
 ##### Keep in mind that there are some query variable differences (i.e 'first' in Subquery and 'limit' in SubSquid) between Subquery and Subsquid. When writing a query, make sure you are using variables intended for your indexer. For learning purposes, we will use the SubSquid playground.
 
@@ -12,7 +12,7 @@ The parameters are what helps the query find what you need. If one of your param
 
 The query variables are what you initialize (for example, the address of your own account) and where the query goes to, to begin fetching information.
 
-Let's go through examples to show you how this works. If you'd like to understand how [general querying]() works, we have an article for that as well. In the meantime, these will be queries specific to Subquery/SubSquid.
+Let's go through examples to show you how this works. If you'd like to understand how [general querying](/general-querying.md) works, we have an article for that as well. In the meantime, these will be queries specific to Subquery/SubSquid.
 
 ***Rule of thumb, name your queries as you would functions- be descriptive so that you don’t confuse yourself when you come back to this later!***
 
@@ -81,7 +81,7 @@ As for how you'll format your query paramters, you can look at line 1.
 
 ![step9](/indexer/9.png)
 
-`$issuer_eq: String = ""` tells you that the query variable that will be assigned to `issuer_eq` will be a String that has to be inside quotation marks "". That will be specified for every query parameter you decide to choose in the future.
+`$issuer_eq: String = ""` tells you that the query variable that will be assigned to `issuer_eq` will be a String that has to be inside quotation marks "". That will be specified for every query parameter you decide to choose in the future. If the parameter has an exclamation point at the end (i.e `$issuer_eq: String!`), it means the parameter is REQUIRED.
 
 Here, we've initialized our parameters
 
