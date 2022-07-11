@@ -32,7 +32,7 @@ From here it was opportunity to start seeing KodaDot as ultimate public good.
 - With each chain we enable users to leverage particular properties or NFT primitives to use in cross-chain Dapps
 
 ## Cross-chain thesis
-- KodaDot has implemented few NFT standards in Polkadot & Kusama ecosystem and has in roadmap implement few of them to users offer single interface for best assets mobility in class with respect on security and composability accross Dotsama ecosystem.
+- KodaDot has implemented few NFT standards in Polkadot & Kusama ecosystem and has in roadmap implement few of them to users **offer single interface for best assets mobility** in class with respect on security and composability accross Dotsama ecosystem.
  
 ### RMRK (Kusama)
 - With [RMRK](https://www.rmrk.app/) we've demonstrated versatile capabilities and rock steady implementation, while made public implementation of RMRK to [SubSquid](https://subsquid.io/) and [SubQuery](https://subquery.network/) indexers and [spin up our universal API called UniQuery](https://github.com/kodadot/packages/tree/main/uniquery). 
@@ -44,13 +44,16 @@ From here it was opportunity to start seeing KodaDot as ultimate public good.
 - Is an independent chain which has the mission to enable frictionless liquidity bootstrapping for new cryptoassets. With this in mind [we've enabled NFT marketplace in Beta](https://github.com/galacticcouncil/amsterdot-bounties-2022/issues/5) on Basilisk Testnet to **create class, mint NFT, set a price, transfer, burn, make an offer, withdraw an offer and accept an offer and add royalty**. 
 - With **Basilisk you can fully mint first Substrate-native and trustless NFTs in ecosystem.** This means, it's not EVM-based NFTs and not like RMRKv1 and RMRKv2, which consensus is made on indexers or some centralized GraphQL endpoint.
 - Plans are these NFTs can hold positions in Basilisk LBP or other creative use-cases depends Basilisk Governance
+- You can [test it on beta version of KodaDot](https://beta.kodadot.xyz/bsx)
 
 ### Moonsama (based on MoonRiver)
 - [Moonsama are evolving NFTs 2.0](https://moonsama.com/), currently EVM-based NFT collection on MoonRiver which [promise multi-chain support](https://wiki.moonsama.com/litepaper).
+- [You can test it on beta version of KodaDot](https://beta.kodadot.xyz/moonsama)
 
 ### Astar (WASM NFTs)
-- [Astar](https://parachains.info/details/astar/) is Substrate Runtime Module Library and we are looking forward to pivot there first ink! based NFT Marketplace implemented within KodaDot.
-- This part is work in progress
+- [Astar](https://parachains.info/details/astar/) is Substrate Runtime Module Library and we are looking forward to pivot there **first ink! based NFT Marketplace implemented within KodaDot.** 
+- This would create major compatiblity layer for developers writing WASM smart contracts to drive various NFT Dapps usecases within KodaDot in trustless way. 
+- This part is work in progress.
 
 ### Gear
 - [Gear](https://parachains.info/details/gear/) is meant to be highly throughtput WASM parachain, where we are looking forward impleemnt their [gNFT standard](https://wiki.gear-tech.io/examples/gnft-721/) for NFTs 
@@ -63,9 +66,13 @@ From here it was opportunity to start seeing KodaDot as ultimate public good.
 
 This is WIP document and might expand in future and prior change
 
+### Teleporting NFTs across Polkadot and Kusama parachains
+- One of the goals of KodaDot is to help you to teleport assets through various parachains through single interface and drive mobility to your NFTs assets accross Polkadot Ecosystem. 
+
 ### Ref
+- [Contributing to KodaDot](https://github.com/kodadot/nft-gallery/blob/main/CONTRIBUTING.md)
 - [Beyond Verticalization of NFT Marketplaces](https://multicoin.capital/es/2022/06/22/beyond-verticalization-of-nft-marketplaces/)
 - [kodadot/nft-gallery](https://github.com/kodadot/nft-gallery)
 - [Collaborative Software](https://en.wikipedia.org/wiki/Collaborative_software)
 - [Collective wisdom](https://en.wikipedia.org/wiki/Collective_wisdom)
-- 
+- [Teleporting Assets](https://wiki.polkadot.network/docs/learn-teleport)
