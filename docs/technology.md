@@ -1,4 +1,4 @@
-# Beginner-friendly intro to digital assets, blockchain and NFTs
+# Digital assets, The Blockchain, and NFTs
 
  ## Is this page for you?
 
@@ -26,13 +26,15 @@
 
  Digital assets work from person to person, without a credit card processor, bank or any other middleman involved.
 
- Which brings us to the next subject:
+## What are Non-fungible Tokens (NFTs)?
+
+NFTs are a type of digital asset that come in many forms (music, gifs, artwork, video game characters) and are usually collectibles. The "non-fungible" part means that NFTs CANNOT be altered (copied or changed) due to it's record on the blockchain. If something is recorded on the blockchain, that information cannot be deleted or changed. Information shown on the meta-scan of your desired blockchain will fields such as . These identifiers have the ability to prove ownership and authenticity of your NFT.
 
  ## Value: Decentralizaton
 
  When it comes to digital assets, there is one magic word you'll hear a lot: decentralization.
 
- In fact, decentralization is the single biggest difference between digital assets and the old financial system. Digital assets make feasible a world where the financial system is governed by individuals, not by centralized institutions.
+ In fact, decentralization is the single biggest difference between digital assets and the old financial system. Digital assets make feasible a world where the financial sysxstem is governed by individuals, not by centralized institutions.
 
  When you type your password into a credit card machine, you're actually not sending funds directly to the salesman. There's at least one bank between you and them (in most cases there may be several banks involved).
 

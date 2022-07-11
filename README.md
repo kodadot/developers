@@ -4,7 +4,7 @@ It's accessible at https://docs.kodadot.xyz
 
 
 ### Requirements
-- Having GIT client, we reccomend using [Github Desktop](https://desktop.github.com/)
+- Having GIT client, we recommend using [Github Desktop](https://desktop.github.com/)
 - Installed [NodeJs](https://nodejs.org/en/), we reccomend to use LTS version
 
 ### To run it locally
