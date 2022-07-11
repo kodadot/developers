@@ -8,7 +8,7 @@
 ### Classic mint
 - Classic mint however is a little more advanced approach to yourself aswell as to the technology. You start by creating collection first, where you state all the desired details and afterwards you are just adding NFTs to specific collections, according to your needs.
 
-## How can i simple mint on KodaDot?
+## How can I simple mint on KodaDot?
 - First, you need your [polkadot.js](https://polkadot.js.org/extension/) wallet up and running in the browser extension. If you are struggling with this, we've made a [tutorial](how_to_create_wallet.md).
 - Second step is easy, you need some [$KSM](https://www.coingecko.com/en/coins/kusama) balance. Since KodaDot is running on Kusama blockchain, micro fees are paid in the chain currency, which is $KSM. 
 - Learn how to [top up your wallet](how_to_top_up_wallet.md).
@@ -38,7 +38,7 @@ If you want 1/1 art, just state "1" in edition.
 ![step4](/simple_mint_tut/step4_mint_filled.png)
 
 - If you choose to input price right away, you'll have to confirm two transactions.
-- Transaction fees can be seen by clicking on the calculator icon. At the time of the tutorial it's about 0.05 $.
+- Transaction fees can be seen by clicking on the calculator icon. At the time of the tutorial it's about 0.05 cents.
 
 ![step5](/simple_mint_tut/step5_mint_filled_options.png)
 
