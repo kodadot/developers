@@ -1,6 +1,6 @@
-## How to write a Query 
+## How to write a Subquery/Subsquid Query 
 
-KodaDot currently uses two types of indexers, Subquery and SubSquid. You can use this tutorial as a way to write queries for both indexers, however there are minimal differences that you should keep track of!
+KodaDot currently uses two types of indexers, [magick by Subquery](https://github.com/kodadot/magick) and [rubick by SubSquid](https://github.com/kodadot/rubick). You can use this tutorial as a way to write queries for both indexers, however there are minimal differences that you should keep track of!
 
 ##### Keep in mind that there are some query variable differences (i.e 'first' in Subquery and 'limit' in SubSquid) between Subquery and Subsquid. When writing a query, make sure you are using variables intended for your indexer. For learning purposes, we will use the SubSquid playground.
 

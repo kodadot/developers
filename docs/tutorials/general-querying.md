@@ -1,9 +1,10 @@
-## How to write a SubSquid Query
+## How to write a General Query
 
 
-SubSquid queries may be intimidating at first, but all that's happening is that you're searching for data through defined values that YOU set. We'll teach you HOW to set those values along with other actions you can use to further specify what you're querying for.
+Writing new queries may be intimidating at first, but all that's happening is that you're searching for data through defined values that YOU set. We'll teach you HOW to set those values along with other actions you can use to further specify what you're querying for.
 
-#### Here are some examples of GraphQL queries that can be performed on an existing squid with an existing schema:
+
+While you go through this tutorial, try playing around in the [playground](https://app.gc.subsquid.io/beta/rubick/006/graphql)! 
 
 ## General Querying
 

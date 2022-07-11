@@ -26,7 +26,9 @@
 
 ## For Developers
 
-- [How to write a SubSquid Query](tutorials/general-querying.md)
+- [How to write a General Query](tutorials/general-querying.md)
+- [How to write a a Subsquid/Subquery Query](tutorials/subsquid-subquery.md)
+
 
 ## Troubleshooting
 
