@@ -1,13 +1,20 @@
-### What is the roadmap of KodaDot?
+# What is the roadmap of KodaDot?
 
 KodaDot has started as re-implementation [DotApps.io](https://dotapps.io/) from React to [VueJs by reversing component by component which was awarded by web3 foundation grant](https://vue-polkadot.js.org/).
 From here, founders behind KodaDot realized it would be great to recycle gathered knowledge and once winning and participating on few Polkadot and Ethereum hackathon decided to choose grind in NFT space. From here implemented UX friendly UI for Substrapunks, then implemented first unofficial RMRK explorer. 
 From here it was opportunity to start seeing KodaDot as ultimate public good. 
 
 ## Web3 styled development
-- We've took non-traditional turn to develop KodaDot and choosed steer away from traditional web2 development to embrace external participation through bounties and be close to as possible web3 ethos. Turns out, [we have 70+ contributors, 200+ forks](https://github.com/kodadot/nft-gallery) and $50k in paid bounties for external participation. This offers on development more perspective through [collaboration](https://en.wikipedia.org/wiki/Collaboration) and [collective wisdom](https://en.wikipedia.org/wiki/Collective_wisdom). Appart from technical tasks, we paid out for [non-technical bounties](https://github.com/kodadot/nft-gallery/issues?q=is%3Aopen+is%3Aissue+label%3A%22%E2%9C%8D%EF%B8%8F+-+writing%22) as well. Seems system is usable at some scale. 
-- Expand on code review guild 
+- We've took non-traditional turn to develop KodaDot and choosed steer away from traditional web2 development to embrace external participation through bounties and be close to as possible web3 ethos. Turns out, [we have 70+ contributors, 200+ forks](https://github.com/kodadot/nft-gallery) and $50k in paid bounties for external participants. This offers on development more perspective through [collaboration](https://en.wikipedia.org/wiki/Collaboration) and [collective wisdom](https://en.wikipedia.org/wiki/Collective_wisdom). Appart from technical tasks, we paid out for [non-technical bounties](https://github.com/kodadot/nft-gallery/issues?q=is%3Aopen+is%3Aissue+label%3A%22%E2%9C%8D%EF%B8%8F+-+writing%22) as well. 0 Seems system is usable at some scale and we are still exploring it. 
+
+### Code Review Guild
+- We went with experiments further and leveraged Github CodeOwners which helps us on rotating basis assign everytime someone else, who can help with review or make contribution to our code. 
+- Generally rule of thumb, to become part of CRG, we internally set limit to have at least 50-100 PRs merged to upstream branch as it's quite requirement to understand codebase, mission of KodaDot, respect good to great code quality guidelines and help each other out, especially contributors who like complete our bounties in repository.
 - Code Review Guild [already recieved first payout](https://github.com/kodadot/nft-gallery/discussions/2999) after weeks of experiment 
+
+### QA Guild
+- As we've realized that going with specialized set of people for each task might yield better performance and cut friction in our development process, we are experimenting with our internal team members helping us out to fast track pull request from end user perspective. 
+- In current process they help set WFM label and approve functionality/bugfix of particular PR and looking for some glitches which might end users potential experience in production. In this way we are trying split from from CGR and offset it to QA guild 
 
 ## Leading NFT analytics platform
 - As you've may heard, KodaDot is powered over 100+ GraphQL queries, which helps users navigate through collectibles and on-chain activity and articulate dynamics of NFTs or collectible. 
@@ -50,6 +57,9 @@ From here it was opportunity to start seeing KodaDot as ultimate public good.
 - [Moonsama are evolving NFTs 2.0](https://moonsama.com/), currently EVM-based NFT collection on MoonRiver which [promise multi-chain support](https://wiki.moonsama.com/litepaper).
 - [You can test it on beta version of KodaDot](https://beta.kodadot.xyz/moonsama)
 
+### Moonbeam
+- Once we will be testing stuff with MoonRiver we will fast track and go deployment KodaDot to MoonBeam. 
+
 ### Astar (WASM NFTs)
 - [Astar](https://parachains.info/details/astar/) is Substrate Runtime Module Library and we are looking forward to pivot there **first ink! based NFT Marketplace implemented within KodaDot.** 
 - This would create major compatiblity layer for developers writing WASM smart contracts to drive various NFT Dapps usecases within KodaDot in trustless way. 
@@ -58,13 +68,21 @@ From here it was opportunity to start seeing KodaDot as ultimate public good.
 ### Gear
 - [Gear](https://parachains.info/details/gear/) is meant to be highly throughtput WASM parachain, where we are looking forward impleemnt their [gNFT standard](https://wiki.gear-tech.io/examples/gnft-721/) for NFTs 
 
-### Custom store-fronts
+### Acala EVM+
+- As Acala EVM+ is not a simple copy-paste clone of the Ethereum's EVM, there are additional security considertaions to the ones from EThereum's EVM. 
+- [Read more about Acala EVM+](https://evmdocs.acala.network/general/about-acala-evm+)
+- [Acala EVM+ v0](https://github.com/kodadot/nft-gallery/issues/3497)
 
+### Custom store-fronts
 - Hence we will try to provide best efforst to community oriented exchanges, we will thrive to help your brand your look and feel you would like to need for your community and further power drive sales of collectibles. 
 - [Offering uniquery](https://github.com/kodadot/packages/tree/main/uniquery) with deep liquidity for your integration of NFT products
-- If you are interested, best to reach out KodaDot team and we can provide you how we can start with your community
+- If you are interested into our white-label solution, best to reach out KodaDot team and we can provide you how we can start with your community
 
-This is WIP document and might expand in future and prior change
+~This is WIP document and might expand in future and prior change~
+
+### Reactive NFTs 
+- As part of our paralel development supporting NFT standards on parachains, we are exploring ways to brew our **own NFT protocol with finest experience for developers in Polkadot ecosystem**.
+- You can learn more about [Reactive NFTs](reactive-nfts.md) here
 
 ### Teleporting NFTs across Polkadot and Kusama parachains
 - One of the goals of KodaDot is to help you to teleport assets through various parachains through single interface and drive mobility to your NFTs assets accross Polkadot Ecosystem. 
