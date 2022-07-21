@@ -16,7 +16,7 @@ Minting is a process in which your cryptocurrency wallet and blockchain communic
 
 ### **How can I mint NFTs through KodaDot?**
 
-In the left upper corner, you click on [create](https://kodadot.xyz/rmrk/create) and choose simple or classic mint. If you don't know how to continue, you can [move](minting.md) to this tutorial.
+In the left upper corner, you click on [create](https://kodadot.xyz/rmrk/create) and choose simple or classic mint. If you don't know how to continue, you can [move](tutorials/how-to-mint.md) to this tutorial.
 
 ### **I've mined an NFT, but it's not showing up**
 

@@ -2,7 +2,7 @@
 
 
 
-KodaDot's Co-founder, [yangWao](https://twitter.com/yangWao), was presented an opportunity to research more on [Substrate](https://docs.substrate.io) developers in the Polkadot Econsystem, where he became intrigued by Polkadot's potential to become a replacement for smaller chains. 
+KodaDot's Co-founder, [yangWao](https://twitter.com/yangWao), was presented an opportunity to research more on [Substrate](https://docs.substrate.io) developers in the Polkadot ecosystem, where he became intrigued by Polkadot's potential to become a replacement for smaller chains. 
 
 To further understand the space, he created a web-based Subket, where you can:
 - Create a Substrate account from a mnemonic and hex seed
