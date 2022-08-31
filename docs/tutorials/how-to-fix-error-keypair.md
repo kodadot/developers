@@ -30,6 +30,10 @@
 
 ![1](/error-keypair/4.png)
 
+- Disconnect the wallet and hard refresh web broswer, then reconnect.
+
+![image](https://user-images.githubusercontent.com/11361147/180236035-2f83e945-9a08-48f9-a533-c2c72e8e52f5.png)
+
 ### 4. Disable other extensions
 
 
