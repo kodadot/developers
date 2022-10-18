@@ -12,7 +12,7 @@ Minting is a process in which your cryptocurrency wallet and blockchain communic
 
 ### **Are you funded?**
 
- Right now, we have the [Kusama Treasury funding for Milestone 1](https://kodadot.xyz/rmrk/@.common:links.kusama_polkassembly.href). We are actively looking for funding options and will eventually raise private funds. Please feel free to reach out to us via Discord if you are interested into private sale.
+ Right now, we have the [Kusama Treasury funding for Milestone 1](https://kodadot.xyz/rmrk/@.common:links.kusama_polkassembly.href). We are actively looking for funding options and will eventually raise private funds. Please feel free to reach out to us via Discord if you are interested in private sale.
 
 ### **How can I mint NFTs through KodaDot?**
 
@@ -24,7 +24,7 @@ The best way to check if your mint has been successful is through [Subscan Explo
 
 ### **What's the difference between creating Classic, Simple and Permafrost?**
 
-- CLASSIC mint let's you create collection and add NFTs to it
+- CLASSIC mint let you create a collection and add NFTs to it
 - SIMPLE mint will create NFT collectible and add it to your profile 
 - PERMAFROST is nft minting using the **Arweave** protocol: The protocol matches people who have hard drive space to spare with those individuals and organizations that need to store data or host content permanently.
 
@@ -47,7 +47,7 @@ Not at the moment.
  - LIST will list it for sale so someone can buy it from you
 
 ### **Is there an official KodaDot token?**
-No, there is no official token launched. Please follow official social media and be aware of scam and phissing attempts from unofficial sources. DYOR.
+No, there is no official token launched. Please follow official social media and be aware of scams and phishing attempts from unofficial sources. DYOR.
 
 ### **Minting Guidelines**
 All minted files will observe the Code of Conduct and all NSFW (Not Safe For Work) files should be classified NSFW when minting.
@@ -74,7 +74,7 @@ We're aware of the possibility that two or more people can make transactions in 
 
 
 ### **Why did you choose to build on Kusama/Polkadot and not Ethereum?**
-We believe that costs for actions on the Ethereum mainnet will to continue to increase along with its enviornmentally damanging PoW. A more detailed answer can be found [here](https://github.com/kodadot/nft-gallery/issues/529)
+We believe that costs for actions on the Ethereum mainnet will continue to increase along with its environmentally damaging PoW. A more detailed answer can be found [here](https://github.com/kodadot/nft-gallery/issues/529)
 
 ### **How can I sell/buy KSM?**
 You can sell or buy KSM (with any currency depending on the exchange) through [Binance](https://www.binance.com/en), using our RAMP network [integration](https://kodadot.xyz/rmrk/credit) and [Bybit](https://www.bybit.com/en-US/). 
