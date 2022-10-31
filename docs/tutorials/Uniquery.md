@@ -1,7 +1,7 @@
 **Uniquery Documentation V1**
 
 
-KodaDot now has its’ own graphQL builder for our Subquery and SubSquid!
+KodaDot now has its' own GraphQL builder for Subquery and SubSquid!
 
 The queries we now support are:
 
@@ -18,7 +18,7 @@ The queries we now support are:
 
 Since queries in Subquery and SubSquid are written a bit differently, you can see the variables and parameters for each queries in the [SubqueryClient.ts](https://github.com/kodadot/packages/blob/main/uniquery/src/clients/SubqueryClient.ts) and [SquidClient.ts](https://github.com/kodadot/packages/blob/main/uniquery/src/clients/SquidClient.ts) files!
 
-In this walkthrough, we will be using the Fetch API to send our query object! Here’s a [playground](https://graphqlbin.com/) you can test your endpoints with using our endpoint URL: https://app.gc.subsquid.io/beta/rubick/006/graphql
+In this walkthrough, we will be using the Fetch API to send our query object! Here's a [playground](https://graphqlbin.com/) you can test your endpoints with using our endpoint URL: https://app.gc.subsquid.io/beta/rubick/006/graphql
 
 ```bash
 
