@@ -1,4 +1,8 @@
 # docs
+We warmly welcome your contribution! 
+![image](https://user-images.githubusercontent.com/5887929/217538785-3d974de5-0436-441e-8181-abe176d65790.png)
+
+
 We need to document our KodaDot engine running at https://kodadot.xyz with repository at https://github.com/kodadot/nft-gallery/
 It's accessible at https://docs.kodadot.xyz
 
