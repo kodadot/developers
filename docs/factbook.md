@@ -27,9 +27,11 @@ Brutalism and neobrutalism are two design movements coming from offline world, y
 
 KodaDot is [top1 dapp in Polkadot ecosystem by developers on Github](https://github.com/topics/polkadot)
 
+KodaDot founders are invetors of EMOTE function on [RMRK protocol under RIP-006.](https://github.com/rmrk-team/rmrk-spec/issues/10) 
+
 Kodadot team has participated in many challenges. Won 1st place at Polkadot North America hackathon with implementing EVM based contracts on MoonBeam and MoonRiver, leveraging SubSquid in July 2022. Won prize for implementing Basilisk NFT pallet.
 
-Among first has implemented NFT pallet in Substrate running on Basilisk parachaina connected to Kusama in August 2022.
+Among first has implemented NFT pallet in Substrate running on Basilisk parachains connected to Kusama in August 2022 with features like make offers for unlisted NFTs, royalties and proxied royalties.
 
 Implemented as out of few NFT marketplaces StableDiffusion for easier creation and generation visual art for creators. In this way offseting tooling needed for people to mint their creations using Ai ART.
 
@@ -58,6 +60,9 @@ KodaDot has reached point, when it's [safe to share API which utilizes over 9 ba
 KodaDot [has opened grants program](https://github.com/kodadot/grants) to incentivize more builders to come leverage useful API KodaDot devs has built for them.
 
 
+More
+---
+https://github.com/kodadot/nft-gallery/issues/4847
 
 
 
