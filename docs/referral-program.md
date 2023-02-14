@@ -5,9 +5,10 @@
 
 Get rewarded for referring artists to [KodaDot](https://kodadot.xyz/). We are committed to supporting the growth and success of artists in the NFT space, and our referral program is a key part of that commitment.  You will be helping to build a thriving community of creators, collectors, and enthusiasts. Our referral program is a great way to get involved.
 
-## Referral Program
+## Rewards
 
-The reward is **100 USD** in KSM for bringing a new artist to KodaDot! (**50 USD** for **you** and **50 USD** for the **artist**). Here you can find everything you need to know about this program. 
+The reward is **100 USD** in KSM for bringing a new artist to KodaDot! **50 USD** are for **you** and **50 USD** for the **artist**. 
+Here you can find everything you need to know about this referral program. 
 
 ### Process
 ---
