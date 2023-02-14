@@ -55,9 +55,10 @@ Even if you meet all the criteria, we have only a few spots, so the last decisio
 Do you have questions? 
 ---
 
-Contact the person responsible for artists
+Contact the person responsible for artists relations
+
 - Luuu 
-- ([Telegram](https://www.t.me/Just_Luuuu)
+- [Telegram](https://www.t.me/Just_Luuuu)
 - [Twitter](https://twitter.com/Just_Luuuu)
 - Discord: Luuu | KodaDot#2178)
 - Join the [KodaDot Discord](https://dsc.gg/kodadot) server
