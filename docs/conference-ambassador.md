@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/5887929/220370341-99deef76-799d-4860-8251-9283d22bb06e.png)
+
+
 # **Conference remote presence package**
 
 Thank you for helping us by bringing [KodaDot](https://kodadot.xyz/) to another conference. You will be attending events as a team member. We aim to introduce our project to a new audience and help them understand it more.
