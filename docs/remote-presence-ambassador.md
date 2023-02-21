@@ -1,5 +1,3 @@
-Hello remote ambassadors 
-
 # **Remote presence package**
 
 Thank you for helping us by bringing [KodaDot](https://kodadot.xyz/) to another conference. You will be attending events as a team member. We aim to introduce our project to a new audience and help them understand it more.
