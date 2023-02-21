@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/5887929/220370341-99deef76-799d-4860-8251-9283d22bb06e.png)
+
+![image](https://user-images.githubusercontent.com/5887929/220446980-44646300-a999-41a3-aed5-21c5875b8f9c.png)
 
 
 # **Conference remote presence package**
