@@ -79,7 +79,27 @@ module.exports = {
           },
         ]
       },
-
+      {
+        text: "Become Ambassador",
+        children: [
+          {
+            text: 'Ambassador Program',
+            link: '/ambassador-program/ambassador-intro.md'
+          },
+          {
+            text: 'Artist Ambassador',
+            link: '/artist-ambassador.md'
+          },
+          {
+            text: 'Artist Referral',
+            link: '/referral-program.md'
+          },
+          { 
+            text: 'Conference Ambassador',
+            link: '/conference-ambassador.md'
+          },
+        ]
+      },
       {
         text: 'Find Us!',
         children: [
