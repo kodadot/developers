@@ -13,5 +13,5 @@ We value inclusivity, collaboration, positive feedback, trust, and encourage tac
 It's simple, KodaDot's development system was left intentionally open-source, inviting open contribuitions. There isn't "behind the scenes" footage when it comes to us, everyone has a say and a way to communicate their ideas to developers who'd rather work on them than create them.
 
 
-Later in our journey, we aim to become more carbon neutral while contributing to the carbon negative gallery in an attempt to drive global forestation. For now, our efforts lie on a low carbon blockchain, the Kusama network, and partnered with [Offsetra](https://offsetra.com/), a project that us to compensate for our average annual emissions.
+Later in our journey, we aim to become more carbon neutral while contributing to the carbon negative gallery in an attempt to drive global forestation. For now, our efforts lie on a low carbon blockchain, the Kusama network, and partnered with [Offsetra](https://offsetra.com/), a project that supports us to compensate for our average annual emissions.
 
