@@ -12,7 +12,7 @@ We are a **multi-chain NFT marketplace** in the fast-growing Kusama (Polkadot) e
 
 ### More highlights about KodaDot
 
-- **KodaDot’s offline galleries**: Not only can you sell your NFTs online, but there is an opportunity to have NFTs displayed and promoted during our offline events. Read more about these events [here](https://luuu.substack.com/p/kodadot-offline-nft-galleries-in).
+- **KodaDot’s offline galleries**: Not only can you sell your NFTs online, but there is an opportunity to have NFTs displayed and promoted during offline events. Read more about these events [here](https://luuu.substack.com/p/kodadot-offline-nft-galleries-in).
 - Minting NFTs currently on **RMRK (Kusama)** and **Basilisk** (royalties, offer-making)
 - KodaDot has its own **co-working space in Bled, Slovenia** where projects from the Polkadot ecosystem can come to build: [https://subwork.xyz/](https://subwork.xyz/)
 
@@ -43,9 +43,6 @@ We are a **multi-chain NFT marketplace** in the fast-growing Kusama (Polkadot) e
 ### Homework before you go
 
 - Fill out your calendar so we have an idea of which days of events you attended.
-    
-    [Planner - calendar](https://www.notion.so/Planner-calendar-04a1fd7ba7e34a91bf5dbe5ab5222f6a)
-    
 - Follow our [Twitter](https://twitter.com/KodaDot) profile to be aware of campaigns/news currently happening.
 - Go to [https://kodadot.xyz/](https://kodadot.xyz/) and play with the platform a little.
     - check popular collections and NFTs
@@ -53,13 +50,11 @@ We are a **multi-chain NFT marketplace** in the fast-growing Kusama (Polkadot) e
     - try KodaDot through mobile NovaWallet so you can demonstrate it on the conference
     - try look on various insights of collection
     - try minting (optional)
-- Read about KodaDot’s co-work space: Subwork: [HERE](https://luuu.substack.com/p/why-subwork-bled)
+- Read about KodaDot’s co-work space: Subwork: [here](https://luuu.substack.com/p/why-subwork-bled)
 - Go through essential links to have an idea of what's happening in KodaDot
 - Download pictures with QR codes - important links [here](https://drive.google.com/drive/folders/13yKcGsXOlmo02m6uvSaCHJFiWd-QpfHJ?usp=sharing)! You can use them while networking, each picture has information about where the link leads.
 
 **Important links**
-
-I will create jpg pictures with QR codes - to make it easier for you to share them. After you share a link with someone, still ask for a contact. 
 
 - **Programmers**: [https://github.com/kodadot/nft-gallery/blob/main/HIRING.md](https://github.com/kodadot/nft-gallery/blob/main/HIRING.md): we are always hiring, KodaDot = opensource - anyone can contribute and get rewarded for solving issues
 - **Artists ambassadors**: [https://docs.kodadot.xyz/artist-ambassador](https://docs.kodadot.xyz/artist-ambassador) - paid job for NFT artists
@@ -75,12 +70,10 @@ I will create jpg pictures with QR codes - to make it easier for you to share th
 
 ### After event
 
-Prepare a list of people/projects you connecte with. I recommend you do this daily after the event.
+Prepare a list of people/projects you connecte with. We recommend you do this daily after the event.
 
-[Connections](https://www.notion.so/2d6e8e91722b4d53a660d9f5e2dcdcfd)
 
 ### Networking tips
 
 - After you meet someone, exchange contacts, and send them immediately a message with your name, project (KodaDot), and a short message about where you met, what you talked about + a link to KodaDot Twitter. You can also tell them that we may contact them.
-    - Example: Hello, my name is Linda, we met during ETHDenver.
 - Ask them to do the same, so you will be able to go back to the messages you got.
