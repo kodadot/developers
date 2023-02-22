@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/5887929/220446980-44646300-a999-41a3-aed5-21c5875b8f9c.png)
 
 
-# **Conference remote presence package**
+# **Conference remote presesence ambassador**
 
 Thank you for helping us by bringing [KodaDot](https://kodadot.xyz/) to another conference. You will be attending events as a team member. We aim to introduce our project to a new audience and help them understand it more.
 
