@@ -1,5 +1,5 @@
 
-![image](https://user-images.githubusercontent.com/5887929/220446980-44646300-a999-41a3-aed5-21c5875b8f9c.png)
+![image](https://user-images.githubusercontent.com/5887929/220720332-02646e4b-0d3c-4865-834f-e341cc0327ab.png)
 
 
 # **Conference remote presesence ambassador**
