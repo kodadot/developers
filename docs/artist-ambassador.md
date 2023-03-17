@@ -31,6 +31,7 @@ Apply and get all the benefits we can offer. Become a part of our community. For
 
 - **Independent and proactive** approach (without us reminding you what to do), but at the same time be a team player and don't hesitate to talk about KodaDot with others.
 - **Minting** NFTs on KodaDot - Deliver good art **regularly.**
+- **Onboarding new artists** - Make efforts to motivate other artists to join KodaDot
 - **Posts** about your art on KodaDot (or other related topics) on Twitter and other social media at least twice a week (adding "KodaDot" to your Twitter profile to show your support).
 - **Active** on our Discord (share your art, participate in discussions, drop "gm" once in a while).
 - Come up with **your ideas** to help KodaDot grow (airdrops, competitions). We will give your our support here if needed.
