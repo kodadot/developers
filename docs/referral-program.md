@@ -38,6 +38,10 @@ Here you can find everything you need to know about this referral program.
 
 ## Guidelines for the artist:
 
+**How to mint:**
+- on [Kusama](https://luuu.substack.com/p/first-time-minting-on-kodadot)
+- on [Basilisk](https://luuu.substack.com/p/how-to-mint-on-basilisk)
+
 **Faucet:**  Artists can ask us to cover their minting fees 🤝
 
 Contact Luu for the covering minting fees
