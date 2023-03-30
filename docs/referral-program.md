@@ -22,7 +22,7 @@ Here you can find everything you need to know about this referral program.
 
 - The artist should have set on-chain identity (name and linked Twitter, so it's showing on the hovercard)
 - Artist **Twitter** requirements:
-    - The audience should be at least 500 followers
+    - The audience should be at least 300 followers
     - Twitter profile old at least 6 months (August 2022)
     - No sketchy, suspicious profiles with no activity (be smart about your choices)
 - The artist needs to have minted at least 10 NFTs on KodaDot
