@@ -3,23 +3,27 @@
 layout: home
 
 hero:
-  name: "KodaDot developers guide"
-  text: "One Stop Shop for Polkadot NFTs"
-  tagline: My great project tagline
+  name: "KodaDot "
+  text: "developers guide"
+  tagline: One Stop Shop for Polkadot NFTs
   actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
     - theme: alt
+      text: PolySearch
+      link: /kodadot-search-polysearch
+    - theme: brand
       text: Uniquery
       link: /kodadot-api-uniquery
+    - theme: alt
+      text: Indexers
+      link: /indexers
+
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Uniquery
+    details: Client-based SDK for Polkadot NFTs
+  - title: Minimark
+    details: Minting various NFT bundles
+  - title: PolySearch
+    details: Ultimate super charged search to search multi-chain NFT marketplaces
 ---
 

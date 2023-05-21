@@ -2,10 +2,10 @@
 outline: deep
 ---
 
-# @kodadot1/uniquery
+# Uniquery
 ---
 
-Universal GraphQL query builder for KodaDot
+[Universal GraphQL query builder for KodaDot](https://github.com/kodadot/uniquery)
 
 [![npm version][npm-version-src]][npm-version-href]
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
@@ -20,7 +20,7 @@ Universal GraphQL query builder for KodaDot
 
 Add Uniquery to your project
 
-````
+
 ```sh
 # with npm
 npm install @kodadot1/uniquery
@@ -31,11 +31,11 @@ yarn add @kodadot1/uniquery
 # with pnpm
 pnpm install @kodadot1/uniquery
 ```
-````
+
 
 Import:
 
-````
+
 ```js
 // ESM
 import { getClient } from '@kodadot1/uniquery'
@@ -57,13 +57,13 @@ console.log(query)
   variables: {}
 }
 ```
-````
+
 
 ## ✨ Rationale
 As we were onboarding developers for our NFT Gallery, most of the developers have seen GraphQL for the first. We wanted to make it easier for them to get started with KodaDot API. Uniquery is a simple tool to help you build GraphQL queries for KodaDot API.
 
 Without Uniquery you would have to write something like this:
-````
+
 ```graphql
 query itemListByCollectionIdList {
   nft: nftEntities(where: {collection: { id_eq: "2305670031" }}) {
@@ -74,7 +74,7 @@ query itemListByCollectionIdList {
   }
 }
 ```
-````
+
 With Uniquery you can write this:
 
 ```js
@@ -90,7 +90,7 @@ This `GraphQuery` object represents a GraphQL query that should be passed to you
 > **Note:** Uniquery is not a GraphQL client. It's a tool to help you build GraphQL queries
 > It's possible to use it with any GraphQL client (such as Apollo)
 
-````
+
 We have currently two implementations
 - 1. Client
 
@@ -112,12 +112,11 @@ import { ask } from '@kodadot1/uniquery'
 const id = '2305670031'
 const result = await ask(`/bsx/itemByCollection/${id}`)
 ```
-````
 
 ## ⚓️ Exported functions
 
 ### ✔️  Uniquery
-````
+
 - `extendFields` - extends default list with newly provided values
 - `getClient` - returns GrahpQL query builder
 - `getUrl` - returns GrahpQL indexer url
@@ -128,7 +127,7 @@ From REST:
 - `ask` - obtain data from GraphQL indexer by selected route
 - `pathToRequest` - converts route to corresponding GraphQL queryss
 
-````
+
 
 ### ✔️  Uniquery.client
 - collectionById - returns collection by id
