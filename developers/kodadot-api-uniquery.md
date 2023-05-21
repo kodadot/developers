@@ -228,7 +228,7 @@ pnpm dev
 
 Made with 💛
 
-Published under [MIT License](./LICENSE).
+<!-- Published under [MIT License](./LICENSE). -->
 
 <!-- Badges -->
 [npm-version-src]: https://img.shields.io/npm/v/@kodadot1/uniquery?style=flat-square
