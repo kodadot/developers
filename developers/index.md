@@ -19,11 +19,14 @@ hero:
 
 
 features:
-  - title: Uniquery
+  - icon: 🕷️
+    title: Uniquery
     details: Client-based SDK for Polkadot NFTs
-  - title: Minimark
+  - icon: ⛏️
+    title: Minimark
     details: Minting various NFT bundles
-  - title: PolySearch
+  - icon: 🔍
+    title: PolySearch
     details: Ultimate super charged search to search multi-chain NFT marketplaces
 ---
 
