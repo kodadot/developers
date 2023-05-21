@@ -2,10 +2,21 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  lastUpdated: true,
   title: "KodaDot developers",
   description: "One Stop Shop for Polkadot NFTs",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    search: {
+      provider: 'local'
+    },
+    editLink: {
+      pattern: 'https://github.com/kodadot/subwork/edit/main/docs/:path'
+    },
+    footer: {
+      message: 'VitePress generated at SubWork, some pictures from KodaDot',
+      copyright: 'Copyright © 2023-present SubWork membas'
+    },
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Swag shop', link: 'https://shop.kodadot.xyz' },
