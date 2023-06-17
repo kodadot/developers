@@ -10,12 +10,12 @@ hero:
     - theme: alt
       text: PolySearch
       link: /kodadot-search-polysearch
-    - theme: brand
-      text: Uniquery
+    - theme: alt
+      text: UniQuery
       link: /kodadot-api-uniquery
     - theme: alt
       text: Indexers
-      link: /indexers
+      link: /kodadot-indexers
 
 
 features:

@@ -46,7 +46,7 @@ export default defineConfig({
       copyright: 'Copyright © 2023-present SubWork membas'
     },
     nav: [
-      { text: 'Home', link: '/' },
+      { text: 'Get Started', link: '/get-started' },
       { text: 'Swag shop', link: 'https://shop.kodadot.xyz' },
       { text: 'NFT marketplace', link: 'https://kodadot.xyz'},
     ],
@@ -59,6 +59,8 @@ export default defineConfig({
           { text: 'Uniquery', link: '/kodadot-api-uniquery' },
           { text: 'Minimark', link: '/kodadot-minter-minimark'},
           { text: 'PolySearch', link: '/kodadot-search-polysearch'},
+          { text: 'Indexers', link: '/kodadot-indexers'},
+          { text: 'Workers', link: '/kodadot-workers'},
           { text: 'Fandom', link: '/kodadot-storefront-fandom'}
         ]
       },
