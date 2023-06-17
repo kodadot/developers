@@ -20,7 +20,11 @@ module.exports = {
     repoLabel: 'kodadot/nft-gallery',
     navbar: [
       {
-        text: 'Archived -> New site',
+        text: 'Docs Are Archived',
+        link: '' 
+      },
+      {
+        text: 'New KodaDot Resource',
         children: [
           {
             text: 'hello.kodadot.xyz',
