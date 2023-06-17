@@ -16,6 +16,10 @@ We have various tools to help you build faster. You can start building using
 - [Workers](./kodadot-workers.md)
 - [Minting - MiniMark](./kodadot-minter-minimark.md)
 
+# Coming soon
+
+- [Notifications, Webhooks, Mailing, Custodial Wallets](./kodadot-notification-webhook-mailing-custodial-wallet.md)
+
 # Ecosystem
 
 Join our [KodaDot Developers channel at Telegram](https://t.me/kodadot_eco)
