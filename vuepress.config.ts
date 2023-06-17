@@ -20,7 +20,19 @@ module.exports = {
     repoLabel: 'kodadot/nft-gallery',
     navbar: [
       {
-        
+        text: 'Archived -> New site',
+        children: [
+          {
+            text: 'hello.kodadot.xyz',
+            link: 'https://hello.kodadot.xyz'
+          },
+          {
+            text: 'developers.kodadot.xyz',
+            link: 'https://developers.kodadot.xyz'
+          }
+        ],
+      },
+      { 
         text: 'Who We Are',
         children: [
           {
