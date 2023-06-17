@@ -16,7 +16,12 @@ hero:
     - theme: alt
       text: Indexers
       link: /kodadot-indexers
-
+    - theme: alt
+      text: Fandom
+      link: /kodadot-storefront-fandom
+    - theme: alt
+      text: Workers
+      link: /kodadot-workers
 
 features:
   - icon: 🕷️
