@@ -20,3 +20,6 @@ If you want to build any kind of NFT based product, Kodadot is here to help (you
  - What kind of NFT standards are out there? Isn't there only ERC-721?
 
  ## What is an indexer?
+
+
+ ## What is IPFS?

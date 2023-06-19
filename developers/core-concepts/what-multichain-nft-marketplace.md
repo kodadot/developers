@@ -1,4 +1,4 @@
-## What are multichain NFTs?
+## What is a multichain NFT marketplace?
  - Multichain NFT marketplaces support trading NFTs across multiple blockchain networks.
  - They allow users to mint, list, and trade NFTs on different blockchains.
  - Users can choose the blockchain network that suits their preferences.
