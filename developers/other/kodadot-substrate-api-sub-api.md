@@ -1,51 +1,47 @@
-# sub-api
 
----
-[SubApi@Github](https://github.com/kodadot/packages/tree/main/sub-api)
 
-<h1 align="center">sub-api</h1>
 
-<h5 align="center">Substrate API with batteries included</h5>
+# Sub API
+
+The `sub-api` is a powerful utility developed by KodaDot for managing connections with multiple parachains in a network. This documentation provides an overview of its key features and shows how to use them effectively.
+
+To use it check out the documentation in the following link: [SubApi@Github](https://github.com/kodadot/packages/tree/main/sub-api)
 
 ## Installation
 
-`yarn add @kodadot1/sub-api`
+To add the `sub-api` package to your project, use the following command:
 
-## Docs
+```
+yarn add @kodadot1/sub-api
+```
 
-### Why this?
+## Features
 
-In KodaDot, we need to manage the connection to the network of multiple parachain. This is a complicated task, and we need a simple way to do it. The old implementation was easy to use but not easy to manage.
+### ApiFactory
 
-That's why we decided to create a new implementation that is more robust and suitable for the other Dotsama builders.
-
-### What's in the box?
-
-**Factory**
-
-The Factory handles a single connection per each parachain.
-To directly connect to a parachain, just call.
+The `ApiFactory` class is responsible for establishing and managing a connection to a parachain. The example below demonstrates how to establish a connection to a parachain:
 
 ```ts
 import { ApiFactory } from '@kodadot1/sub-api'
+
 const endpoint = 'wss://kusama-rpc.polkadot.io'
 const api = await ApiFactory.useApiInstance(endpoint)
 ```
 
-**InstaApi**
+### InstaApi
 
-Feeling a bit adventurous? You can use the `InstaApi` and feel free to manage the connection directly.
-Suitable also for an app with a single connection.
+The `InstaApi` class provides you with direct control over the connection management process. This class is suitable for applications requiring only a single connection:
 
 ```ts
 import { InstantApi as Api } from '@kodadot1/sub-api'
+
 const endpoint = 'wss://kusama-rpc.polkadot.io'
 const API = await (new API(endpoint)).getInstance()
 ```
 
-**Helpers**
+### Helpers
 
-There is a set of helpers to make your life easier.
+The `sub-api` package comes with a set of helper functions that make common tasks easier:
 
 ```ts
 import { balanceOf, currentBlock } from '@kodadot1/sub-api'
@@ -56,33 +52,25 @@ const block = await currentBlock(API)
 console.log(balance, block)
 ```
 
-**Hooks**
+### Hooks
 
-On API Connect hook is available.
+The package provides an `onApiConnect` hook that gets triggered when the API connects:
 
 ```ts
 import { onApiConnect } from '@kodadot1/sub-api'
 ```
 
-**Types**
+### Types
 
-There is just a set of more readable types.
-
-```ts
-export type Extrinsic = SubmittableExtrinsic<'promise'>
-```
+More readable type definitions are provided in the `sub-api` package. For instance, `SubmittableExtrinsic<'promise'>` is exported as `Extrinsic`.
 
 ## Usage Examples
 
-Import Factory object like
+Here is an example demonstrating how to fetch chain properties using the `ApiFactory`:
 
 ```ts
 import { ApiFactory } from '@kodadot1/sub-api'
-```
 
-Get an API instance for the selected URL and fetch the data in the component.
-
-```ts
 async function getChainProperties() {
   const endpoint = 'wss://kusama-rpc.polkadot.io'
   const API = await ApiFactory.useApiInstance(endpoint)
@@ -91,16 +79,16 @@ async function getChainProperties() {
 }
 ```
 
-Alternatively, you can listen to the `connect` event and get the data only when it is ready.
+In the following example, the `onApiConnect` hook is used to listen for the `connect` event and retrieve data when the connection is ready:
 
 ```ts
 import { onApiConnect } from '@kodadot1/sub-api'
-```
 
-```ts
 const endpoint = 'wss://kusama-rpc.polkadot.io'
 onApiConnect(endpoint, async (API) => {
   const block = await API.query.system.number()
   console.log('[API] Connected to', endpoint, 'block', block)
 })
 ```
+
+These examples should provide you with a solid foundation to start using the `sub-api` package in your application. The `sub-api` package is an integral part of KodaDot's developer toolbox and should simplify the task of connecting to and interacting with multiple parachains.
