@@ -22,6 +22,7 @@ features:
   - icon: ⛏️
     title: Minimark
     details: Minting various NFT bundles
+    link: 
   - icon: 🔍
     title: PolySearch
     details: Ultimate super charged search to search multi-chain NFT marketplaces
