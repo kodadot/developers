@@ -5,25 +5,14 @@ layout: home
 hero:
   name: "KodaDot "
   text: "developers guide"
-  tagline: One Stop Shop for Polkadot NFTs
+  tagline: Open Source Multichain NFT Marketplace
   actions:
     - theme: brand
       text: Get Started
       link: /get-started/index
     - theme: alt
-      text: PolySearch
-    - theme: alt
-      text: UniQuery
-      link: /kodadot-api-uniquery
-    - theme: alt
-      text: Indexers
-      link: /kodadot-indexers
-    - theme: 
-      text: Fandom
-      link: /kodadot-storefront-fandom
-    - theme: 
-      text: Workers
-      link: /kodadot-workers
+      text: View on Github
+      link: https://github.com/kodadot
 
 features:
   - icon: 🕷️
