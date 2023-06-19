@@ -1,5 +1,9 @@
 # Indexers
 
+
+Anyone is free to use our indexers
+We are currently running 12 indexers and counting
+
 Our premium partner providing us current SubSquid for bleeding cutting edge magic!
 
 List of Indexers we are using to power KodaDot:
