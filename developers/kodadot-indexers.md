@@ -10,4 +10,5 @@ List of Indexers we are using powering KodaDot
 - [Moonbeam](https://github.com/kodadot/click)
 
 
-Update me 
+ - anyone is free to use our indexers
+ - we are currently running 12 indexers and counting

@@ -18,3 +18,5 @@ If you want to build any kind of NFT based product, Kodadot is here to help (you
 
 ## What does it mean for an NFT to have a different kind of standard?
  - What kind of NFT standards are out there? Isn't there only ERC-721?
+
+ ## What is an indexer?

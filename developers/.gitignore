@@ -1,3 +1,4 @@
 yarn.lock
 .vitepress/cache
 pnpm-lock.yaml
+node_modules
