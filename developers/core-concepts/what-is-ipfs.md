@@ -30,9 +30,5 @@ As a developer, IPFS offers several features and functionalities that can enhanc
 **Getting Started**
 To start using IPFS as a developer, you'll need to install the IPFS software development kit (SDK) and interact with the IPFS network programmatically. The IPFS documentation provides detailed information on how to set up IPFS, interact with the API, and utilize various libraries and frameworks that integrate with IPFS.
 
-Additionally, you can leverage existing IPFS-based tools and libraries to simplify development, such as IPFS.js for JavaScript-based applications, or use IPFS gateways for
+Additionally, you can leverage existing IPFS-based tools and libraries to simplify development, such as IPFS.js for JavaScript-based applications, or use IPFS gateways for accessing IPFS content through standard web protocols.
 
- accessing IPFS content through standard web protocols.
-
-**Conclusion**
-IPFS offers a revolutionary approach to content storage and distribution, enabling decentralized, resilient, and censorship-resistant applications. By understanding the core concepts and leveraging IPFS in your development projects, you can build robust and scalable applications that take advantage of the benefits offered by a peer-to-peer network. Explore the IPFS documentation and community resources to dive deeper into IPFS and unlock its full potential for your development needs.
