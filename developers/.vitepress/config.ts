@@ -68,7 +68,7 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: 'What Are NFTs', link: '/core-concepts/what-are-nfts' },
-          { text: 'Multichain NFT Marketplace', link: '/core-concepts/what-multichain-nft-marketplace' },
+          { text: 'What is a Multichain NFT Marketplace?', link: '/core-concepts/what-multichain-nft-marketplace' },
           { text: 'The KodaDot Stack',
             collapsed: true,
             items: [
