@@ -122,8 +122,8 @@ export default defineConfig({
       {
         text: '🔎 Uniquery',
         collapsed: false,
+        link: '/uniquery/index',
         items: [
-          { text: '🔍 Overview', link: '/uniquery/index' },
           { text: '🏬 KodaDot Storefront Fandom', link: '/uniquery/kodadot-storefront-fandom' },
         ],
       },
