@@ -46,7 +46,7 @@ export default defineConfig({
       copyright: 'Copyright © 2023-present SubWork membas'
     },
     nav: [
-      { text: 'Get Started', link: '/get-started' },
+      { text: 'Get Started', link: '/get-started/index' },
       { text: 'Swag shop', link: 'https://shop.kodadot.xyz' },
       { text: 'NFT marketplace', link: 'https://kodadot.xyz'},
     ],
