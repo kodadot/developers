@@ -55,9 +55,11 @@ export default defineConfig({
       {
         text: 'Getting Started',
         items: [
+          { text: 'Overview', link: '/get-started/index' },
           { text: 'Before You Get Started', link: '/get-started/before-you-get-started' },
-          { text: 'Who We Are', link: '/get-started/kodadot-who-we-are' },
-          { text: 'Our Mission', link: '/get-started/kodadot-mission' },
+          { text: 'Who Is Kodadot', link: '/get-started/kodadot-who' },
+          { text: 'Learn More about KodaDot', link: 'https://hello.kodadot.xyz' },
+
         ],
       },
       {
@@ -76,8 +78,15 @@ export default defineConfig({
             text: 'Polkadot & Kusama',
             items: [
               { text: 'What are Polkadot and Kusama', link: '/core-concepts/polkadot/what-are-polkadot-and-kusama' },
-              { text: 'Transfering NFTs via Chains', link: '/core-concepts/polkadot/transfering-nfts-via-chains' },
               { text: 'Polkadot NFTs', link: '/core-concepts/polkadot/polkadot-nfts' },
+              { text: 'Transfering NFTs via Chains', link: '/core-concepts/polkadot/transfering-nfts-via-chains' },
+              {
+                text: 'Parachains',
+                items: [
+                  { text: 'Substrate Parachains', link: '/core-concepts/parachains/substrate-parachains' },
+                  { text: 'KodaDot Substrate API', link: '/core-concepts/parachains/kodadot-substrate-api' },
+                ],
+              },
             ],
           },
           {
@@ -85,13 +94,6 @@ export default defineConfig({
             items: [
               { text: 'What is an Indexer', link: '/core-concepts/indexer/what-is-an-indexer' },
               { text: 'KodaDot Indexers', link: '/core-concepts/indexer/kodadot-indexers' },
-            ],
-          },
-          {
-            text: 'Parachains',
-            items: [
-              { text: 'Substrate Parachains', link: '/core-concepts/parachains/substrate-parachains' },
-              { text: 'KodaDot Substrate API', link: '/core-concepts/parachains/kodadot-substrate-api' },
             ],
           },
         ],
@@ -118,7 +120,10 @@ export default defineConfig({
       {
         text: 'Other',
         items: [
-          { text: 'Notification, Webhook, Mailing, Custodial Wallet SDK', link: '/other/kodadot-notification-webhook-mailing-custodial-wallet' },
+          { text: 'Upcoming Features', link: '/other/kodadot-notification-webhook-mailing-custodial-wallet' },
+          { text: 'KodaDot PressKit', link: 'https://github.com/kodadot/kodadot-presskit' },
+          { text: 'Be part of KodaDot', link: 'https://hello.kodadot.xyz/be-part-of-kodadot/kodadots-programs'}
+
         ],
       },
     ],
