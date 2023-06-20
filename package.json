@@ -1,6 +1,6 @@
 {
   "name": "docs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": "git@github.com:kodadot/docs.git",
   "author": "Matej yangwao <ybdaba@gmail.com>",
