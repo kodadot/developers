@@ -83,8 +83,8 @@ export default defineConfig({
               {
                 text: 'Parachains',
                 items: [
-                  { text: 'Substrate Parachains', link: '/core-concepts/parachains/substrate-parachains' },
-                  { text: 'KodaDot Substrate API', link: '/core-concepts/parachains/kodadot-substrate-api' },
+                  { text: 'Substrate Parachains', link: '/core-concepts/polkadot/parachains/substrate-parachains' },
+                  { text: 'KodaDot Substrate API', link: '/core-concepts/polkadot/parachains/kodadot-substrate-api' },
                 ],
               },
             ],

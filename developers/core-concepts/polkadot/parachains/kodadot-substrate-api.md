@@ -1,6 +1,3 @@
-
-
-
 # Sub API
 
 The `sub-api` is a powerful utility developed by KodaDot for managing connections with multiple parachains in a network. This documentation provides an overview of its key features and shows how to use them effectively.
