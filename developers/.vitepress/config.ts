@@ -69,12 +69,27 @@ export default defineConfig({
         items: [
           { text: 'What Are NFTs', link: '/core-concepts/what-are-nfts' },
           { text: 'Multichain NFT Marketplace', link: '/core-concepts/what-multichain-nft-marketplace' },
-          {
-            text: 'IPFS',
+          { text: 'The KodaDot Stack',
             collapsed: true,
             items: [
-              { text: 'What is IPFS', link: '/core-concepts/ipfs/what-is-ipfs' },
-              { text: 'Faster IPFS Fetch', link: '/core-concepts/ipfs/ipfs-fetch-faster' },
+              { text: 'Overview', link: '/core-concepts/kodadot-stack/index' },
+              { text: 'KodaDot Stack', link: '/core-concepts/kodadot-stack/kodadot-stack' },
+              {
+                text: 'IPFS',
+                collapsed: true,
+                items: [
+                  { text: 'What is IPFS', link: '/core-concepts/ipfs/what-is-ipfs' },
+                  { text: 'Faster IPFS Fetch', link: '/core-concepts/ipfs/ipfs-fetch-faster' },
+                ],
+              },
+              {
+                text: 'Indexer',
+                collapsed: true,
+                items: [
+                  { text: 'What is an Indexer', link: '/core-concepts/indexer/what-is-an-indexer' },
+                  { text: 'KodaDot Indexers', link: '/core-concepts/indexer/kodadot-indexers' },
+                ],
+              },
             ],
           },
           {
@@ -101,14 +116,6 @@ export default defineConfig({
                   { text: 'KodaDot Substrate API', link: '/core-concepts/polkadot/parachains/kodadot-substrate-api' },
                 ],
               },
-            ],
-          },
-          {
-            text: 'Indexer',
-            collapsed: true,
-            items: [
-              { text: 'What is an Indexer', link: '/core-concepts/indexer/what-is-an-indexer' },
-              { text: 'KodaDot Indexers', link: '/core-concepts/indexer/kodadot-indexers' },
             ],
           },
         ],
