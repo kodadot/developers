@@ -54,24 +54,25 @@ export default defineConfig({
     sidebar: [
       {
         text: '🚀 Getting Started',
+        link: '/get-started/index',
         collapsed: false,
         items: [
-          { text: '🔎 Overview', link: '/get-started/index' },
-          { text: '📚 Before You Get Started', link: '/get-started/before-you-get-started' },
           { text: '❓ What Is Kodadot', link: '/get-started/kodadot-who' },
+          { text: '📚 Before You Get Started', link: '/get-started/before-you-get-started' },
           { text: '🌐 Learn More about KodaDot', link: 'https://hello.kodadot.xyz' },
         ],
       },
       {
         text: '💡 Core Concepts',
         collapsed: false,
+        link: '/core-concepts/index',
         items: [
-          { text: '🖼️ What Are NFTs', link: '/core-concepts/what-are-nfts' },
+          { text: '🖼️ What Are NFTs?', link: '/core-concepts/what-are-nfts' },
           { text: '🌐 What is a Multichain NFT Marketplace?', link: '/core-concepts/what-multichain-nft-marketplace' },
           { text: '🛠️ The KodaDot Stack',
             collapsed: true,
+            link: '/core-concepts/kodadot-stack/index',
             items: [
-              { text: '🔎 Overview', link: '/core-concepts/kodadot-stack/index' },
               {
                 text: '🔗 IPFS',
                 collapsed: true,

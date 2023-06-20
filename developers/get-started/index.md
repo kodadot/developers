@@ -28,23 +28,8 @@ We believe in the power of collaboration and community. Join our [KodaDot Develo
 
 ## Understanding Core Concepts
 
-The KodaDot ecosystem is built around several core concepts that work in tandem to provide a seamless experience. Understanding these concepts will equip you with the knowledge to navigate and make the most of the platform:
+The KodaDot ecosystem is built around several core concepts that work in tandem to provide a seamless experience. Understanding these concepts will equip you with the knowledge to navigate and make the most of the platform. Check them out [link ->](/core-concepts/index)
 
-- [What are NFTs?](/core-concepts/what-are-nfts.md) - The foundation of our platform.
-- [What is a Multichain NFT Marketplace?](/core-concepts/what-multichain-nft-marketplace.md) - The basis of our diverse offering.
-- [Interacting with IPFS](/core-concepts/ipfs/what-is-ipfs.md)
-    - [How to Fetch IPFS Data Faster](/core-concepts/ipfs/ipfs-fetch-faster.md)
-- [Understanding Workers](/core-concepts/workers/kodadot-workers.md) - Learn how our system processes tasks.
-- [Exploring Polkadot and Kusama](/core-concepts/polkadot/what-are-polkadot-and-kusama.md)
-    - [Transferring NFTs Via Chains](/core-concepts/polkadot/transfering-nfts-via-chains.md)
-    - [Understanding Polkadot NFTs](/core-concepts/polkadot/polkadot-nfts.md)
-    -
 
- [Substrate and Parachains](/core-concepts/polkadot/parachains/substrate-parachains.md)
-        - [Introduction to the Sub-API](/core-concepts/polkadot/parachains/kodadot-substrate-api.md)
-- [Getting to Know Indexers](/core-concepts/indexer/what-is-an-indexer.md)
-    - [KodaDot's Indexers](/core-concepts/indexer/kodadot-indexers.md)
-
-Explore each concept at your own pace and in your preferred order to gain a comprehensive understanding of the KodaDot platform.
 
 Welcome to the world of KodaDot, where we reimagine NFTs!
