@@ -39,4 +39,4 @@ Specific packages in the KodaDot ecosystem, such as vuex-options and sub-api, ar
 Find out more about these packages in the KodaDot [repository](https://github.com/kodadot).
 
 ## Conclusion
-We hope this overview provides useful insights into the KodaDot tech stack. For more detailed information, please reference the original [KodaDot Frontier article](https://kodadot-frontier.medium.com/the-tech-stack-at-kodadot-1211121) and feel free to join our [Discord community](https://discord.com/invite/kodadot) if you have further questions or need additional help.
+We hope this overview provides useful insights into the KodaDot tech stack. For more detailed information, please reference the original [KodaDot Frontier article](https://blog.kodadot.xyz/the-tech-stack-at-kodadot-8a83880f8624) and feel free to join our [Discord community](https://discord.com/invite/kodadot) if you have further questions or need additional help.
