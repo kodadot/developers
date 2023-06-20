@@ -53,37 +53,81 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'KodaDot builders tech stack',
+        text: 'Getting Started',
         items: [
-          { text: 'Sub-Api', link: '/kodadot-substrate-api-sub-api' },
-          { text: 'Uniquery', link: '/kodadot-api-uniquery' },
-          { text: 'Minimark', link: '/kodadot-minter-minimark'},
-          { text: 'PolySearch', link: '/kodadot-search-polysearch'},
-          { text: 'Indexers', link: '/kodadot-indexers'},
-          { text: 'Workers', link: '/kodadot-workers'},
-          { text: 'Fandom', link: '/kodadot-storefront-fandom'}
-        ]
+          { text: 'Overview', link: '/get-started/index' },
+          { text: 'Before You Get Started', link: '/get-started/before-you-get-started' },
+          { text: 'Who Is Kodadot', link: '/get-started/kodadot-who' },
+          { text: 'Learn More about KodaDot', link: 'https://hello.kodadot.xyz' },
+
+        ],
       },
       {
-        text: 'Funding your hack',
+        text: 'Core Concepts',
         items: [
-          { text: 'Grants', link: 'https://github.com/kodadot/grants'}
-        ]
+          { text: 'What Are NFTs', link: '/core-concepts/what-are-nfts' },
+          { text: 'Multichain NFT Marketplace', link: '/core-concepts/what-multichain-nft-marketplace' },
+          {
+            text: 'IPFS',
+            items: [
+              { text: 'What is IPFS', link: '/core-concepts/ipfs/what-is-ipfs' },
+              { text: 'Faster IPFS Fetch', link: '/core-concepts/ipfs/ipfs-fetch-faster' },
+            ],
+          },
+          {
+            text: 'Polkadot & Kusama',
+            items: [
+              { text: 'What are Polkadot and Kusama', link: '/core-concepts/polkadot/what-are-polkadot-and-kusama' },
+              { text: 'Polkadot NFTs', link: '/core-concepts/polkadot/polkadot-nfts' },
+              { text: 'Transfering NFTs via Chains', link: '/core-concepts/polkadot/transfering-nfts-via-chains' },
+              {
+                text: 'Parachains',
+                items: [
+                  { text: 'Substrate Parachains', link: '/core-concepts/polkadot/parachains/substrate-parachains' },
+                  { text: 'KodaDot Substrate API', link: '/core-concepts/polkadot/parachains/kodadot-substrate-api' },
+                ],
+              },
+            ],
+          },
+          {
+            text: 'Indexer',
+            items: [
+              { text: 'What is an Indexer', link: '/core-concepts/indexer/what-is-an-indexer' },
+              { text: 'KodaDot Indexers', link: '/core-concepts/indexer/kodadot-indexers' },
+            ],
+          },
+        ],
       },
       {
-        text: 'Branding Kit',
+        text: 'Uniquery',
         items: [
-          { text: 'KodaDot PressKit', link: 'https://github.com/kodadot/kodadot-presskit' }
-        ]
+          { text: 'Overview', link: '/uniquery/index' },
+          { text: 'KodaDot Storefront Fandom', link: '/uniquery/kodadot-storefront-fandom' },
+        ],
       },
       {
-        text: 'Learn more about KodaDot',
+        text: 'Minimark',
         items: [
-          { text: 'Hello', link: 'https://hello.kodadot.xyz' },
+          { text: 'Overview', link: '/minimark/index' },
+        ],
+      },
+      {
+        text: 'PolySearch',
+        items: [
+          { text: 'Overview', link: '/polysearch/index' },
+        ],
+      },
+      {
+        text: 'Other',
+        items: [
+          { text: 'Upcoming Features', link: '/other/kodadot-notification-webhook-mailing-custodial-wallet' },
+          { text: 'KodaDot PressKit', link: 'https://github.com/kodadot/kodadot-presskit' },
           { text: 'Be part of KodaDot', link: 'https://hello.kodadot.xyz/be-part-of-kodadot/kodadots-programs'}
-        ]
-      }
+
+        ],
+      },
     ],
+    
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/kodadot/docs' },
@@ -97,3 +141,6 @@ export default defineConfig({
     ]
   }
 })
+
+
+
