@@ -54,21 +54,24 @@ export default defineConfig({
     sidebar: [
       {
         text: 'Getting Started',
+        collapsed: false,
         items: [
           { text: 'Overview', link: '/get-started/index' },
           { text: 'Before You Get Started', link: '/get-started/before-you-get-started' },
-          { text: 'Who Is Kodadot', link: '/get-started/kodadot-who' },
+          { text: 'What Is Kodadot', link: '/get-started/kodadot-who' },
           { text: 'Learn More about KodaDot', link: 'https://hello.kodadot.xyz' },
 
         ],
       },
       {
         text: 'Core Concepts',
+        collapsed: false,
         items: [
           { text: 'What Are NFTs', link: '/core-concepts/what-are-nfts' },
           { text: 'Multichain NFT Marketplace', link: '/core-concepts/what-multichain-nft-marketplace' },
           {
             text: 'IPFS',
+            collapsed: true,
             items: [
               { text: 'What is IPFS', link: '/core-concepts/ipfs/what-is-ipfs' },
               { text: 'Faster IPFS Fetch', link: '/core-concepts/ipfs/ipfs-fetch-faster' },
@@ -76,6 +79,7 @@ export default defineConfig({
           },
           {
             text: 'Polkadot & Kusama',
+            collapsed: true,
             items: [
               { text: 'What are Polkadot and Kusama', link: '/core-concepts/polkadot/what-are-polkadot-and-kusama' },
               { text: 'Polkadot NFTs', link: '/core-concepts/polkadot/polkadot-nfts' },
@@ -91,6 +95,7 @@ export default defineConfig({
           },
           {
             text: 'Indexer',
+            collapsed: true,
             items: [
               { text: 'What is an Indexer', link: '/core-concepts/indexer/what-is-an-indexer' },
               { text: 'KodaDot Indexers', link: '/core-concepts/indexer/kodadot-indexers' },
@@ -100,6 +105,7 @@ export default defineConfig({
       },
       {
         text: 'Uniquery',
+        collapsed: false,
         items: [
           { text: 'Overview', link: '/uniquery/index' },
           { text: 'KodaDot Storefront Fandom', link: '/uniquery/kodadot-storefront-fandom' },
@@ -107,18 +113,21 @@ export default defineConfig({
       },
       {
         text: 'Minimark',
+        collapsed: false,
         items: [
           { text: 'Overview', link: '/minimark/index' },
         ],
       },
       {
         text: 'PolySearch',
+        collapsed: false,
         items: [
           { text: 'Overview', link: '/polysearch/index' },
         ],
       },
       {
         text: 'Other',
+        collapsed: true,
         items: [
           { text: 'Upcoming Features', link: '/other/kodadot-notification-webhook-mailing-custodial-wallet' },
           { text: 'KodaDot PressKit', link: 'https://github.com/kodadot/kodadot-presskit' },
