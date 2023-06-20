@@ -1,0 +1,11 @@
+:root {
+    --c-brand: darkred;
+    --c-brand-light: red;
+    --font-family-base: Georgia, serif;
+    --vp-c-brand: rgb(230, 0, 122);
+    --vp-c-brand-light: #42ba96;
+    --vp-home-hero-name-color: blue;
+    --vp-home-hero-name-color: transparent;
+    --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #bd34fe, #41d1ff);
+  
+  }
