@@ -78,6 +78,16 @@ export default defineConfig({
             ],
           },
           {
+            text: 'Ethereum',
+            collapsed: true,
+            items: [
+              { text: 'What is Ethereum?', link: '/core-concepts/ethereum/what-is-ethereum' },
+              { text: 'Ethereum NFTs', link: '/core-concepts/ethereum/nft-standards-on-ethereum' },
+              { text: 'What is ERC-721?', link: '/core-concepts/ethereum/what-is-erc-721' },
+              { text: 'What is ERC-6551?', link: '/core-concepts/ethereum/what-is-erc-6551' },
+            ],
+          },
+          {
             text: 'Polkadot & Kusama',
             collapsed: true,
             items: [
