@@ -73,21 +73,20 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: 'Overview', link: '/core-concepts/kodadot-stack/index' },
-              { text: 'KodaDot Stack', link: '/core-concepts/kodadot-stack/kodadot-stack' },
               {
                 text: 'IPFS',
                 collapsed: true,
                 items: [
-                  { text: 'What is IPFS', link: '/core-concepts/ipfs/what-is-ipfs' },
-                  { text: 'Faster IPFS Fetch', link: '/core-concepts/ipfs/ipfs-fetch-faster' },
+                  { text: 'What is IPFS', link: '/core-concepts/kodadot-stack/ipfs/what-is-ipfs' },
+                  { text: 'Faster IPFS Fetch', link: '/core-concepts/kodadot-stack/ipfs/ipfs-fetch-faster' },
                 ],
               },
               {
                 text: 'Indexer',
                 collapsed: true,
                 items: [
-                  { text: 'What is an Indexer', link: '/core-concepts/indexer/what-is-an-indexer' },
-                  { text: 'KodaDot Indexers', link: '/core-concepts/indexer/kodadot-indexers' },
+                  { text: 'What is an Indexer', link: '/core-concepts/kodadot-stack/indexer/what-is-an-indexer' },
+                  { text: 'KodaDot Indexers', link: '/core-concepts/kodadot-stack/indexer/kodadot-indexers' },
                 ],
               },
             ],

@@ -2,6 +2,8 @@
 
 KodaDot relies on a range of application frameworks and technologies to keep our platform operational. This document provides a high-level overview of the key elements of our tech stack, designed to help developers new to the project familiarize themselves with our infrastructure.
 
+Check out [KodaDot's NFT marketplace repository](https://github.com/kodadot/nft-gallery) to get a quick overview on how the project is structured.
+
 ## Frontend Framework: NuxtJS
 NuxtJS is our frontend framework of choice. It is an abstraction layer over VueJS, making it simpler to create a web application. It offers handy features like easy setup for SPA, statically generated, or server-side rendered applications. In addition, it provides additional lifecycle hooks (e.g. `asyncData()`) with specialized views and an array of community modules.
 
@@ -12,7 +14,9 @@ To learn more about NuxtJS, check out their [official documentation](https://nux
 ## Indexers: SubQuery
 SubQuery is a service used for accessing indexed and queryable blockchain data. It eliminates the overhead of building a custom backend for Polkadot, Substrate, and Avalanche projects. At KodaDot, we use a custom implementation of the SubQuery indexer as our primary API for the RMRK implementation.
 
-To understand more about indexers, read through the [SubQuery documentation](https://docs.subquery.network/).
+To understand more about indexers, read through the [SubQuery documentation](https://academy.subquery.network/).
+
+To understand more about indexers, go to the page [What is an indexer?](/core-concepts/kodadot-stack/indexer/what-is-an-indexer)
 
 ## Serverless Functions
 Serverless functions help us abstract server-side logic into isolated functions, making it easy to access through API endpoints. This includes tasks like receiving keys and pinning.
@@ -25,9 +29,9 @@ We use Netlify on our test environment and Cloudflare Pages in production. Both 
 Learn more about [Netlify](https://www.netlify.com/docs/) and [Cloudflare Pages](https://developers.cloudflare.com/pages/).
 
 ## Data Storage
-In line with our preference for decentralized solutions, we heavily rely on IPFS for our data storage needs, using Estuary as a pinning service. We also use Permafrost, which uses Arweave under the hood, as an alternative to IPFS.
+In line with our preference for decentralized solutions, we heavily rely on IPFS for our data storage needs, using nft.storage as a pinning service.
 
-Learn more about [IPFS](https://docs.ipfs.io/), [Estuary](https://docs.estuary.tech/), and [Permafrost](https://permafrost.xyz/docs).
+Learn more about [IPFS](https://docs.ipfs.io/) and [nft.storage](https://nft.storage/)
 
 ## Packages
 Specific packages in the KodaDot ecosystem, such as vuex-options and sub-api, are used to boost developer efficiency and provide a singleton wrapper for the Substrate API, respectively.
