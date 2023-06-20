@@ -16,7 +16,7 @@ With KodaDot's NFT infrastructure, you can do much more than just mint NFTs. We 
 - [Sub-Api](/core-concepts/polkadot/parachains/kodadot-substrate-api.md) - A tool to interact with Polkadot and Kusama chains.
 - [PolySearch](/polysearch/index.md) - A cross-chain search platform.
 - [Fandom](/uniquery/kodadot-storefront-fandom.md) - A fan-driven marketplace and community.
-- [Indexers](/core-concepts/indexer/kodadot-indexers.md) - Essential for fetching data from the blockchain.
+- [Indexers](/core-concepts/kodadot-stack/indexer/kodadot-indexers.md) - Essential for fetching data from the blockchain.
 - [Workers](/core-concepts/workers/kodadot-workers.md) - Responsible for processing tasks in the background.
 - [Minting - MiniMark](/minimark/index.md) - Our NFT minting tool.
 
