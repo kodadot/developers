@@ -140,12 +140,12 @@ export default defineConfig({
       },
       {
         text: '👭 How to start contributing on KodaDot?',
-        collapsed: false,
+        collapsed: true,
         link: '/contributing/index',
         items: [
+          { text: 'Why should you contribute?', link: '/contributing/why-contribute'},
+          { text: 'Understanding the lifecycle of an issue', link: '/contributing/issue-lifecycle'},
           { text: 'Effective communication', link: '/contributing/effective-communication'},
-          { text: 'Issue Lifecycle', link: '/contributing/issues-lifecycle'},
-          { text: 'Why should you contribute?', link: '/contributing/why-contrib'},
           { text: '🤝 For other types of contributions', link: 'https://hello.kodadot.xyz/be-part-of-kodadot/kodadots-programs'},
         ]
       },
