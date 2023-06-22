@@ -264,30 +264,3 @@ Currently supported networks are `Kusama, Westend, statemine, westmint`.
 Do you want to add more networks? [Open a PR on vuex-options](https://github.com/kodadot/packages)
 
 
-
-## Contributing Guidelines
-
-Before submitting your pull request, read up on our [documentation](https://docs.kodadot.xyz) and make sure it follows:
-
-- [Code of Conduct](https://github.com/kodadot/nft-gallery/blob/main/CODE_OF_CONDUCT.md)
-- [Contribution Guidelines](https://github.com/kodadot/nft-gallery/blob/main/CONTRIBUTING.md)
-- [Style Guide](https://github.com/kodadot/nft-gallery/blob/main/STYLE_GUIDE.md)
-
-##### **Failure to do so can lead to your PR being rejected**
-
-We [reward](https://github.com/kodadot/nft-gallery/blob/main/REWARDS.md) our contributors in $KSM for their time and effort with every issue they solve. If you're finding yourself to be more involved with KodaDot, we are always [hiring](https://github.com/kodadot/nft-gallery/blob/main/HIRING.md).
-
- ## Meta-Hours
-
- We have bi-weekly meetings with contributors of KodaDot to share each other's progress as well as future goals in our [Discord sever](https://discord.gg/kodadot). Before speaking, please make sure you're prepared as a [speaker](meta-hours.md). 
-
-Is this your first time joining? Feel free to catch up on our [past Meta_Hours](https://github.com/kodadot/nft-gallery/discussions/categories/meta-hours)! 
-
-
-
-
-
-## Refeferences
-- This is original posting from our [Meta_Hours 2](https://github.com/kodadot/nft-gallery/discussions/1699), bi-weekly digests on progress and development
-- [Github Repository KodaDot/NFT-gallery](https://github.com/kodadot/nft-gallery/issues/)
-
