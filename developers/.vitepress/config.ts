@@ -130,24 +130,21 @@ export default defineConfig({
       {
         text: '📝 Minimark',
         collapsed: false,
-        items: [
-          { text: '🔍 Overview', link: '/minimark/index' },
-        ],
+        link: '/minimark/index',
       },
       {
-        text: '🔍 PolySearch',
+        text: '🔎 PolySearch',
         collapsed: false,
-        items: [
-          { text: '🔍 Overview', link: '/polysearch/index' },
-        ],
+        link: '/polysearch/index',
+
       },
       {
         text: '📄 Other',
         collapsed: true,
         items: [
+          { text: '🔮 Upcoming Features', link: '/other/kodadot-notification-webhook-mailing-custodial-wallet' },
           { text: '☀️ How to start contributing on KodaDot?', link: '/other/contributing-on-kodadot' },
           { text: '🤝 Be part of KodaDot', link: 'https://hello.kodadot.xyz/be-part-of-kodadot/kodadots-programs'},
-          { text: '🔮 Upcoming Features', link: '/other/kodadot-notification-webhook-mailing-custodial-wallet' },
           { text: '🗞️ KodaDot PressKit', link: 'https://github.com/kodadot/kodadot-presskit' },
         ],
       },
