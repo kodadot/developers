@@ -139,12 +139,18 @@ export default defineConfig({
 
       },
       {
+        text: '👭 How to start contributing on KodaDot?',
+        collapsed: false,
+        link: '/contributing/index',
+        items: [
+          { text: '🤝 For other contributions checkout', link: 'https://hello.kodadot.xyz/be-part-of-kodadot/kodadots-programs'},
+        ]
+      },
+      {
         text: '📄 Other',
         collapsed: true,
         items: [
           { text: '🔮 Upcoming Features', link: '/other/kodadot-notification-webhook-mailing-custodial-wallet' },
-          { text: '☀️ How to start contributing on KodaDot?', link: '/other/contributing-on-kodadot' },
-          { text: '🤝 Be part of KodaDot', link: 'https://hello.kodadot.xyz/be-part-of-kodadot/kodadots-programs'},
           { text: '🗞️ KodaDot PressKit', link: 'https://github.com/kodadot/kodadot-presskit' },
         ],
       },
