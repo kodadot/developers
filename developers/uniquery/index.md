@@ -7,6 +7,9 @@ outline: deep
 
 [Universal GraphQL query builder for KodaDot](https://github.com/kodadot/uniquery)
 
+https://blog.kodadot.xyz/explore-multi-chain-nfts-with-kodadot-1fc0c9a50c26
+
+
 [![npm version][npm-version-src]][npm-version-href]
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
 [![Github Actions][github-actions-src]][github-actions-href]

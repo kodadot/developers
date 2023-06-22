@@ -143,6 +143,9 @@ export default defineConfig({
         collapsed: false,
         link: '/contributing/index',
         items: [
+          { text: 'Effective communication', link: '/contributing/effective-communication'},
+          { text: 'Issue Lifecycle', link: '/contributing/issues-lifecycle'},
+          { text: 'Why should you contribute?', link: '/contributing/why-contrib'},
           { text: '🤝 For other types of contributions', link: 'https://hello.kodadot.xyz/be-part-of-kodadot/kodadots-programs'},
         ]
       },
