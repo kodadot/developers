@@ -62,7 +62,7 @@ You can also contribute in ways beyond development. Check out our guide on [Othe
 
 Join our bi-weekly meetings with KodaDot contributors to share progress and discuss future goals on our [Discord server](https://discord.gg/kodadot). Get ready as a [speaker](meta-hours.md) or catch up on our [past Meta_Hours](https://github.com/kodadot/nft-gallery/discussions/categories/meta-hours).
 
-## Refeferences
+## References
 - Original post from our [Meta_Hours 2](https://github.com/kodadot/nft-gallery/discussions/1699), bi-weekly digests on progress and development
 - [Github Repository KodaDot/NFT-gallery](https://
 

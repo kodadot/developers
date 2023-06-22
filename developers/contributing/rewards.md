@@ -1,4 +1,4 @@
-## Rewards
+# Rewards
 
 To scale our development and operations, we prefer paid trials to know developers better and fit the team. The more your PRs get merged to the `main` branch, the **more likely you'll be part of the inner team.**
 On-demand or part-time contributions are welcome, and we will reward them in $DOT.
