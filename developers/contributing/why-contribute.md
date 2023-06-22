@@ -1,20 +1,24 @@
-## Why Should You Contribute?
-### Bounty Rewards
-We offer bouties starting from **$50** up to **$1200 USD**, with our most popular issues being **$100 USD**. The more complex the issue is, the more you'll get rewarded.
+# Reasons to Contribute to KodaDot: An Open-Source Ecosystem
 
-You can feel free to take a peak at our [current bounties](https://github.com/kodadot/nft-gallery/labels) in our GitHub to get started!
+At KodaDot, we believe in creating a flexible, rewarding, and community-oriented open-source ecosystem. There are many reasons to contribute to KodaDot, and here are the top five:
 
+## 1. Bounty Rewards
+We offer bounty rewards that range from **$50 to $1200 USD**. We determine the size of the bounty based on the complexity of the task—the more challenging the task, the larger the reward. Our most frequently awarded bounty is **$100 USD**. 
 
+Interested? Check out our [current bounties](https://github.com/kodadot/nft-gallery/labels) on our GitHub page to get started!
 
-### Flexibility
-Don't have time for a second job? We got you. 
-Everyone has a side hustle nowadays and with the **gig economy**, this is  how we can operate more efficiently. Here at KodaDot, **we don't hold anyone full-time, nor do we track hours.** Come and go whenever you want.
+## 2. Flexibility
+Searching for a side gig that can flex around your primary commitments? KodaDot offers just that. With the ethos of the **gig economy** in mind, we operate on efficiency rather than stringent schedules. Here at KodaDot, **we don't have full-time obligations nor do we track hours**. Contribute at your own pace, on your own time.
 
-### Challenging Puzzles
-Our challenging issues will push you to think deeply about solutions and force you to learn a thing or two along the way. The mental stimulation is something you won't get on your day-to-day office jobs, so this is where we come in.
+## 3. Challenging Puzzles
+KodaDot provides the opportunity to engage with challenging tasks that encourage deep thinking and problem-solving. This level of mental stimulation and the consequent learning are aspects that standard office jobs may not offer. KodaDot ensures you're constantly engaged, learning, and evolving.
 
-### Sense of Community
-Collaboration is an important part of contributing. Your name becomes known throughout the community when you make pull requests, ask questions, or even hop on a call for a minute or two. Everyone who contributes to KodaDot becomes a member of the family. You'll find others who are working on challenges similar to yours, as well as those that are struggling. This is where you enter the picture. We're all here for each other, and we want to see each other succeed. KodaDot will become synonymous with a sense of belonging.
+## 4. Community Engagement
+At KodaDot, we place great emphasis on collaboration. As you contribute, engage in discussions, and interact with the community, your presence becomes recognized. Every KodaDot contributor becomes a part of our community—sharing successes, facing challenges, and growing together. Our supportive and collaborative platform provides a strong sense of belonging that sets KodaDot apart.
 
-### Contribution to Open Source
-**Public proof of contribution** is arguably one of the most important things when trying to land your first tech job. Focusing on a person's GitHub is more telling of ones' skillset than reading a PDF. Rather than blindly trusting resumes, you can judge off of what a person has contributed publicly.
+## 5. Contribution to Open Source
+Contributing to open-source projects like KodaDot provides a **public proof of contribution**. This is a powerful asset when you're looking to land your first tech job or advance your career. A strong GitHub profile can often serve as a more accurate indicator of a person's skill set than a traditional resume. By contributing publicly to KodaDot, you showcase your skills and abilities in a concrete, verifiable manner.
+
+---
+
+If these reasons resonate with you, we invite you to join our community and start contributing. KodaDot welcomes all willing hands and minds to contribute towards building a more robust, inclusive, and innovative open-source ecosystem.

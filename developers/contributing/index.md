@@ -1,3 +1,5 @@
+![KodaDot_logo_v3](/assets/koda-v3.png)
+
 # How to Start Contributing to KodaDot
 
 KodaDot is an open-source NFT marketplace where anyone, including developers, can contribute. This guide will provide a walkthrough on how to start contributing to KodaDot.

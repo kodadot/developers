@@ -145,8 +145,12 @@ export default defineConfig({
         items: [
           { text: 'Why should you contribute?', link: '/contributing/why-contribute'},
           { text: 'Understanding the lifecycle of an issue', link: '/contributing/issue-lifecycle'},
-          { text: 'Get Started', link: '/contributing/how-to-start-contributing'},
           { text: 'Effective communication', link: '/contributing/effective-communication'},
+          { text: 'Contributing', link: '/contributing/contributing'},
+          { text: 'Rewards', link: '/contributing/rewards'},
+          { text: 'Leaderboard', link: '/contributing/leaderboard'},
+          { text: 'Burn Rate', link: '/contributing/burn-rate'},
+          { text: 'Get Started', link: '/contributing/how-to-start-contributing'},
           { text: '🤝 For other types of contributions', link: 'https://hello.kodadot.xyz/be-part-of-kodadot/kodadots-programs'},
         ]
       },

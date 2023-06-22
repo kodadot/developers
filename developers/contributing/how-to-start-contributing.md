@@ -1,5 +1,4 @@
 # Contributing as a Developer
-![KodaDot_logo_v3](/assets/koda-v3.png)
 
 ## Getting Started
 We are using a `pnpm` workspace, installing things via npm **will result in broken dependencies.**
@@ -264,22 +263,6 @@ You can change the network in the navbar.
 Currently supported networks are `Kusama, Westend, statemine, westmint`.
 Do you want to add more networks? [Open a PR on vuex-options](https://github.com/kodadot/packages)
 
-
-
-
-### Notice for contributors before January 15, 2022
-
-If you've forked nft-gallery before **January 15, 2022**, you have an older fork that doesn't include our newest additions.
-
-There's two ways you can work around this:
-
-1) [Re-forking](https://docs.github.com/en/repositories/creating-and-managing-repositories/deleting-a-repository)
-2) [Syncing your fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork)
-
-Learn more about these issues here:
-
-- [Issue 1845](https://github.com/kodadot/nft-gallery/issues/1845)
-- [Issue 1844](https://github.com/kodadot/nft-gallery/issues/1844)
 
 
 ## Contributing Guidelines
