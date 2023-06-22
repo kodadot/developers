@@ -143,12 +143,12 @@ export default defineConfig({
         collapsed: false,
         link: '/contributing/index',
         items: [
-          { text: '🤝 For other contributions checkout', link: 'https://hello.kodadot.xyz/be-part-of-kodadot/kodadots-programs'},
+          { text: '🤝 For other types of contributions', link: 'https://hello.kodadot.xyz/be-part-of-kodadot/kodadots-programs'},
         ]
       },
       {
         text: '📄 Other',
-        collapsed: true,
+        collapsed: false,
         items: [
           { text: '🔮 Upcoming Features', link: '/other/kodadot-notification-webhook-mailing-custodial-wallet' },
           { text: '🗞️ KodaDot PressKit', link: 'https://github.com/kodadot/kodadot-presskit' },
