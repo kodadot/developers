@@ -1,77 +1,69 @@
+# 🚀 How to Start Contributing to KodaDot
+
 ![KodaDot_logo_v3](/assets/koda-v3.png)
 
-# How to Start Contributing to KodaDot
+---
 
-KodaDot is an open-source NFT marketplace where anyone, including developers, can contribute. This guide will provide a walkthrough on how to start contributing to KodaDot.
+KodaDot is an open-source NFT marketplace where anyone, including you, can contribute. This guide is your roadmap to contributing to KodaDot. 
 
-## Getting Started
+## 💡 Why Should You Contribute?
+
+There are many reasons to contribute to KodaDot. For details, check out our [Why Contribute](/contributing/why-contribute) page.
+
+## ✍️ Getting Started with Contributing
+
+Ready to dive in? Here's how to get started:
 
 ### 1. Visit the KodaDot GitHub Repository
 
-Visit the KodaDot Github Repository [here](https://github.com/kodadot). 
+Start by visiting the [KodaDot Github Repository](https://github.com/kodadot).
 
 ### 2. Explore the Issues
 
-You can find potential tasks to work on by checking out the [issues section](https://github.com/kodadot/nft-gallery/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22). The issues are labeled with "$", "$$", and "$$$" labels, representing different levels of complexity and potential rewards.
+Find potential tasks to work on in the [issues section](https://github.com/kodadot/nft-gallery/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22). We label issues with "$", "$$", and "$$$", each representing different levels of complexity and potential rewards.
 
 ### 3. Read the Contribution Guidelines
 
-Before contributing, make sure to read the [Contributing.md](https://github.com/kodadot/nft-gallery/blob/main/CONTRIBUTING.md) document. It will provide you with an overview of how to get started with contributing, which issue to pick, how to assign issues, pull requests, and more.
+Before contributing, make sure to read the [Contributing.md](https://github.com/kodadot/nft-gallery/blob/main/CONTRIBUTING.md) document. This guide will give you an overview of how to start contributing, how to pick and assign issues, how to handle pull requests, and more.
 
-## Contribution Process
+## 🔄 Understanding the Lifecycle of an Issue
 
-The general contribution process consists of the following steps:
+To better understand the process of contributing, be sure to read our guide on the [Lifecycle of an Issue](/contributing/issue-lifecycle).
 
-1. **Select an Issue:** Based on your skill level and interest, pick an issue from the KodaDot repository.
+## 💬 Effective Communication
 
-2. **Assign the Issue:** To avoid duplication of effort, assign the issue to yourself. You can do this by commenting on the issue with the wave emoji. The KodaBot will then assign the issue to you.
+Communication is key when contributing to an open-source project. Learn how to communicate effectively at KodaDot in our guide to [Effective Communication](/contributing/effective-communication).
 
-3. **Develop a Solution:** Once the issue is assigned, start working on the solution. Be sure to adhere to the provided coding conventions & recommendations and use the recommended VSCode Extensions.
+## 🏆 Rewards
 
-4. **Open a Pull Request:** Once you've developed a solution, open a pull request. Provide a detailed description of your changes. The community will review your pull request and provide feedback.
+At KodaDot, we reward your hard work! Learn more about the [rewards](/contributing/rewards) you can earn by contributing.
 
-5. **Get Your PR Reviewed and Merged:** After a review, if your contribution is deemed valuable, your pull request will be merged.
+## 🥇 Leaderboard
 
-6. **Receive a Reward:** Depending on the complexity of the issue you've solved, you can get rewarded immediately.
+Who are our top contributors? Check out the [Leaderboard](/contributing/leaderboard) to see who's making a big impact!
 
-## Support and Coordination
+## 💸 KodaDot's Burn Rate
 
-To better coordinate the efforts and to ask questions, join the KodaDot [Development channel (#coordination) on Discord](https://discord.gg/4CeHXamhqB).
+Understand how we use our resources by learning about [KodaDot's Burn Rate](/contributing/burn-rate).
 
-## Types of Contributions
+## 📣 We are Hiring!
 
-You can contribute to KodaDot in several ways, including solving issues, improving documentation, enhancing functionality, and more. Your contributions will be rewarded and can significantly help in the growth and enhancement of KodaDot.
+Looking for more involvement with KodaDot? We're [hiring](/contributing/hiring)! 
 
-Remember, KodaDot values the community contributions and rewards your efforts. Each contribution brings KodaDot closer to becoming the ultimate public good.
+## 🔍 Contributions Tracker
 
-Happy contributing!
+Monitor contributions with our [Contributions Tracker](https://repo-tracker.com/r/gh/kodadot/nft-gallery).
 
+## 🤝 For Other Types of Contributions
 
+You can also contribute in ways beyond development. Check out our guide on [Other Types of Contributions](https://hello.kodadot.xyz/be-part-of-kodadot/kodadots-programs).
 
+## Meta-Hours
 
-## Contributing Guidelines
-
-Before submitting your pull request, read up on our [documentation](https://docs.kodadot.xyz) and make sure it follows:
-
-- [Code of Conduct](https://github.com/kodadot/nft-gallery/blob/main/CODE_OF_CONDUCT.md)
-- [Contribution Guidelines](https://github.com/kodadot/nft-gallery/blob/main/CONTRIBUTING.md)
-- [Style Guide](https://github.com/kodadot/nft-gallery/blob/main/STYLE_GUIDE.md)
-
-##### **Failure to do so can lead to your PR being rejected**
-
-We [reward](https://github.com/kodadot/nft-gallery/blob/main/REWARDS.md) our contributors in $KSM for their time and effort with every issue they solve. If you're finding yourself to be more involved with KodaDot, we are always [hiring](https://github.com/kodadot/nft-gallery/blob/main/HIRING.md).
-
- ## Meta-Hours
-
- We have bi-weekly meetings with contributors of KodaDot to share each other's progress as well as future goals in our [Discord sever](https://discord.gg/kodadot). Before speaking, please make sure you're prepared as a [speaker](meta-hours.md). 
-
-Is this your first time joining? Feel free to catch up on our [past Meta_Hours](https://github.com/kodadot/nft-gallery/discussions/categories/meta-hours)! 
-
-
-
-
+Join our bi-weekly meetings with KodaDot contributors to share progress and discuss future goals on our [Discord server](https://discord.gg/kodadot). Get ready as a [speaker](meta-hours.md) or catch up on our [past Meta_Hours](https://github.com/kodadot/nft-gallery/discussions/categories/meta-hours).
 
 ## Refeferences
-- This is original posting from our [Meta_Hours 2](https://github.com/kodadot/nft-gallery/discussions/1699), bi-weekly digests on progress and development
-- [Github Repository KodaDot/NFT-gallery](https://github.com/kodadot/nft-gallery/issues/)
+- Original post from our [Meta_Hours 2](https://github.com/kodadot/nft-gallery/discussions/1699), bi-weekly digests on progress and development
+- [Github Repository KodaDot/NFT-gallery](https://
 
+github.com/kodadot/nft-gallery/issues/)
