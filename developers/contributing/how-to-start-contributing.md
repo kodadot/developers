@@ -1,5 +1,5 @@
 # Contributing as a Developer
-![KodaDot_logo_v3](./assets/koda-v3.png)
+![KodaDot_logo_v3](/assets/koda-v3.png)
 
 ## Getting Started
 We are using a `pnpm` workspace, installing things via npm **will result in broken dependencies.**
