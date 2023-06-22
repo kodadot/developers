@@ -46,87 +46,113 @@ export default defineConfig({
       copyright: 'Copyright © 2023-present SubWork membas'
     },
     nav: [
-      { text: 'Get Started', link: '/get-started' },
+      { text: 'Get Started', link: '/get-started/index' },
       { text: 'Swag shop', link: 'https://shop.kodadot.xyz' },
       { text: 'NFT marketplace', link: 'https://kodadot.xyz'},
     ],
 
     sidebar: [
       {
-        text: 'Getting Started',
+        text: '🚀 Getting Started',
+        link: '/get-started/index',
+        collapsed: false,
         items: [
-          { text: 'Overview', link: '/get-started/index' },
-          { text: 'Before You Get Started', link: '/get-started/before-you-get-started' },
-          { text: 'Who Is Kodadot', link: '/get-started/kodadot-who' },
-          { text: 'Learn More about KodaDot', link: 'https://hello.kodadot.xyz' },
-
+          { text: '❓ What Is Kodadot', link: '/get-started/kodadot-who' },
+          { text: '📚 Before You Get Started', link: '/get-started/before-you-get-started' },
+          { text: '🌐 Learn More about KodaDot', link: 'https://hello.kodadot.xyz' },
         ],
       },
       {
-        text: 'Core Concepts',
+        text: '💡 Core Concepts',
+        collapsed: false,
+        link: '/core-concepts/index',
         items: [
-          { text: 'What Are NFTs', link: '/core-concepts/what-are-nfts' },
-          { text: 'Multichain NFT Marketplace', link: '/core-concepts/what-multichain-nft-marketplace' },
-          {
-            text: 'IPFS',
+          { text: '🖼️ What Are NFTs?', link: '/core-concepts/what-are-nfts' },
+          { text: '🌐 What is a Multichain NFT Marketplace?', link: '/core-concepts/what-multichain-nft-marketplace' },
+          { text: '🛠️ The KodaDot Stack',
+            collapsed: true,
+            link: '/core-concepts/kodadot-stack/index',
             items: [
-              { text: 'What is IPFS', link: '/core-concepts/ipfs/what-is-ipfs' },
-              { text: 'Faster IPFS Fetch', link: '/core-concepts/ipfs/ipfs-fetch-faster' },
-            ],
-          },
-          {
-            text: 'Polkadot & Kusama',
-            items: [
-              { text: 'What are Polkadot and Kusama', link: '/core-concepts/polkadot/what-are-polkadot-and-kusama' },
-              { text: 'Polkadot NFTs', link: '/core-concepts/polkadot/polkadot-nfts' },
-              { text: 'Transfering NFTs via Chains', link: '/core-concepts/polkadot/transfering-nfts-via-chains' },
               {
-                text: 'Parachains',
+                text: '🔗 IPFS',
+                collapsed: true,
                 items: [
-                  { text: 'Substrate Parachains', link: '/core-concepts/polkadot/parachains/substrate-parachains' },
-                  { text: 'KodaDot Substrate API', link: '/core-concepts/polkadot/parachains/kodadot-substrate-api' },
+                  { text: '❓ What is IPFS', link: '/core-concepts/kodadot-stack/ipfs/what-is-ipfs' },
+                  { text: '⚡ Faster IPFS Fetch', link: '/core-concepts/kodadot-stack/ipfs/ipfs-fetch-faster' },
+                ],
+              },
+              {
+                text: '📊 Indexer',
+                collapsed: true,
+                items: [
+                  { text: '❓ What is an Indexer', link: '/core-concepts/kodadot-stack/indexer/what-is-an-indexer' },
+                  { text: '🔧 KodaDot Indexers', link: '/core-concepts/kodadot-stack/indexer/kodadot-indexers' },
                 ],
               },
             ],
           },
           {
-            text: 'Indexer',
+            text: '💸 Ethereum',
+            collapsed: true,
             items: [
-              { text: 'What is an Indexer', link: '/core-concepts/indexer/what-is-an-indexer' },
-              { text: 'KodaDot Indexers', link: '/core-concepts/indexer/kodadot-indexers' },
+              { text: '❓ What is Ethereum?', link: '/core-concepts/ethereum/what-is-ethereum' },
+              { text: '🖼️ Ethereum NFTs', link: '/core-concepts/ethereum/nft-standards-on-ethereum' },
+              { text: '🔖 What is ERC-721?', link: '/core-concepts/ethereum/what-is-erc-721' },
+              { text: '🔖 What is ERC-6551?', link: '/core-concepts/ethereum/what-is-erc-6551' },
+            ],
+          },
+          {
+            text: '⚙️ Polkadot & Kusama',
+            collapsed: true,
+            items: [
+              { text: '❓ What are Polkadot and Kusama', link: '/core-concepts/polkadot/what-are-polkadot-and-kusama' },
+              { text: '🖼️ Polkadot NFTs', link: '/core-concepts/polkadot/polkadot-nfts' },
+              { text: '🔁 Transfering NFTs via Chains', link: '/core-concepts/polkadot/transfering-nfts-via-chains' },
+              {
+                text: '🔗 Parachains',
+                items: [
+                  { text: '🔧 Substrate Parachains', link: '/core-concepts/polkadot/parachains/substrate-parachains' },
+                  { text: '📡 KodaDot Substrate API', link: '/core-concepts/polkadot/parachains/kodadot-substrate-api' },
+                ],
+              },
             ],
           },
         ],
       },
       {
-        text: 'Uniquery',
+        text: '🔎 Uniquery',
+        collapsed: false,
+        link: '/uniquery/index',
         items: [
-          { text: 'Overview', link: '/uniquery/index' },
-          { text: 'KodaDot Storefront Fandom', link: '/uniquery/kodadot-storefront-fandom' },
+          { text: '🏬 KodaDot Storefront Fandom', link: '/uniquery/kodadot-storefront-fandom' },
         ],
       },
       {
-        text: 'Minimark',
+        text: '📝 Minimark',
+        collapsed: false,
         items: [
-          { text: 'Overview', link: '/minimark/index' },
+          { text: '🔍 Overview', link: '/minimark/index' },
         ],
       },
       {
-        text: 'PolySearch',
+        text: '🔍 PolySearch',
+        collapsed: false,
         items: [
-          { text: 'Overview', link: '/polysearch/index' },
+          { text: '🔍 Overview', link: '/polysearch/index' },
         ],
       },
       {
-        text: 'Other',
+        text: '📄 Other',
+        collapsed: true,
         items: [
-          { text: 'Upcoming Features', link: '/other/kodadot-notification-webhook-mailing-custodial-wallet' },
-          { text: 'KodaDot PressKit', link: 'https://github.com/kodadot/kodadot-presskit' },
-          { text: 'Be part of KodaDot', link: 'https://hello.kodadot.xyz/be-part-of-kodadot/kodadots-programs'}
-
+          { text: '☀️ How to start contributing on KodaDot?', link: '/other/contributing-on-kodadot' },
+          { text: '🤝 Be part of KodaDot', link: 'https://hello.kodadot.xyz/be-part-of-kodadot/kodadots-programs'},
+          { text: '🔮 Upcoming Features', link: '/other/kodadot-notification-webhook-mailing-custodial-wallet' },
+          { text: '🗞️ KodaDot PressKit', link: 'https://github.com/kodadot/kodadot-presskit' },
         ],
       },
     ],
+    
     
 
     socialLinks: [
