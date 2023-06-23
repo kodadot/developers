@@ -147,7 +147,7 @@ export default defineConfig({
           { text: '✍️ Contributing', link: '/contributing/contributing'},
           { text: '🔄 Understanding the lifecycle of an issue', link: '/contributing/issue-lifecycle'},
           { text: '🚀 Get started!', link: '/contributing/how-to-start-contributing'},
-          { text: '🥇 First time contribution', link: '/contributing/how-to-start-contributing'},
+          { text: '🥇 First time contribution', link: '/contributing/first-time'},
           { text: '💬 Effective communication', link: '/contributing/effective-communication'},
           { text: '🏆 Rewards', link: '/contributing/rewards'},
           { text: '🥇 Leaderboard', link: '/contributing/leaderboard'},
