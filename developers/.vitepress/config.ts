@@ -161,7 +161,7 @@ export default defineConfig({
         text: '📄 Other',
         collapsed: false,
         items: [
-          { text: '🔮 Upcoming Features', link: '/other/kodadot-notification-webhook-mailing-custodial-wallet' },
+          { text: '🔮 Upcoming Features', link: '/other/kodadot-upcoming' },
           { text: '🗞️ KodaDot PressKit', link: 'https://github.com/kodadot/kodadot-presskit' },
         ],
       },
