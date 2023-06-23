@@ -20,7 +20,7 @@ With KodaDot's NFT infrastructure, you can do much more than just mint NFTs. We 
 - [Workers](/core-concepts/workers/kodadot-workers.md) - Responsible for processing tasks in the background.
 - [Minting - MiniMark](/minimark/index.md) - Our NFT minting tool.
 
-Don't forget to keep an eye out for our upcoming features. [Notifications, Webhooks, Mailing, Custodial Wallets](/other/kodadot-notification-webhook-mailing-custodial-wallet.md) are coming soon!
+Don't forget to keep an eye out for our upcoming features. [Notifications, Webhooks, Mailing, Custodial Wallets](/other/kodadot-upcoming) are coming soon!
 
 ## Join the Community
 

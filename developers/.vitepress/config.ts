@@ -130,24 +130,38 @@ export default defineConfig({
       {
         text: '📝 Minimark',
         collapsed: false,
-        items: [
-          { text: '🔍 Overview', link: '/minimark/index' },
-        ],
+        link: '/minimark/index',
       },
       {
-        text: '🔍 PolySearch',
+        text: '🔎 PolySearch',
         collapsed: false,
-        items: [
-          { text: '🔍 Overview', link: '/polysearch/index' },
-        ],
+        link: '/polysearch/index',
+
       },
+      {
+        text: '🔰 How to start contributing to KodaDot?',
+        collapsed: true,
+        link: '/contributing/index',
+        items: [
+          { text: '💡 Why should you contribute?', link: '/contributing/why-contribute'},
+          { text: '✍️ Contributing', link: '/contributing/contributing'},
+          { text: '🔄 Understanding the lifecycle of an issue', link: '/contributing/issue-lifecycle'},
+          { text: '🚀 Get started!', link: '/contributing/how-to-start-contributing'},
+          { text: '🥇 First time contribution', link: '/contributing/first-time'},
+          { text: '💬 Effective communication', link: '/contributing/effective-communication'},
+          { text: '🏆 Rewards', link: '/contributing/rewards'},
+          { text: '🥇 Leaderboard', link: '/contributing/leaderboard'},
+          { text: "💸 KodaDot's Burn Rate", link: '/contributing/burn-rate'},
+          { text: '📣 We are Hiring!', link: '/contributing/hiring'},
+          { text: '🔍 Contributions Tracker', link: 'https://repo-tracker.com/r/gh/kodadot/nft-gallery'},
+          { text: '🤝 For other types of contributions', link: 'https://hello.kodadot.xyz/be-part-of-kodadot/kodadots-programs'},
+        ]
+      },      
       {
         text: '📄 Other',
-        collapsed: true,
+        collapsed: false,
         items: [
-          { text: '☀️ How to start contributing on KodaDot?', link: '/other/contributing-on-kodadot' },
-          { text: '🤝 Be part of KodaDot', link: 'https://hello.kodadot.xyz/be-part-of-kodadot/kodadots-programs'},
-          { text: '🔮 Upcoming Features', link: '/other/kodadot-notification-webhook-mailing-custodial-wallet' },
+          { text: '🔮 Upcoming Features', link: '/other/kodadot-upcoming' },
           { text: '🗞️ KodaDot PressKit', link: 'https://github.com/kodadot/kodadot-presskit' },
         ],
       },

@@ -2,6 +2,7 @@
 
 Minimark is a minimal implementation of rmrk-utils
 
+building open source minting tooling which is wrapping NFT standards, range from rmrkv1, uniques and nft pallet through PSP34 till EVM based erc721/1155
 
 
 Tools caring about minting in KodaDot

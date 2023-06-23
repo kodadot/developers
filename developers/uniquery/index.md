@@ -5,7 +5,15 @@ outline: deep
 # Uniquery
 ---
 
+
+::: tip
+Before getting started with this guide give a quick look at [Understanding the KodaDot Stack](/core-concepts/kodadot-stack/index) where we explain the general concepts you need to understand before you dive into this guide.
+:::
+
 [Universal GraphQL query builder for KodaDot](https://github.com/kodadot/uniquery)
+
+https://blog.kodadot.xyz/explore-multi-chain-nfts-with-kodadot-1fc0c9a50c26
+
 
 [![npm version][npm-version-src]][npm-version-href]
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
