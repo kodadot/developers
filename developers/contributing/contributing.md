@@ -16,9 +16,9 @@ Before you being:
 
 - We utilize [**Node.js**](https://nodejs.org) as a development tool. To avoid potential compatibility issues, check if you're on the version of **Node.js we support.**
 - Make sure that you use [**pnpm**](https://pnpm.io/installation) as the package manager.
-- Please have a read the [code of conduct](CODE_OF_CONDUCT.md)
-- [Learn how to set up your environment for the first time](FIRST_TIME.md)
-- Get familiar with our [coding conventions & recommendations](STYLE_GUIDE.md)
+- Please have a read the [code of conduct](https://github.com/kodadot/nft-gallery/blob/main/CODE_OF_CONDUCT.md)
+- [Learn how to set up your environment for the first time](./first-time)
+- Get familiar with our [coding conventions & recommendations](https://github.com/kodadot/nft-gallery/blob/main/STYLE_GUIDE.md)
 - Read up on our [tech stack](https://medium.com/kodadot/the-tech-stack-at-kodadot-8a83880f8624) to get a better picture of the infrastructure we rely on
 - Familiarise yourself with our [contributor culture](https://medium.com/kodadot/contributor-culture-at-kodadot-665243d3d6a6) to better understand the dynamics by which we operate
 
@@ -36,7 +36,7 @@ We are working primarily on two metrics.
 Issues have
 
 - priorities by labels [p1-p5](https://github.com/kodadot/nft-gallery/labels), **p1 means urgent**, **p5 in research mode**.
-- bounty labels for issues in the range of **$ - $$$$$**. Check [Rewards](REWARDS.md)
+- bounty labels for issues in the range of **$ - $$$$$**. Check [Rewards](./rewards)
 
 If you are going to contribute, please select issues with the highest urgency (p1, p2) first. It makes a **significant difference for users to fix high-priority issues**.
 If there is no such issue, our **best advice is to choose issues reflecting your skillset and experience**.
@@ -74,11 +74,11 @@ When the issue is **converted to a draft, and you don't reply within 48h**, we w
 
 ## Rewards
 
-Continue to [REWARDS.md](REWARDS.md)
+Continue to [REWARDS.md](./rewards)
 
 ## Hiring process
 
-Continue to [HIRING.md](HIRING.md)
+Continue to [HIRING.md](./hiring)
 
 # Types of contributions 📝
 
@@ -210,7 +210,7 @@ we don't want to mix the merging strategies, and we want to see only your commit
 ### Code quality
 
 - We follow what we have in `.eslintrc.js`, and you can see warnings and errors by running `pnpm lint`. With `pnpm lint --fix`, you will get auto fixed code.
-- We've formed [STYLE_GUIDE.md](STYLE_GUIDE.md) to help you answer formatting questions.
+- We've formed [STYLE_GUIDE.md](https://github.com/kodadot/nft-gallery/blob/main/STYLE_GUIDE.md) to help you answer formatting questions.
 
 ### Don't have access to push to the repository
 
@@ -220,7 +220,7 @@ You need to fork the repository, commit a change to your repository, and [create
 
 The aim of this repository is:
 
-- To provide a [README](README.md) and assorted documents anyone can copy and paste into their project
+- To provide a [README](https://github.com/kodadot/nft-gallery) and assorted documents anyone can copy and paste into their project
 - The content is usable by someone who hasn't written something like this before
 - Foster a culture of respect and gratitude in the open-source community.
 
@@ -235,7 +235,7 @@ For crafting much better culture and Developer Experience, we reccomend some ext
 
 ### Does it follow the contributor covenant
 
-This repository has a [code of conduct](CODE_OF_CONDUCT.md). This repository has a code of conduct, and I will remove things that do not respect it.
+This repository has a [code of conduct](https://github.com/kodadot/nft-gallery/blob/main/CODE_OF_CONDUCT.md). This repository has a code of conduct, and I will remove things that do not respect it.
 
 ### Related
 

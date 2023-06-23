@@ -45,7 +45,7 @@ nvm use 16
 pnpm dev
 ```
 
-**KodaDot will be available at [localhost:9090](http://localhost:9090).**
+**KodaDot will be available at localhost:9090.**
 
 
 ### Using KodaDot on Kusama
@@ -70,7 +70,7 @@ If you want to try out our KodaDot on Kusama, you must have Docker ([install her
    docker-compose up
    ```
 
-KodaDot will be available at [localhost:9090](http://localhost:9090).
+KodaDot will be available at localhost:9090.
 
 KodaDot supports Hot Module Replacement on Docker; any changes made will take effect immediately.
 
