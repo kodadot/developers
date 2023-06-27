@@ -1,3 +1,13 @@
+---
+title: Understanding the Lifecycle of an Issue at KodaDot
+meta:
+  - name: description
+    content: This guide provides insight into how issues are managed at KodaDot, from reporting an issue, working on it, to creating a PR and the peer review process. It also mentions the role of KodaBot and the Code Review Guild.
+  - name: keywords
+    content: KodaDot, lifecycle, issue, bug report, KodaBot, pull request, PR, peer review, Code Review Guild, Kilian Kukelka, contributor culture
+---
+
+
 # Understanding the Lifecycle of an Issue at KodaDot
 
 Understanding the lifecycle of an issue at KodaDot is pivotal for both users reporting issues and developers working to resolve them. This guide aims to provide an in-depth insight into how problems and feature requests are managed at KodaDot, detailing the journey an issue takes from report to resolution.
