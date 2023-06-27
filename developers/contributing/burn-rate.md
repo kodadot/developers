@@ -1,3 +1,11 @@
+---
+title: KodaDot Burn Rate Table
+meta:
+  - name: description
+    content: A comprehensive burn rate table for KodaDot. The table includes details on the number of paid PRs, total expenses, number of contributors, and expense per PR over several months.
+---
+
+
 <div align="center">  
 
 | date | # of <br /> paid <br /> PRs | total :moneybag: | # of <br /> :construction_worker: | :moneybag: / PR |
