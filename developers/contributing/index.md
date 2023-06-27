@@ -1,3 +1,13 @@
+---
+title: How to Start Contributing to KodaDot
+meta:
+  - name: description
+    content: A comprehensive guide for contributing to KodaDot. Learn about reasons to contribute, the process of issue handling, effective communication, contributor rewards, leaderboard, KodaDot's burn rate, hiring, contribution tracker, other types of contributions, and Meta-Hours.
+  - name: keywords
+    content: KodaDot, open-source, contribution, GitHub, issues, communication, rewards, leaderboard, burn rate, hiring, tracker, Meta-Hours
+---
+
+
 # 🚀 How to Start Contributing to KodaDot
 
 ![KodaDot_logo_v3](/assets/koda-v3.png)
