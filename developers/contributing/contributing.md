@@ -1,3 +1,10 @@
+---
+title: Contributing to KodaDot: NFT Gallery
+meta:
+  - name: description
+    content: A comprehensive guide on how to contribute to KodaDot's NFT Gallery, detailing the process from getting started, issue assignment, opening pull requests, to getting rewards. Join the development channel for better coordination.
+---
+
 # Contributing to KodaDot: NFT gallery
 
 KodaDot NFT gallery **has a plan to be builders-owned and become ultimate public good**
