@@ -1,3 +1,13 @@
+---
+title: KodaDot Contributor Rewards Breakdown
+meta:
+  - name: description
+    content: Detailed breakdown of individual contributions and rewards in KodaDot. Get insights into dev names, total amount received, amount per merged PR, total open PRs, merged PRs, closed PRs, lines added to lines removed, commits merged, total # comments, comments per PR, resolved issues to # of open PR, last transaction, and more.
+  - name: keywords
+    content: KodaDot, Blockchain, Rewards, Contributions, PRs, Commits, Open PRs, Merged PRs, Closed PRs, Last Transaction, KSM
+---
+
+
 | devName | total amount received |  amount per merged PR | total open PRs | merged PRs | closed PRs | lines added to lines removed| commits merged | total # comments | comments per PR | resolved issues to # of open PR | last transaction  |
 |-----------------|-----------------------|----------------------|----------------|------------|------------|------------------------------|----------------|------------------|-----------------|---------------------------------|-----------------|
 | Jarsen136 | $16586.62/228.972KSM | $78.24 | 219 | 212 | 7 | 11248/6190 | 840 | 1679 | 7.67 | 223/219 |[Link to last transaction](https://kusama.subscan.io/extrinsic/0x09332075fa27f7301474f43751818f0e80f7518a5cea7bb46fdc8a85e3909a6a) |
