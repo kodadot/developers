@@ -1,3 +1,13 @@
+---
+title: Rewards and Contributions in KodaDot
+meta:
+  - name: description
+    content: Learn about the rewards and contributions system in KodaDot, including creating your DOT address, sharing your address for rewards, switching networks, checking DOT balance, and selecting issues for contribution.
+  - name: keywords
+    content: KodaDot, rewards, contributions, Polkadot, DOT address, Polkadot.js wallet, KodaDot Transfer, Polkadot network, Subscan, bounties, GitHub issues
+---
+
+
 # Rewards
 
 To scale our development and operations, we prefer paid trials to know developers better and fit the team. The more your PRs get merged to the `main` branch, the **more likely you'll be part of the inner team.**
