@@ -1,3 +1,12 @@
+---
+title: Developer Contribution Guide for KodaDot
+meta:
+  - name: description
+    content: Detailed guide to contribute to KodaDot as a developer. Learn about getting started, using KodaDot on Kusama, running local nodes, code checking, troubleshooting, and more.
+  - name: keywords
+    content: KodaDot, contribution guide, developer guide, pnpm workspace, node, docker, Kusama, GraphQL, vue, RPC node, on-chain data, on-chain transaction
+---
+
 # Contributing as a Developer
 
 ## Getting Started
