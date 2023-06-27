@@ -1,11 +1,14 @@
 ---
 title: Maintaining Effective Communication as a Developer at KodaDot
-meta:
-  - name: description
-    content: Learn about maintaining effective communication as a developer at KodaDot, exploring topics like communication channels, community calls, peer connections, active engagement, reviewing pull requests, and self-learning for technical growth.
-  - name: keywords
-    content: KodaDot, Developer Communication, Collaboration, Discord, GitHub, Meta Hours, Community Calls, Peer Connections, Pull Requests, Self-Learning, Technical Growth, Blockchain
+head:
+  - - meta
+    - name: description
+      content: Learn about maintaining effective communication as a developer at KodaDot, exploring topics like communication channels, community calls, peer connections, active engagement, reviewing pull requests, and self-learning for technical growth.
+  - - meta
+    - name: keywords
+      content: KodaDot, Developer Communication, Collaboration, Discord, GitHub, Meta Hours, Community Calls, Peer Connections, Pull Requests, Self-Learning, Technical Growth, Blockchain
 ---
+
 
 # Maintaining Effective Communication as a Developer at KodaDot
 

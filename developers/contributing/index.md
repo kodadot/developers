@@ -1,5 +1,5 @@
 ---
-title: How to Start Contributing to KodaDot
+title: How to start contributing?
 head:
   - - meta
     - name: description

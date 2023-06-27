@@ -1,10 +1,12 @@
 ---
-title: Contributing to KodaDot: NFT gallery
-meta:
-  - name: description
-    content: Comprehensive guide for contributing to KodaDot NFT gallery. Learn about our practices, code review, pull requests, issue assignment, rewards, hiring process, and types of contributions.
-  - name: keywords
-    content: KodaDot, contribution guide, NFT gallery, Node.js, pnpm, VSCode Extensions, issues, pull requests, hiring, code reviews, rewards, developer community, KodaDot community
+title: Contributing to KodaDot
+head:
+  - - meta
+    - name: description
+      content: A comprehensive guide for contributing to KodaDot. Learn about reasons to contribute, the process of issue handling, effective communication, contributor rewards, leaderboard, KodaDot's burn rate, hiring, contribution tracker, other types of contributions, and Meta-Hours.
+  - - meta
+    - name: keywords
+      content: KodaDot, open-source, contribution, GitHub, issues, communication, rewards, leaderboard, burn rate, hiring, tracker, Meta-Hours
 ---
 
 # Contributing to KodaDot: NFT gallery

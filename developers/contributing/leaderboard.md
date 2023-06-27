@@ -1,12 +1,15 @@
 ---
 title: KodaDot Contributor Rewards Breakdown
-meta:
-  - name: description
-    content: Detailed breakdown of individual contributions and rewards in KodaDot. Get insights into dev names, total amount received, amount per merged PR, total open PRs, merged PRs, closed PRs, lines added to lines removed, commits merged, total # comments, comments per PR, resolved issues to # of open PR, last transaction, and more.
-  - name: keywords
-    content: KodaDot, Blockchain, Rewards, Contributions, PRs, Commits, Open PRs, Merged PRs, Closed PRs, Last Transaction, KSM
+head:
+  - - meta
+    - name: description
+      content: Detailed breakdown of individual contributions and rewards in KodaDot. Get insights into dev names, total amount received, amount per merged PR, total open PRs, merged PRs, closed PRs, lines added to lines removed, commits merged, total # comments, comments per PR, resolved issues to # of open PR, last transaction, and more.
+  - - meta
+    - name: keywords
+      content: KodaDot, Blockchain, Rewards, Contributions, PRs, Commits, Open PRs, Merged PRs, Closed PRs, Last Transaction, KSM
 ---
 
+# KodaDot Leaderboard
 
 | devName | total amount received |  amount per merged PR | total open PRs | merged PRs | closed PRs | lines added to lines removed| commits merged | total # comments | comments per PR | resolved issues to # of open PR | last transaction  |
 |-----------------|-----------------------|----------------------|----------------|------------|------------|------------------------------|----------------|------------------|-----------------|---------------------------------|-----------------|
