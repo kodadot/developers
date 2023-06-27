@@ -7,8 +7,6 @@ meta:
     content: KodaDot, open-source ecosystem, contributions, bounty rewards, flexibility, challenging tasks, community engagement, GitHub, career advancement
 ---
 
-
-
 # Reasons to Contribute to KodaDot: An Open-Source Ecosystem
 
 At KodaDot, we believe in creating a flexible, rewarding, and community-oriented open-source ecosystem. There are many reasons to contribute to KodaDot, and here are the top five:
@@ -29,7 +27,5 @@ At KodaDot, we place great emphasis on collaboration. As you contribute, engage 
 
 ## 5. Contribution to Open Source
 Contributing to open-source projects like KodaDot provides a **public proof of contribution**. This is a powerful asset when you're looking to land your first tech job or advance your career. A strong GitHub profile can often serve as a more accurate indicator of a person's skill set than a traditional resume. By contributing publicly to KodaDot, you showcase your skills and abilities in a concrete, verifiable manner.
-
----
 
 If these reasons resonate with you, we invite you to join our community and start contributing. KodaDot welcomes all willing hands and minds to contribute towards building a more robust, inclusive, and innovative open-source ecosystem.
