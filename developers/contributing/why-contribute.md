@@ -1,9 +1,11 @@
 ---
 title: Reasons to Contribute to KodaDot: An Open-Source Ecosystem
 meta:
-  - name: description
+  -
+    name: description
     content: Discover the top five reasons to contribute to KodaDot, an open-source ecosystem. Explore the benefits, including bounty rewards, flexibility, challenging tasks, community engagement, and valuable contributions to open source.
-  - name: keywords
+  -
+    name: keywords
     content: KodaDot, open-source ecosystem, contributions, bounty rewards, flexibility, challenging tasks, community engagement, GitHub, career advancement
 ---
 
