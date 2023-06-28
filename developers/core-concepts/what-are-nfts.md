@@ -1,3 +1,15 @@
+---
+title: Understanding Non-Fungible Tokens (NFTs) in Kodadot
+head:
+  - - meta
+    - name: description
+      content: Non-Fungible Tokens (NFTs) are at the core of Kodadot's multichain open-source NFT marketplace. This article provides an overview of NFTs, including their definition, importance, and functionality. NFTs are unique digital assets created using blockchain technology, and each NFT represents a unique item or piece of content stored on the blockchain. NFTs provide a powerful tool for digitizing and proving ownership of assets, creating new possibilities in areas such as digital art, virtual real estate, collectibles, and more. This article explains how NFTs work, including how they store information on a blockchain and how they provide immutable proof of ownership. Kodadot operates across 6 chains with 9 NFT standards, each with their unique ways of handling NFTs. Regardless of the chain or standard, the principle remains the same. An NFT represents a unique asset on the blockchain, providing proof of ownership and provenance.
+  - - meta
+    - name: keywords
+      content: Kodadot, NFTs, Non-Fungible Tokens, blockchain, digital assets, ownership, provenance, multichain, open-source, marketplace, unique, metadata, smart contract, immutable, trade, exchange, virtual real estate, collectibles, digital art, music, virtual property, decentralized, ledger system, 6 chains, 9 NFT standards
+---
+
+
 # Non-Fungible Tokens (NFTs)
 
 Within the scope of Kodadot, a multichain open-source NFT marketplace, Non-Fungible Tokens (NFTs) are at the core of its operation and functionality.
