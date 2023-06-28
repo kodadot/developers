@@ -1,10 +1,12 @@
 ---
 title: Getting Started with KodaDot
-meta:
-  - name: description
-    content: An essential guide to get started with KodaDot. Learn about the core concepts, setting up your Polkadot wallet, acquiring KSM, exploring the KodaDot website, and creating your own fandom shop.
-  - name: keywords
-    content: KodaDot, guide, NFTs, Polkadot wallet, KSM, Kusama tokens, KodaDot website, Fandom Shop, Decentralization
+head:
+  - - meta
+    - name: description
+      content: An essential guide to get started with KodaDot. Learn about the core concepts, setting up your Polkadot wallet, acquiring KSM, exploring the KodaDot website, and creating your own fandom shop.
+  - - meta
+    - name: keywords
+      content: KodaDot, guide, NFTs, Polkadot wallet, KSM, Kusama tokens, KodaDot website, Fandom Shop, Decentralization
 ---
 
 # Getting Started with KodaDot
