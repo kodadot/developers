@@ -1,3 +1,14 @@
+---
+title: Understanding Indexers in Kodadot
+head:
+  - - meta
+    - name: description
+      content: Indexers are specialized nodes or processes in a blockchain network designed to extract, interpret, and store the state of the blockchain in a more accessible format. Learn about the importance of indexers in Kodadot, an open-source multichain NFT marketplace, and how they enable the platform to provide up-to-date, accurate information about NFT ownership and transactions across multiple blockchains and NFT standards.
+  - - meta
+    - name: keywords
+      content: Kodadot, indexers, blockchain, NFT, multichain, Polkadot, Kusama, ownership, transactions, infrastructure, open-source
+---
+
 # Indexers
 
 In the context of Kodadot, an open-source multichain NFT marketplace, indexers are essential components that play a crucial role in the underlying infrastructure.

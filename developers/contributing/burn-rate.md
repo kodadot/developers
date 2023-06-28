@@ -9,7 +9,7 @@ head:
       content: KodaDot, open-source, contribution, GitHub, issues, communication, rewards, leaderboard, burn rate, hiring, tracker, Meta-Hours
 ---
 
-#
+# KodaDot Burn Rate Table
 
 <div align="center">  
 
