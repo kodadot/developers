@@ -1,3 +1,14 @@
+---
+title: Minimark
+head:
+  - - meta
+    - name: description
+      content: Minimark
+  - - meta
+    - name: keywords
+      content: Minimark
+---
+
 # Minimark
 
 Minimark is a minimal implementation of rmrk-utils

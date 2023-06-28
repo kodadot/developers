@@ -1,3 +1,14 @@
+---
+title: Join the KodaDot Team
+head:
+  - - meta
+    - name: description
+      content: KodaDot is hiring talented frontend developers for full-time, part-time, internship, freelance, and temporary positions. Learn about our hiring process, qualifications, and how to apply.
+  - - meta
+    - name: keywords
+      content: KodaDot, hiring, frontend developers, full-time, part-time, internship, freelance, temporary jobs, crypto, open-source contributions, Github, Discord, Telegram
+---
+
 # KodaDot is always hiring best talent
 We are always looking for **smart and talented frontend developers**. 
 Either you want to start with us as **your side-hustle or looking for full-time dedication**. 

@@ -1,3 +1,14 @@
+---
+title: Understanding ERC-721 Smart Contracts
+head:
+  - - meta
+    - name: description
+      content: ERC-721 is an Ethereum-based standard for creating non-fungible tokens (NFTs). Learn about its key components, advantages, and how to create your own ERC-721 smart contract.
+  - - meta
+    - name: keywords
+      content: Ethereum, ERC-721, smart contract, non-fungible tokens, NFT, digital assets, ownership, collectibles, virtual real estate
+---
+
 # Understanding ERC-721 Smart Contracts
 
 ERC-721 is an Ethereum-based standard for creating non-fungible tokens (NFTs). These tokens represent unique digital assets, like digital artwork, in-game items, or even ownership rights to real-world assets. ERC-721 tokens are different from ERC-20 tokens, which are fungible and therefore interchangeable.
