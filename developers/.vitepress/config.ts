@@ -39,7 +39,7 @@ export default defineConfig({
       provider: 'local'
     },
     editLink: {
-      pattern: 'https://github.com/kodadot/docs/edit/main/docs/:path'
+      pattern: 'https://github.com/kodadot/docs/edit/main/developers/:path'
     },
     footer: {
       message: 'VitePress generated at SubWork, some pictures from KodaDot',
