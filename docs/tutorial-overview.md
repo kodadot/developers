@@ -34,4 +34,5 @@
 
 - ["Unable to retrieve keypair" error](tutorials/how-to-fix-error-keypair.md)
 
-
+## Franks Guide
+- [Frank Guide](/tutorials/FranksGuide.md)
