@@ -87,7 +87,7 @@ KodaDot supports Hot Module Replacement on Docker; any changes made will take ef
 
 
 
-### Running local Polkadot and Subquery nodes
+### Running local Polkadot and SubSquid nodes
 
 To run the complete local environment, we recommend running a [Polkadot/Kusama node](https://github.com/paritytech/polkadot).
 In case you are using Apple M1, we have a [tutorial for that 🍏 ](https://vikiival.medium.com/run-substrate-on-apple-m1-a2699743fae8)
@@ -96,7 +96,7 @@ Current Indexers we have/use:
 
 - SubSquid
   - RMRK: [rubick](https://github.com/kodadot/rubick)
-- SubQuery
+- SubSquid
   - RMRK: [magick](https://github.com/vikiival/magick)
   - Statemine (Unique NFT pallet): [unique](https://github.com/kodadot/unique)
 
@@ -165,7 +165,7 @@ query nftByIdMinimal($id: String!) {
 To use it inside the `.vue` file, we can import it like a regular module:
 For specific purposes, we also need to import the `PrefixMixin`. Thanks to that app, know which indexer is using.
 
-> PrefixMixin is only applicable to the SubQuery indexers. To use SubSquid, please use client: 'subsquid' in the query call.
+> PrefixMixin is only applicable to the SubSquid indexers. To use SubSquid, please use client: 'subsquid' in the query call.
 
 Then we can use it like this:
 
