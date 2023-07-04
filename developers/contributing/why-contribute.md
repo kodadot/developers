@@ -3,7 +3,7 @@ title: Why should you contribute?
 head:
   - - meta
     - name: description
-      content: A comprehensive guide for contributing to KodaDot. Learn about reasons to contribute, the process of issue handling, effective communication, contributor rewards, leaderboard, KodaDot's burn rate, hiring, contribution tracker, other types of contributions, and Meta-Hours.
+      content: Why should you contribute to KodaDot?
 ---
 
 # Reasons to Contribute to KodaDot: An Open-Source Ecosystem

@@ -3,7 +3,7 @@ title: Understanding Ethereum
 head:
   - - meta
     - name: description
-      content: Ethereum is an open-source, blockchain-based platform that allows developers to build and deploy smart contracts and decentralized applications (dApps). Learn about Ethereum's key features, including smart contracts, dApps, Ether, and DeFi, and explore their official website and developer documentation for more information.
+      content: Ethereum is a blockchain-based platform that allows developers to build and deploy smart contracts and decentralized applications (dApps). Learn more.
 ---
 
 # Understanding Ethereum

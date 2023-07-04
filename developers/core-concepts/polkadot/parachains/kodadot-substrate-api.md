@@ -3,7 +3,7 @@ title: KodaDot Substrate API Overview
 head:
   - - meta
     - name: description
-      content: The `sub-api` is a powerful utility developed by KodaDot for managing connections with multiple parachains in a network. This documentation provides an overview of its key features and shows how to use them effectively. Learn how to install the `sub-api` package, use the `ApiFactory` and `InstaApi` classes, leverage helper functions, hooks, and types, and see usage examples for fetching chain properties and listening for the `connect` event. The `sub-api` package is an integral part of KodaDot's developer toolbox and should simplify the task of connecting to and interacting with multiple parachains.
+      content: The `sub-api` is a powerful utility developed by KodaDot for managing connections with multiple parachains in a network.... Learn more.
 ---
 
 # Sub API

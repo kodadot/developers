@@ -3,7 +3,7 @@ title: How to start contributing?
 head:
   - - meta
     - name: description
-      content: A comprehensive guide for contributing to KodaDot. Learn about reasons to contribute, the process of issue handling, effective communication, contributor rewards, leaderboard, KodaDot's burn rate, hiring, contribution tracker, other types of contributions, and Meta-Hours.
+      content: A comprehensive guide for contributing to KodaDot.
 ---
 
 

@@ -3,7 +3,7 @@ title: Maintaining Effective Communication as a Developer at KodaDot
 head:
   - - meta
     - name: description
-      content: Learn about maintaining effective communication as a developer at KodaDot, exploring topics like communication channels, community calls, peer connections, active engagement, reviewing pull requests, and self-learning for technical growth.
+      content: Learn about maintaining effective communication as a developer at KodaDot.
 ---
 
 

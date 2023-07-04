@@ -3,7 +3,7 @@ title: KodaDot Contributor Rewards Breakdown
 head:
   - - meta
     - name: description
-      content: Detailed breakdown of individual contributions and rewards in KodaDot. Get insights into dev names, total amount received, amount per merged PR, total open PRs, merged PRs, closed PRs, lines added to lines removed, commits merged, total - comments, comments per PR, resolved issues to # of open PR, last transaction, and more.
+      content: Detailed breakdown of individual contributions and rewards in KodaDot.
 ---
 
 # KodaDot Leaderboard

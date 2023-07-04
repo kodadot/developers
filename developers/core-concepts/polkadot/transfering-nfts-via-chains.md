@@ -3,7 +3,7 @@ title: Transferring NFTs via Chains on Polkadot and Kusama
 head:
   - - meta
     - name: description
-      content: Learn about the Polkadot multichain v3 standard and bridging efforts to transfer NFTs between Substrate chains and EVM chains. Discover the RMRK and Efinity projects, as well as MyNFT and the RMRK <-> EVM Simplification bridge, which enable seamless teleportation and porting of NFTs. Explore the XCM v3 advancements, including cross-chain NFT functionality, asset exchanges, and improved programmability features, that enable teleporting assets such as NFTs. If you want to create a NFT bridging functionality, get in touch with us for sponsorship opportunities.
+      content: Learn about the Polkadot multichain v3 standard and bridging efforts to transfer NFTs between Substrate chains and EVM chains.
 ---
 
 # Can you transfer your NFT from one chain to another?

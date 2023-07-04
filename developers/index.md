@@ -34,6 +34,6 @@ features:
 head:
   - - meta
     - name: description
-      content: Kodadot is a Polkadot NFT Marketplace
+      content: Are you interested in creating a dApp for Polkadot or Kusama? How about in understanding more about the world of different NFT standards? Check out KodaDot's developer documentation to learn more!
 
 ---

@@ -3,7 +3,7 @@ title: Polysearch
 head:
   - - meta
     - name: description
-      content: Polysearch is a tool for searching collections and NFTs across KodaDot. It is written in alha D1 Cloudflare Workers, making it a serverless, distributed solution. The API provides a `/search` endpoint that supports both GET and POST requests. The tool allows searching for collections and items, with options for specifying the search table, search query, chain, limit, and offset. To start using Polysearch, install wrangler and its dependencies, initialize the database, and run the local server. The worker will run at http://localhost:8787/.
+      content: Polysearch is a tool for searching collections and NFTs across KodaDot. Learn more.
 ---
 
 

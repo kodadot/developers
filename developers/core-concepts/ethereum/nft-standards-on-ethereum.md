@@ -3,7 +3,7 @@ title: NFT Standards on Ethereum
 head:
   - - meta
     - name: description
-      content: Ethereum has various NFT standards that provide guidelines for creating interchangeable tokens on the platform. Notable standards include ERC-721, ERC-1155, ERC-998, and ERC-6551.
+      content: Ethereum has various NFT standards. Notable standards include ERC-721, ERC-1155, ERC-998, and ERC-6551.
 ---
 
 

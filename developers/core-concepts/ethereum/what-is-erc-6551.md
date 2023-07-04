@@ -3,7 +3,7 @@ title: Understanding ERC-6551 Token Standard
 head:
   - - meta
     - name: description
-      content: ERC-6551 is a new token standard for non-fungible tokens (NFTs) that enhances the functionality and value of NFTs by granting them smart contract capabilities. Learn about its workings, potential use cases, and challenges, including improved composability, identity, provenance, and dependency. 
+      content: ERC-6551 is a new token standard for non-fungible tokens (NFTs) that enhances the functionality... Click to learn more.
 ---
 
 # ERC-6551: A New NFT Token Standard

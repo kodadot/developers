@@ -3,7 +3,7 @@ title: Rewards and Contributions
 head:
   - - meta
     - name: description
-      content: Learn about the rewards and contributions system in KodaDot, including creating your DOT address, sharing your address for rewards, switching networks, checking DOT balance, and selecting issues for contribution.
+      content: Learn about the rewards and contributions system in KodaDot.
 ---
 
 

@@ -3,7 +3,7 @@ title: First time contribution
 head:
   - - meta
     - name: description
-      content: A comprehensive guide for setting up KodaDot for development. This covers prerequisites, setting up the server, using Docker, handling common development issues, making on-chain transactions, testing, and running local nodes.
+      content: A comprehensive guide for setting up KodaDot for development.
 ---
 
 

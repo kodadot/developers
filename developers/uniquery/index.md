@@ -3,7 +3,7 @@ title: Uniquery
 head:
   - - meta
     - name: description
-      content: Uniquery is a GraphQL query builder for KodaDot, designed to simplify the process of building GraphQL queries for the KodaDot API. With Uniquery, developers can easily construct queries to retrieve collections, items, and events from the KodaDot indexer. The tool provides a set of exported functions that generate the corresponding GraphQL queries based on the desired parameters. Uniquery also offers a REST implementation for querying the indexer via RESTful routes. To get started with Uniquery, simply add it to your project using npm, yarn, or pnpm, import the necessary functions, and begin building your queries. The tool aims to make working with the KodaDot API more accessible and efficient for developers.
+      content: Uniquery is a GraphQL query builder for KodaDot, designed to simplify the process of building GraphQL queries for the KodaDot API. Learn more.
 ---
 
 

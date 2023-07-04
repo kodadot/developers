@@ -3,7 +3,7 @@ title: Kodadot Workers
 head:
   - - meta
     - name: description
-      content: kodadot workers
+      content: KodaDot workers... 
 ---
 
 # Workers 

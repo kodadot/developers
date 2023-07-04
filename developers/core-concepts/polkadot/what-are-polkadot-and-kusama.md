@@ -3,7 +3,7 @@ title: Introduction to Polkadot and Kusama
 head:
   - - meta
     - name: description
-      content: Polkadot and Kusama are multi-chain platforms that allow diverse blockchains to interoperate in a scalable, efficient, and secure environment. Learn about the key concepts within the Polkadot and Kusama networks, including the Relay Chain, Parachains, Parathreads, Bridges, and Substrate. Discover how KodaDot utilizes both Polkadot and Kusama networks to offer a versatile NFT marketplace. Explore the specifics of Polkadot NFTs, NFT transfers between different chains, and how KodaDot utilizes Substrate and parachains in its ecosystem. This introduction provides a good starting point for developers building on the KodaDot platform.
+      content: Polkadot and Kusama are multi-chain platforms that allow diverse blockchains to interoperate in a scalable, efficient, and secure environment. Learn more.
 ---
 
 # Introduction to Polkadot and Kusama
