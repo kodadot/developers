@@ -31,10 +31,11 @@ export default defineConfig({
   },
   
   lastUpdated: true,
-  title: "KodaDot developers",
-  description: "One Stop Shop for Polkadot NFTs",
+  title: "KodaDot Docs",
+  description: "Polkdot NFT Marketplace",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: '/favicon.ico',
     search: {
       provider: 'local'
     },

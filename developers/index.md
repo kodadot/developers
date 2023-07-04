@@ -5,7 +5,10 @@ layout: home
 hero:
   name: "KodaDot "
   text: "developers guide"
-  tagline: Open Source Multichain NFT Marketplace
+  tagline: An Open Source Polkadot NFT Marketplace
+  image:  
+    src: /devs-cover.png
+    alt: SubWork web3 jungle
   actions:
     - theme: brand
       text: Get Started
@@ -28,5 +31,11 @@ features:
     details: Ultimate super charged search to search multi-chain NFT marketplaces
     link: /polysearch/index
 
+head:
+  - - meta
+    - name: description
+      content: Kodadot is a nuber 1 Polkadot NFT Marketplace that aims to be the best ...
+  - - meta
+    - name: keywords
+      content: Polkadot NFT Marketplace, NFTs, KodaDot, alha D1 Cloudflare Workers, serverless, distributed, API, GET request, POST request, search endpoint, search table, search query, chain, limit, offset, install wrangler, dependencies, initialize database, local server, worker, localhost:8787
 ---
-
