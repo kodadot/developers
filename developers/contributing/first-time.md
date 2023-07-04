@@ -6,7 +6,7 @@ head:
       content: A comprehensive guide for setting up KodaDot for development. This covers prerequisites, setting up the server, using Docker, handling common development issues, making on-chain transactions, testing, and running local nodes.
   - - meta
     - name: keywords
-      content: KodaDot, development guide, pnpm workspace, local server setup, Docker, GraphQL, RPC node, on-chain transactions, Polkadot, Kusama, Subquery, linting, changelog
+      content: KodaDot, development guide, pnpm workspace, local server setup, Docker, GraphQL, RPC node, on-chain transactions, Polkadot, Kusama, SubSquid, linting, changelog
 ---
 
 
@@ -198,7 +198,7 @@ You can change the network in the navbar.
 Currently supported networks are `Basilisk`, `Basilisk-Rococo` and `Kusama`.
 EVM chains such as `MoonBeam` and `MoonRiver` are in read-only mode.
 
-## Running local Polkadot and subquery nodes
+## Running local Polkadot and SubSquid nodes
 
 To run the complete local environment, we recommend running a [polkadot/Kusama node](https://github.com/paritytech/polkadot).
 In case you are using Apple M1, we have a [tutorial for that 🍏 ](https://vikiival.medium.com/run-substrate-on-apple-m1-a2699743fae8)
