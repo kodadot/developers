@@ -34,8 +34,6 @@ features:
 head:
   - - meta
     - name: description
-      content: Kodadot is a nuber 1 Polkadot NFT Marketplace that aims to be the best ...
-  - - meta
-    - name: keywords
-      content: Polkadot NFT Marketplace, NFTs, KodaDot, alha D1 Cloudflare Workers, serverless, distributed, API, GET request, POST request, search endpoint, search table, search query, chain, limit, offset, install wrangler, dependencies, initialize database, local server, worker, localhost:8787
+      content: Kodadot is a Polkadot NFT Marketplace
+
 ---

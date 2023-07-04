@@ -4,9 +4,6 @@ head:
   - - meta
     - name: description
       content: KodaDot is a dynamic platform that offers a vast array of NFT infrastructure tools. This article provides a comprehensive introduction to KodaDot and its ecosystem, including its mission, vision, and team. It also highlights the various NFT infrastructure tools offered by KodaDot, such as Uniquery, Sub-Api, PolySearch, Fandom, Indexers, Workers, and Minting - MiniMark. Additionally, the article provides information on upcoming features, such as Notifications, Webhooks, Mailing, and Custodial Wallets. Finally, the article emphasizes the importance of community and collaboration, and provides information on how to join the KodaDot Developers channel at Telegram. 
-  - - meta
-    - name: keywords
-      content: KodaDot, NFT, infrastructure, tools, Uniquery, Sub-Api, PolySearch, Fandom, Indexers, Workers, Minting - MiniMark, Notifications, Webhooks, Mailing, Custodial Wallets, community, collaboration, Telegram, mission, vision, team, ecosystem, development, blockchain, cross-chain, search platform, marketplace, background processing, minting tool
 ---
 
 # Welcome to KodaDot

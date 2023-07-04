@@ -4,9 +4,6 @@ head:
   - - meta
     - name: description
       content: The Polkadot and Kusama ecosystems offer a diverse range of NFT standards and projects that provide exciting opportunities for developers and users alike. Kodadot, an open-source multichain NFT marketplace, has integrated with various NFT standards across multiple chains within these ecosystems, creating a dynamic environment for NFT creation, trading, and exploration. Learn about the different NFT standards and projects on Polkadot and Kusama, including Basilisk, RMRK, Statemint, Astar, Efinity, Moonbeam, and Unique Network, and how Kodadot has implemented nine NFT standards across six chains.
-  - - meta
-    - name: keywords
-      content: NFT, standards, Polkadot, Kusama, ecosystems, developers, users, Kodadot, multichain, marketplace, Basilisk, RMRK, Statemint, Astar, Efinity, Moonbeam, Unique Network, implementation, chains, creation, trading, exploration
 ---
 
 # **NFT Standards on Polkadot and Kusama**

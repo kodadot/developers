@@ -4,9 +4,6 @@ head:
   - - meta
     - name: description
       content: Fandom is a Deno-based app, built with Fresh and powered by Uniquery, showcasing KodaDot's GraphQL API for querying data from the blockchain. The app uses Uniquery to fetch NFTs from the blockchain through the SubSquid indexer. It can be deployed to the edge using Deno Deploy. To develop the app locally, clone the repository and set up the necessary environment variables. Then, start the project in local mode. To deploy the app globally, sign in to dash.deno.com, create a new project, and link it to your cloned repository version. Make sure to include the CHAIN variable in the environment settings.
-  - - meta
-    - name: keywords
-      content: Fandom, Deno, Fresh, Uniquery, KodaDot, GraphQL API, blockchain, NFTs, SubSquid indexer, Deno Deploy, develop locally, deploy globally, repository, environment variables, CHAIN variable, clone, start project, sign in, dash.deno.com, link project
 ---
 
 

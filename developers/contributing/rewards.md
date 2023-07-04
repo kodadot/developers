@@ -4,9 +4,6 @@ head:
   - - meta
     - name: description
       content: Learn about the rewards and contributions system in KodaDot, including creating your DOT address, sharing your address for rewards, switching networks, checking DOT balance, and selecting issues for contribution.
-  - - meta
-    - name: keywords
-      content: KodaDot, rewards, contributions, Polkadot, DOT address, Polkadot.js wallet, KodaDot Transfer, Polkadot network, Subscan, bounties, GitHub issues
 ---
 
 

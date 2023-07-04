@@ -4,9 +4,6 @@ head:
   - - meta
     - name: description
       content: kodadot workers
-  - - meta
-    - name: keywords
-      content: workers
 ---
 
 # Workers 

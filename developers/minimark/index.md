@@ -4,9 +4,6 @@ head:
   - - meta
     - name: description
       content: Minimark
-  - - meta
-    - name: keywords
-      content: Minimark
 ---
 
 # Minimark

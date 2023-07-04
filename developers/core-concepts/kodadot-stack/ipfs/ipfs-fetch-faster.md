@@ -4,9 +4,6 @@ head:
   - - meta
     - name: description
       content: KodaDot is a robust NFT platform that leverages both decentralized and centralized technologies to optimize user experience and ensure data persistence. Learn how KodaDot enhances the speed of fetching data from the InterPlanetary File System (IPFS) using Cloudflare Images and a backup IPFS gateway, and how this innovative approach balances the principles of decentralization with the need for efficient data delivery.
-  - - meta
-    - name: keywords
-      content: KodaDot, IPFS, Cloudflare Images, backup IPFS gateway, NFT, decentralized, centralized, data storage, data persistence, image management, image delivery, user experience, hybrid approach, bandwidth usage, resilient, efficient system
 ---
 
 # Accelerating IPFS Data Fetching in KodaDot

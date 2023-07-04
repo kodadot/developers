@@ -4,9 +4,6 @@ head:
   - - meta
     - name: description
       content: A multichain NFT marketplace like Kodadot is a digital platform that allows users to create, buy, sell, and trade Non-Fungible Tokens (NFTs) across multiple different blockchain networks. This article explains what a multichain NFT marketplace is, why it is important, and how it works. It also highlights the advantages of a multichain approach, such as wider access and more diversity for users, and the ability to mitigate some of the challenges associated with operating on a single blockchain. Kodadot operates across 6 chains and has implemented 9 NFT standards, allowing users to trade NFTs from different ecosystems. The article explains how a multichain NFT marketplace like Kodadot is built to interact with the APIs and smart contracts of various blockchains, and how it indexes and displays NFT data on the user interface. It also explains how transactions are initiated and completed through the appropriate blockchain, and how transaction fees are paid in the native cryptocurrency of that chain.
-  - - meta
-    - name: keywords
-      content: Kodadot, multichain, NFTs, Non-Fungible Tokens, blockchain, digital platform, trading, Polkadot, Kusama, interoperability, diversity, creators, audience, smart contracts, APIs, transaction fees, cryptocurrency, ecosystem, indexing, user interface, buy, sell, transfer, ownership, metadata, standards, minting, transaction, network congestion, high transaction fees, reliance, health, performance, communities, artists, creators, digital assets, trading, evolution
 ---
 
 # Multichain NFT Marketplace
