@@ -195,7 +195,7 @@ You can change the network in the navbar.
 Currently supported networks are `Basilisk`, `Basilisk-Rococo` and `Kusama`.
 EVM chains such as `MoonBeam` and `MoonRiver` are in read-only mode.
 
-## Running local Polkadot and subquery nodes
+## Running local Polkadot and SubSquid nodes
 
 To run the complete local environment, we recommend running a [polkadot/Kusama node](https://github.com/paritytech/polkadot).
 In case you are using Apple M1, we have a [tutorial for that 🍏 ](https://vikiival.medium.com/run-substrate-on-apple-m1-a2699743fae8)
