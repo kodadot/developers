@@ -3,10 +3,7 @@ title: KodaDot Burn Rate Table
 head:
   - - meta
     - name: description
-      content: A comprehensive burn rate table for KodaDot. The table includes details on the number of paid PRs, total expenses, number of contributors, and expense per PR over several months.
-  - - meta
-    - name: keywords
-      content: KodaDot, open-source, contribution, GitHub, issues, communication, rewards, leaderboard, burn rate, hiring, tracker, Meta-Hours
+      content: Are you interested in KodaDot's NFT Marketplace Burn Rate Data? Explore our transparency and growth journey now.
 ---
 
 # KodaDot Burn Rate Table

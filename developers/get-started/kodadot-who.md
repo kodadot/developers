@@ -3,10 +3,7 @@ title: What is Kodadot?
 head:
   - - meta
     - name: description
-      content: KodaDot is an open-source Non-Fungible Token (NFT) marketplace that has successfully implemented 9 NFT standards across 6 different blockchain networks. This article provides an overview of KodaDot, including its mission, vision, and team. It also highlights the power of open-source collaboration and the innovative spirit at the heart of the project. Additionally, the article emphasizes the importance of being part of the KodaDot community and offers an extensive resource of tools and implementations that have been tried and tested in real-world applications.
-  - - meta
-    - name: keywords
-      content: KodaDot, NFT, marketplace, open-source, blockchain, Polkadot, XCMv3, EIP-6551, Ethereum Virtual Machine, collaboration, innovation, community, tools, implementations, real-world applications, mission, vision, team, future
+      content: KodaDot is an open-source Non-Fungible Token (NFT) marketplace that has successfully implemented 9 NFT standards across 6 different blockchain networks. Learn more.
 ---
 
 # KodaDot: Spearheading the Future of NFTs

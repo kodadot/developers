@@ -3,10 +3,7 @@ title: Minimark
 head:
   - - meta
     - name: description
-      content: Minimark
-  - - meta
-    - name: keywords
-      content: Minimark
+      content: Minimark is a minimal implementation of rmrk-utils. Learn more.
 ---
 
 # Minimark

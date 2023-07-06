@@ -33,6 +33,32 @@ export default defineConfig({
   lastUpdated: true,
   title: "KodaDot Docs",
   description: "Polkdot NFT Marketplace",
+  head: [
+    [
+      'meta',
+      { property: 'og:type', content: 'website'}
+    ],
+    [
+      'meta',
+      { property: 'og:title', content: 'KodaDot developers guide - An Open Source Polkadot NFT Marketplace'}
+    ],
+    [
+      'meta',
+      { property: 'og:image', content: 'https://developers.kodadot.xyz/developers-cover.png'}
+    ],
+    [
+      'meta',
+      { property: 'og:description', content: 'Developer documentation for the Open Source Polkadot NFT Marketplace - KodaDot'}
+    ],
+    [
+      'meta',
+      { property: 'og:url', content: 'https://developers.kodadot.xyz/'}
+    ],
+    [
+      'meta',
+      { name: 'twitter:card', content: 'summary_large_image'}
+    ]
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/favicon.ico',

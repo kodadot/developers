@@ -3,10 +3,7 @@ title: First time contribution
 head:
   - - meta
     - name: description
-      content: A comprehensive guide for setting up KodaDot for development. This covers prerequisites, setting up the server, using Docker, handling common development issues, making on-chain transactions, testing, and running local nodes.
-  - - meta
-    - name: keywords
-      content: KodaDot, development guide, pnpm workspace, local server setup, Docker, GraphQL, RPC node, on-chain transactions, Polkadot, Kusama, SubSquid, linting, changelog
+      content: A comprehensive guide for setting up KodaDot for development.
 ---
 
 

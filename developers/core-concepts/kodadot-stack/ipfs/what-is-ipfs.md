@@ -3,10 +3,7 @@ title: Introduction to IPFS for Developers
 head:
   - - meta
     - name: description
-      content: IPFS, short for InterPlanetary File System, is a decentralized peer-to-peer protocol designed to facilitate the distribution and storage of content on the internet. Learn about the key concepts of IPFS, including content-addressable data, decentralized file systems, content availability, and data deduplication, and how IPFS can enhance your applications as a developer. Discover how IPFS can be used for distributed storage, content addressing, resilient and efficient data sharing, web development, and blockchain integration, and how to get started with IPFS as a developer.
-  - - meta
-    - name: keywords
-      content: IPFS, InterPlanetary File System, decentralized, peer-to-peer, protocol, distribution, storage, content-addressable, data, decentralized file systems, Merkle DAG, content availability, data deduplication, distributed storage, content addressing, resilient, efficient data sharing, web development, blockchain integration, SDK, API, JavaScript, libraries, frameworks, IPFS.js, IPFS gateways
+      content: What is IPFS? Learn to read more.
 ---
 
 # **Introduction to IPFS for Developers**

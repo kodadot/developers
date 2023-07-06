@@ -3,10 +3,7 @@ title: Substrate, Parachains, and the Sub-API
 head:
   - - meta
     - name: description
-      content: Substrate is a modular blockchain framework that allows developers to build their own specialized blockchains. Parachains are individual blockchains that run in parallel within the larger Polkadot network. The `sub-api` package simplifies the process of managing connections to multiple parachains. Learn about the key features of the `sub-api` package, including the `ApiFactory` and `InstaApi` classes, helper functions, hooks, and types. See a simple example of how to use `sub-api` to connect to a parachain. The `sub-api` package is a powerful tool in the developer's toolbox for building applications on Polkadot, Kusama, and other Substrate-based blockchains.
-  - - meta
-    - name: keywords
-      content: Substrate, Parachains, Sub-API, modular blockchain framework, specialized blockchains, Polkadot network, Cross-Chain Message Passing, interchain functionality, `sub-api` package, `ApiFactory`, `InstaApi`, helper functions, hooks, types, developer's toolbox, Polkadot, Kusama, Substrate-based blockchains
+      content: Introduction to Substrate, Parachains and the Sub-API... Learn more.
 ---
 
 # Substrate, Parachains, and the Sub-API

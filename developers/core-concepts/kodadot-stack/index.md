@@ -3,10 +3,7 @@ title: Understanding the KodaDot Tech Stack
 head:
   - - meta
     - name: description
-      content: KodaDot relies on a range of application frameworks and technologies to keep our platform operational. This document provides a high-level overview of the key elements of our tech stack, designed to help developers new to the project familiarize themselves with our infrastructure. Learn about the frontend framework NuxtJS, the indexer SubSquid, serverless functions, infrastructure providers like Netlify and Cloudflare Pages, data storage using IPFS and nft.storage, and specific packages in the KodaDot ecosystem like vuex-options and sub-api. For more detailed information, reference the original KodaDot Frontier article and join the Discord community for additional help.
-  - - meta
-    - name: keywords
-      content: KodaDot, tech stack, application frameworks, NuxtJS, VueJS, SPA, statically generated, server-side rendered, lifecycle hooks, community modules, SubSquid, blockchain data, RMRK implementation, serverless functions, API endpoints, Netlify, Cloudflare Pages, infrastructure costs, IPFS, nft.storage, vuex-options, sub-api, developer efficiency, Substrate API, KodaDot Frontier article, Discord community
+      content: Everything you need to know about the KodaDot stack.
 ---
 
 # Understanding the KodaDot Tech Stack

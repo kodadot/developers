@@ -3,10 +3,7 @@ title: Grasping the Core Concepts of KodaDot
 head:
   - - meta
     - name: description
-      content: At the heart of the KodaDot platform lies a variety of core concepts. Understanding these components is crucial for navigating our ecosystem and utilizing its full potential. This introduction provides an overview of the core components you should become familiar with, including NFTs, the multichain NFT marketplace, IPFS, workers, Polkadot and Kusama, substrate and parachains, and indexers. Explore these topics in the order that suits you best to gain a more comprehensive perspective on the KodaDot platform.
-  - - meta
-    - name: keywords
-      content: KodaDot, core concepts, NFTs, multichain NFT marketplace, IPFS, workers, Polkadot, Kusama, substrate, parachains, indexers, blockchain, ecosystem, digital assets, NFT transfers, Sub-API, interactions, resources, developers, journey
+      content: At the heart of the KodaDot platform lies a variety of core concepts. Learn more...
 ---
 
 # Grasping the Core Concepts
