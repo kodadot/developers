@@ -16,7 +16,7 @@ Ethereum's flexible smart contract functionality has allowed for the creation of
 ERC-721 was the first standard for representing non-fungible digital assets on the Ethereum blockchain. Each ERC-721 token is unique and can represent ownership over an asset, both digital (like a CryptoKitty) and physical (like a deed to a house). The metadata associated with each token, including the asset's name, description, and any other specific attributes, are stored on the blockchain, providing proof of ownership and provenance.
 
 For more details, see the [ERC-721 standard on the Ethereum Improvement Proposals website](https://eips.ethereum.org/EIPS/eip-721).
-Check out [what is ERC-721](/core-concepts/ethereum/what-is-erc-721) for more information.
+Check out [what is ERC-721](/ethereum/what-is-erc-721) for more information.
 
 ### ERC-1155
 
@@ -34,6 +34,6 @@ You can read more on the [ERC-998 standard proposal](https://eips.ethereum.org/E
 
 ERC-6551, a newer proposal, introduces the concept of nested NFTs. This standard allows for an NFT to contain other NFTs within it, opening up new possibilities for complex, layered digital assets. It's currently in draft status.
 
-Check out the [what is ERC-6551](/core-concepts/ethereum/what-is-erc-6551) for more information.
+Check out the [what is ERC-6551](/ethereum/what-is-erc-6551) for more information.
 
 These are just a few examples of the different standards available on Ethereum for creating and managing NFTs. Developers are continuously proposing new standards to address the evolving needs and use cases of the NFT community.
