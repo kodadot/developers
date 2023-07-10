@@ -42,10 +42,10 @@ export default defineConfig({
       'meta',
       { property: 'og:title', content: 'How to create and buy NFTs' }
     ],
-    // [
-    //   'meta',
-    //   { property: 'og:image', content: 'https://developers.kodadot.xyz/developers-cover.png' }
-    // ],
+    [
+      'meta',
+      { property: 'og:image', content: 'https://howtonft.guide/howtonft_waifu.jpg' }
+    ],
     [
       'meta',
       { property: 'og:description', content: 'Comprehensive guide to understand NFT ecosystem' }
