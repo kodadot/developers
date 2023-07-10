@@ -5,21 +5,21 @@ layout: home
 hero:
   name: "How To NFT Guide"
   text: "A comprehensive guide into world of NFTs"
-  tagline: My great project tagline
+  tagline: How to setup NFT collection in few easy steps
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: Launch collection
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: How to buy NFTs
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Launch successfull collection
+    details: Want to learn how to grow your NFT community from day zero?
+  - title: How to make on trading NFTs
+    details: We will share tips with you how to invest in right collections
+  - title: How to engage with NFT audience
+    details: Do you want to grow your NFT community?
 ---
 
