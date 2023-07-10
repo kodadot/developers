@@ -78,7 +78,7 @@ export default defineConfig({
     sidebar: [
       {
         text: 'How to Create NFTs',
-        link: '/how-to-create-nfts.md',
+        link: '/how-to-create-nfts',
         collapsed: false,
         // items: [
         //   { text: '❓ What Is Kodadot', link: '/get-started/kodadot-who' },
@@ -88,13 +88,24 @@ export default defineConfig({
       },
       {
         text: 'How to Buy NFTs',
-        link: '/how-to-buy-nfts.md',
+        link: '/how-to-buy-nfts',
         collapsed: false,
         // items: [
         //   { text: '❓ What Is Kodadot', link: '/get-started/kodadot-who' },
         //   { text: '📚 Before You Get Started', link: '/get-started/before-you-get-started' },
         //   { text: '🌐 Learn More about KodaDot', link: 'https://hello.kodadot.xyz' },
         // ],
+      },
+      {
+        text: 'NFT standards',
+        link: '/ethereum/nft-standards-on-ethereum',
+        collapsed: false,
+        items: [
+          { text: 'what is ethereum', link: '/ethereum/what-is-ethereum'},
+          { text: 'what is erc 721', link: '/ethereum/what-is-erc-721' },
+          { text: 'what is erc 6551', link: '/ethereum/what-is-erc-6551' },
+          { text: 'learn More about KodaDot', link: 'https://hello.kodadot.xyz' },
+        ],
       },
     ],
 

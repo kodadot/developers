@@ -16,6 +16,10 @@ hero:
     - theme: alt
       text: Reveleable NFTs
       link: /reveleable-unlockable-nfts
+    - theme: alt
+      text: Token Bound Accounts ERC-6551 
+      link: /ethereum/what-is-erc-6551
+
 
 features:
   - title: Launch successfull collection
