@@ -9,10 +9,13 @@ hero:
   actions:
     - theme: brand
       text: Launch collection
-      link: /markdown-examples
+      link: /how-to-create-nfts
     - theme: alt
       text: How to buy NFTs
-      link: /api-examples
+      link: /how-to-buy-nfts
+    - theme: alt
+      text: Reveleable NFTs
+      link: /reveleable-unlockable-nfts
 
 features:
   - title: Launch successfull collection
