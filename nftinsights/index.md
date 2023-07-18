@@ -3,23 +3,29 @@
 layout: home
 
 hero:
-  name: "NFT insights by KodaDot"
-  text: "NFT insights on Polkadot NFTs"
-  tagline: My great project tagline
+  name: "NFT insights on Polkadot NFTs"
+  text: "NFT insights crafted by KodaDot"
+  tagline: We help you to orient in world of non-fungible tokens
   actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Kusama relay chain (RMRK2)
+      link: /kusama-relay-chain-rmrk2-nfts
+    - theme: alt
+      text: Kusama Assets Hub (Statemine) 
+      link: /kusama-assets-hub
+    - theme: alt
+      text: Basilisk 
+      link: /basilisk-nfts
+    - theme: alt
+      text: Data Dump
+      link: /nft-data
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: What's TVL on Polkadot NFTs?
+    details: We will help you to discover where value of NFTs is
+  - title: Who got most unique owners?
+    details: Which chains is most popular among owners?
+  - title: Where to build?
+    details: We wil show you where to build your next NFT project
 ---
 

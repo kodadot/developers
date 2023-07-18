@@ -1,0 +1,32 @@
+{
+  "ksm": {
+    "unique": 32529,
+    "total": 2847,
+    "tvl": 34176,
+    "median": 0.4325,
+    "flips": 27688,
+    "sales": 37438,
+    "items": "661 108",
+    "top": 193.72
+  },
+  "statemine": {
+    "unique": 60044,
+    "total": 105,
+    "tvl": 245.44,
+    "median": 0.772,
+    "flips": 184,
+    "sales": 246.36,
+    "items": "60 532",
+    "top": 3.86
+  },
+  "bsx": {
+    "unique": 537,
+    "total": 130,
+    "tvl": 46.33,
+    "median": 0.425,
+    "flips": 86,
+    "sales": 51.25,
+    "items": "2 706",
+    "top": 4
+  }
+}

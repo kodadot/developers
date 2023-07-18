@@ -31,8 +31,8 @@ export default defineConfig({
   },
   
   lastUpdated: true,
-  title: "KodaDot Docs",
-  description: "Polkdot NFT Marketplace",
+  title: "KodaDot Developer Documentation",
+  description: "Polkadot NFT Marketplace",
   head: [
     [
       'meta',
@@ -66,7 +66,7 @@ export default defineConfig({
       provider: 'local'
     },
     editLink: {
-      pattern: 'https://github.com/kodadot/docs/edit/main/developers/:path'
+      pattern: 'https://github.com/kodadot/developers/edit/main/developers/:path'
     },
     footer: {
       message: 'VitePress generated at SubWork, some pictures from KodaDot',
@@ -197,7 +197,7 @@ export default defineConfig({
     
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/kodadot/docs' },
+      { icon: 'github', link: 'https://github.com/kodadot/developers' },
       { icon: 'twitter', link: 'https://twitter.com/kodadot' },
       {
         icon: {
