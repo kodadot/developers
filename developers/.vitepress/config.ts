@@ -31,7 +31,7 @@ export default defineConfig({
   },
   
   lastUpdated: true,
-  title: "KodaDot Developer Documentation",
+  title: "KodaDot Developer Doc",
   description: "Polkadot NFT Marketplace",
   head: [
     [
