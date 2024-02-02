@@ -15,7 +15,7 @@ Our premium partner providing us current SubSquid for bleeding cutting edge magi
 
 List of Indexers we are using to power KodaDot:
 ---
-- [Statemine](https://github.com/kodadot/stick)
+- [AssetHub (DOT/KSM)](https://github.com/kodadot/stick)
 - [RMRKv1+RMRKv2](https://github.com/kodadot/rubick)
 - [Basilisk](https://github.com/kodadot/snek)
 - [Moonbeam](https://github.com/kodadot/click)
