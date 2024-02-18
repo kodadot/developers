@@ -114,6 +114,7 @@ export default defineConfig({
                 items: [
                   { text: '❓ What is an Indexer', link: '/core-concepts/kodadot-stack/indexer/what-is-an-indexer' },
                   { text: '🔧 KodaDot Indexers', link: '/core-concepts/kodadot-stack/indexer/kodadot-indexers' },
+                  { text: '🖼️ Retrieve NFT Data', link: '/core-concepts/kodadot-stack/indexer/retrieve-nft-data' },
                 ],
               },
             ],
